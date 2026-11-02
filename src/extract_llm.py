@@ -5,6 +5,7 @@ answer. The model's raw answer is post-processed: numbers in words are converted
 snapped to the menu and prices always come from the menu (the model never invents prices).
 """
 import difflib
+import gc
 import json
 import re
 
@@ -92,6 +93,7 @@ def _load():
 
 def unload() -> None:
     _LLM.clear()
+    gc.collect()  # HF models hold reference cycles: without this the VRAM is not returned
     torch.cuda.empty_cache()
 
 
