@@ -1,0 +1,24 @@
+A: Buenas tardes, gracias por venir. Siéntate, por favor.
+B: Buenas tardes, gracias.
+A: Empecemos con algo práctico: tu nivel de inglés, porque es uno de los requisitos del puesto.
+B: Ah, bueno, para ser sincera, mi inglés es básico. Entiendo algunas cosas escritas, como correos cortos, pero no lo hablo.
+A: Está bien, lo tomamos en cuenta, no es eliminatorio. ¿Cuánto tiempo llevas en contabilidad?
+B: Casi tres años, no, en realidad son dos años y medio, porque el primer año fueron prácticas y esas no las cuento.
+A: Entiendo. ¿Dónde trabajas actualmente?
+B: Mi último puesto es asistente contable en un estudio que lleva la contabilidad de pequeñas empresas. Tenemos como veinte clientes, la mayoría restaurantes y bodegas.
+A: ¿Qué tareas haces ahí?
+B: Registro las facturas de compras y ventas, preparo las declaraciones mensuales y concilio las cuentas bancarias. A fin de mes también ayudo con el cierre.
+A: ¿Qué programas manejas?
+B: Uso Excel todos los días, también el sistema Concar, y el último año aprendí a usar SAP porque uno de los clientes más grandes lo pedía.
+A: ¿Cómo aprendiste SAP?
+B: Llevé un curso virtual los fines de semana, y lo demás lo aprendí practicando con los reportes del cliente.
+A: Muy bien. ¿Alguna vez cometiste un error importante? ¿Cómo lo manejaste?
+B: Sí, una vez registré una factura dos veces y la declaración salió mal. Lo detecté en la conciliación, avisé a mi jefa y presentamos la rectificación el mismo día.
+A: Eso habla bien de ti. ¿Por qué te interesa este puesto?
+B: Porque aquí la empresa es más grande y podría aprender procesos de cierre más completos, con más control.
+A: ¿Cuál sería tu expectativa salarial?
+B: Estaba pensando en tres mil doscientos soles.
+A: De acuerdo. ¿Y desde cuándo estarías disponible?
+B: Tendría que terminar el cierre de este mes, así que podría empezar a inicios del próximo mes.
+A: Perfecto, muchas gracias. Te escribimos con los siguientes pasos.
+B: Gracias a ustedes, que estén bien.

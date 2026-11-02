@@ -1,0 +1,23 @@
+A: Hola, ¿qué tal? Bienvenido, gracias por tu tiempo.
+B: Hola, gracias a ustedes por la invitación.
+A: Mira, te cuento que tenemos algo de urgencia con este puesto, porque el proyecto arranca pronto. ¿Tú cuándo podrías incorporarte?
+B: Ah, en eso no hay problema. Terminé mi último contrato hace unas semanas, así que puedo empezar de inmediato.
+A: Excelente. Entonces cuéntame de tu experiencia.
+B: Bueno, trabajé tres años en una fintech, haciendo la parte de pagos, y luego cuatro años en una empresa de logística. En total son siete años como desarrollador.
+A: ¿Y en la empresa de logística qué hacías?
+B: Mi último puesto fue desarrollador backend senior. Me encargaba de los servicios que calculaban las rutas de reparto de los camiones, y también revisaba el código de los chicos más nuevos.
+A: ¿Con qué tecnologías trabajaste?
+B: Sobre todo Java con Spring Boot. Para desplegar usábamos Docker y Kubernetes, y la base de datos era PostgreSQL.
+A: ¿Algún problema técnico difícil que hayas resuelto?
+B: Sí, teníamos un servicio que se caía en las campañas de fin de año, cuando los pedidos se triplicaban. Lo partimos en servicios más pequeños y pusimos colas de mensajes en el medio. Desde ahí aguantó sin problemas, incluso en el Cyber Day.
+A: Interesante. ¿Trabajaste con equipos de otros países?
+B: Sí, la mitad del equipo estaba en México y otra parte en Estados Unidos, así que todas las reuniones eran en inglés. Mi nivel es avanzado.
+A: Perfecto. ¿Cómo te organizas cuando hay muchas tareas a la vez?
+B: Priorizo con el líder del producto. Lo que bloquea a otros va primero, y lo demás lo planificamos en el sprint.
+A: Buena respuesta. Hablemos de números. ¿Cuánto esperas ganar?
+B: Mmm, depende de los beneficios, pero pensaba en un rango entre nueve y diez mil. Si tengo que darte un número exacto, diría nueve mil ochocientos soles.
+A: Está dentro de lo que manejamos. ¿Alguna pregunta para nosotros?
+B: Sí, ¿el trabajo es remoto o presencial?
+A: Híbrido: dos días a la semana en la oficina.
+B: Perfecto, me parece bien.
+A: Genial, gracias por tu tiempo. Te escribimos pronto.

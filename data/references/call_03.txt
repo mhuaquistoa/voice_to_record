@@ -1,0 +1,22 @@
+A: tres pizzeria la buena masa le saluda andrea que desea
+B: hola andrea queria saber que promociones tienen hoy
+A: hoy es martes asi que la segunda pizza esta a la mitad de precio
+B: ah que bien entonces quiero dos pizzas hawaianas medianas
+A: la hawaiana mediana esta a treinta y cuatro soles y la segunda le sale a la mitad de precio
+B: perfecto tienen postres
+A: si tenemos un brownie de diez soles viene tibio y con un poco de fudge
+B: suena bien dos brownies por favor
+A: anotado dos hawaianas medianas y dos brownies alguna bebida
+B: no gracias tengo en casa
+A: muy bien cual es la direccion de la entrega
+B: calle los pinos doscientos setenta y ocho en miraflores
+A: calle los pinos doscientos setenta y ocho algun dato de referencia
+B: es una casa blanca con porton negro frente a un parque
+A: perfecto como desea pagar
+B: con tarjeta por favor por favor que lleven el pos
+A: claro el repartidor lleva el pos su total seria setenta y seis soles
+B: ok perfecto en cuanto tiempo llega
+A: en unos treinta y cinco minutos
+B: genial muchas gracias
+A: gracias a usted que tenga buena noche
+B: igualmente chao

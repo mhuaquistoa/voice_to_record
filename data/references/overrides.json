@@ -1,0 +1,22 @@
+{
+  "_note": "Manual fixes applied after the two-model draft. Each one was checked against a third transcriber (NotebookLM) and the earlier whisper-small pass; 'source' says how it was decided.",
+  "call_01": [
+    {"line": 15, "text": "A: le repito avenida arequipa mil cuatrocientos cincuenta departamento trescientos seis alguna referencia", "source": "large-v3, large-v3-turbo and small hear 306 (NotebookLM: 3007); the seller misread the address"}
+  ],
+  "call_02": [
+    {"line": 16, "text": "B: jiron junin trescientos cuarenta y cinco en el cercado es una quinta hay que tocar el timbre del fondo", "source": "both models write the homophone 'Girón'; the street type is 'jirón'"},
+    {"line": 17, "text": "A: ok jiron junin trescientos cuarenta y cinco timbre del fondo forma de pago", "source": "same homophone fix"}
+  ],
+  "call_04": [
+    {"line": 3, "text": "A: la pepperoni familiar esta cuarenta y nueve y la americana familiar cuarenta y cinco la pepperoni familiar cuarenta y cinco llevando dos familiares tiene el costo familiar tiene el combo familiar quince soles de descuento", "source": "all four transcribers hear the seller repeat 'pepperoni familiar 45' (a slip; the menu price is 49)"},
+    {"line": 13, "text": "A: le repito avenida la marina dos mil ochenta y cinco torre b departamento mil cuatrocientos cuatro", "source": "large-v3-turbo and NotebookLM hear 1404 (large-v3: 1401, small: 1040); nobody hears 1104, so the seller misread it. The customer's 1104 (line 12) is kept: large-v3 hears exactly 1104, the others disagree with each other"}
+  ],
+  "call_05": [
+    {"line": 19, "text": "A: perfecto y como va a ser el pago", "source": "large-v3, large-v3-turbo, small and NotebookLM agree"},
+    {"line": 20, "text": "B: con yape por favor", "source": "no transcriber hears 'Yape' (they write 'oye' or nothing); kept from the script"},
+    {"line": 21, "text": "A: muy bien el total es de ochenta y cinco ochenta y ocho soles", "source": "large-v3, small and NotebookLM hear '85, 88': the seller self-corrects to 88"}
+  ],
+  "interview_03": [
+    {"line": 20, "text": "B: estaba pensando en tres mil trescientos soles", "source": "large-v3, large-v3-turbo and NotebookLM hear 3300 (script said 3200)"}
+  ]
+}

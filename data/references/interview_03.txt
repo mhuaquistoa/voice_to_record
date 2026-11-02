@@ -1,0 +1,24 @@
+A: buenas tardes gracias por venir sientate por favor
+B: buenas tardes gracias
+A: empecemos con algo practico tu nivel de ingles porque es un de los requisitos del puesto
+B: ah bueno para ser sincera mi ingles es basico entiendo algunas cosas escritas como correos cortos pero no lo hablo
+A: esta bien lo tomamos en cuenta no es eliminatorio cuanto tiempo llevas en contabilidad
+B: casi tres años no en realidad son dos años y medio porque el primer año fueron practicas y esas no las conto
+A: entiendo donde trabajas actualmente
+B: mi ultimo puesto es asistente contable en un estudio que lleva la contabilidad de pequeñas empresas tenemos como veinte clientes la mayoria de restaurantes y bodegas
+A: y que te haces ahi
+B: registro las facturas de compras y ventas preparo las declaraciones mensuales y concilio las cuentas bancarias a fin de mes tambien ayudo con el cierre
+A: que programas manejas
+B: uso excel todos los dias tambien en el sistema concar y el ultimo año aprendi a usar sap porque un de los clientes mas grandes le pedia
+A: y como aprendiste sap
+B: lleve un curso virtual los fines de semana y lo demas lo aprendi practicando con los reportes del cliente
+A: muy bien alguna vez cometiste un error importante y como lo manejaste
+B: si una vez registre una factura dos veces y la declaracion salio mal lo detecte en la conciliacion lo hice mi jefa y presentamos la rectificacion el mismo dia
+A: eso habla bien de ti por que te interesa este puesto
+B: porque aqui la empresa es mas grande y podria aprender procesos de cierre mas completos con mas control
+A: cual es tu expectativa salarial
+B: estaba pensando en tres mil trescientos soles
+A: de acuerdo y desde cuando estarias disponible
+B: tendria que terminar el cierre de este mes asi que podriamos empezar a iniciar el proximo mes
+A: perfecto muchas gracias te escribimos con los siguientes pasos
+B: gracias a ustedes que esten bien

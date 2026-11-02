@@ -1,0 +1,23 @@
+A: La Buena Masa, buenas tardes. ¿En qué le ayudo?
+B: Hola, quiero hacer un pedido para delivery, por favor.
+A: Claro, dígame.
+B: Una pizza pepperoni familiar y un pan al ajo.
+A: La pepperoni familiar está a cuarenta y nueve soles y el pan al ajo a doce soles.
+B: Mmm, ¿sabes qué? Cambia el pan al ajo por unas alitas. ¿Cómo vienen las alitas?
+A: Vienen de seis unidades, con salsa barbecue o picante.
+B: Barbecue, por favor. Las de seis unidades.
+A: Listo, quito el pan al ajo y le pongo alitas de seis unidades, a veinticuatro soles.
+B: Y dos gaseosas de litro y medio.
+A: Dos gaseosas a nueve soles cada una. Una pregunta, ¿es su primera compra con nosotros?
+B: Sí, es la primera vez que pido. Me recomendó una amiga.
+A: Qué bueno. Entonces tiene la promoción de primera compra: diez soles de descuento.
+B: Buenísimo.
+A: ¿A qué dirección lo enviamos?
+B: Jirón Junín trescientos cuarenta y cinco, en el Cercado. Es una quinta, hay que tocar el timbre del fondo.
+A: Jirón Junín trescientos cuarenta y cinco, timbre del fondo. ¿Forma de pago?
+B: En efectivo. Voy a pagar con un billete de cien.
+A: Perfecto, el motorizado lleva el vuelto. El total es ochenta y un soles.
+B: Perfecto. ¿Cuánto se demora?
+A: Unos cuarenta y cinco minutos.
+B: Ok, gracias.
+A: A usted, que disfrute su pedido.

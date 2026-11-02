@@ -1,0 +1,11 @@
+clip_id,task,script,original_file,duration_s,codec,sample_rate,channels,recorded_on,device,synthetic
+interview_01,interview,E1,Calle Hatuey.m4a.mp4,149.3,aac,48000,2,2026-11-01,iPhone Voice Memos,False
+interview_02,interview,E2,Calle Hatuey 2.m4a.mp4,154.9,aac,48000,2,2026-11-01,iPhone Voice Memos,False
+interview_03,interview,E3,Calle Hatuey 5.m4a.mp4,133.6,aac,48000,2,2026-11-01,iPhone Voice Memos,False
+interview_04,interview,E4,Calle Hatuey 8.m4a.mp4,141.5,aac,48000,2,2026-11-01,iPhone Voice Memos,False
+interview_05,interview,E5,Calle Hatuey 9.m4a.mp4,165.8,aac,48000,2,2026-11-01,iPhone Voice Memos,False
+call_01,call,L1,Calle Hatuey 3.m4a.mp4,113.0,aac,48000,2,2026-11-01,iPhone Voice Memos,False
+call_02,call,L2,Calle Hatuey 4.m4a.mp4,98.4,aac,48000,2,2026-11-01,iPhone Voice Memos,False
+call_03,call,L3,Calle Hatuey 6.m4a.mp4,107.4,aac,48000,2,2026-11-01,iPhone Voice Memos,False
+call_04,call,L4,Calle Hatuey 7.m4a.mp4,106.9,aac,48000,2,2026-11-01,iPhone Voice Memos,False
+call_05,call,L5,Calle Hatuey 10.m4a.mp4,106.6,aac,48000,2,2026-11-01,iPhone Voice Memos,False
