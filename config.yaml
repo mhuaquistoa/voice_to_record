@@ -1,0 +1,33 @@
+# Every tunable setting lives here; code reads it, nothing is hard-coded.
+paths:
+  audio: data/audio
+  manifest: data/manifest.csv
+  references: data/references
+  ground_truth: data/ground_truth
+  output: output
+
+asr:
+  model: large-v3          # tiny | base | small | medium | large-v3 | large-v3-turbo
+  device: cuda             # cuda | cpu (the engine reports the device actually used)
+  compute_type: float16    # float16 | int8_float16 | int8
+  language: es
+  beam_size: 5
+  use_glossary: true
+
+glossary:
+  interview: [Python, SQL, Power BI, Java, Spring Boot, Docker, Kubernetes, PostgreSQL, Excel, Concar, SAP, Figma, React, TypeScript, UX, AWS, Airflow, Spark, dbt]
+  call: [La Buena Masa, pepperoni, hawaiana, americana, pan al ajo, alitas, brownie, gaseosa, Yape, Plin, POS, delivery]
+
+extraction:
+  method: llm              # regex | llm
+  llm_model: Qwen/Qwen2.5-7B-Instruct   # loaded 4-bit on GPU; Qwen/Qwen2.5-3B-Instruct is the lighter option
+  reference_date: "2026-11-01"   # anchor for relative availability ("en dos semanas")
+
+degradation:
+  levels: [L0, L1, L2, L3]
+  l1_bitrate: 16k          # WhatsApp-like mono low bitrate
+  l2_band_hz: [300, 3400]  # telephone band
+  l2_sample_rate: 8000
+  l3_snr_db: 10
+
+seed: 42

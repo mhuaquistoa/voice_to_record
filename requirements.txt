@@ -1,0 +1,15 @@
+# torch with CUDA: install first from https://pytorch.org (tested: torch 2.11 + cu128, RTX 5050)
+faster-whisper>=1.2
+transformers>=4.50
+accelerate
+num2words
+jiwer
+pyyaml
+python-dotenv
+soundfile
+scipy
+pandas
+matplotlib
+tabulate
+streamlit
+pytest

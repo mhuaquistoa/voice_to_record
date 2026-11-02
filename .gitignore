@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+models/
+output/cache/
+# original voice memos are kept locally; data/audio holds the renamed copies
+Calle Hatuey*.m4a.mp4
+data/degraded/
+.pytest_cache/
