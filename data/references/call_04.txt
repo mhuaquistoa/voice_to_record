@@ -1,0 +1,21 @@
+A: la buena masa buenas noches que le provoco hoy
+B: hola buenas es para una reunion de cumpleaños quiero una pepperoni familiar y una americana familiar
+A: la pepperoni familiar esta cuarenta y nueve y la americana familiar cuarenta y cinco la pepperoni familiar cuarenta y cinco llevando dos familiares tiene el costo familiar tiene el combo familiar quince soles de descuento
+B: ah perfecto y una gaseosa de litro y medio
+A: una gaseosa a nueve soles algo mas
+B: las pizzas pueden venir cortadas en cuadraditos es que hay niños
+A: si claro se las mandamos cortadas en cuadrados
+B: genial ah y no sabes que somos bastantes mejor que sean tres gaseosas
+A: corrijo entonces tres gaseosas de litro y medio a nueve soles cada una
+B: si eso
+A: ok a que direccion lo enviamos
+B: avenida la marina dos mil ochenta y cinco torre b departamento mil ciento cuatro
+A: le repito avenida la marina dos mil ochenta y cinco torre b departamento mil cuatrocientos cuatro
+B: correcto en la entrada hay que dejar el dni con el portero
+A: perfecto el motorizado estara avisado como paga
+B: con plin
+A: muy bien el total es de ciento dieciseis soles
+B: ok listo cuanto demora
+A: unos cincuenta minutos porque es hora punta y hay bastantes pedidos
+B: esta bien no hay problema gracias
+A: es usted buenas noches y feliz cumpleaños gracias

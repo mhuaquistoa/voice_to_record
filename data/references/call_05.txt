@@ -1,0 +1,25 @@
+A: pizzeria la buena masa buenas noches le atiende diego
+B: hola diego buenas noches queria hacer un pedido para delivery
+A: claro que le gustaria
+B: una americana familiar y una hawaiana mediana
+A: la americana familiar esta a cuarenta y cinco soles y la hawaiana mediana a treinta y cuatro esta semana llevando dos pizzas le regalamos un pan al ajo
+B: ah buenisimo si incluyelo y las alitas cuanto estan las alitas
+A: de seis unidades estan veinticuatro soles
+B: no mejor no ya es bastante pero agregame dos brownies
+A: dos brownies a diez soles cada un alguna bebida
+B: una gaseosa de litro y medio
+A: ok una gaseosa de nueve soles
+B: oye sabes que quitame los brownies mejor mi hermana trajo torta y no vamos a acabar todo
+A: no hay problema retiro los brownies queda una americana familiar una hawaiana mediana la gaseosa y el pan al ajo de regalo
+B: exacto
+A: ok a que direccion le enviamos
+B: a urbanizacion santa rosa manzana b lote doce en los olivos
+A: ok le repito urbanizacion santa rosa manzana b lote doce alguna referencia
+B: es una casa de dos pisos con rejas verdes a media cuadra del mercado
+A: perfecto y como va a ser el pago
+B: con yape por favor
+A: muy bien el total es de ochenta y cinco ochenta y ocho soles
+B: perfecto mas o menos cuanto se demora
+A: unos cuarenta y cinco minutos
+B: listo muchas gracias
+A: gracias a usted buen provecho

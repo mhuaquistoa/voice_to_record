@@ -1,0 +1,81 @@
+{
+  "_note": "Gold record per interview. Relative availability is resolved against the recording date 2026-11-01. interview_03 salary is 3300: the speaker said 'tres mil trescientos' (script: 3200).",
+  "interview_01": {
+    "anios_experiencia": 4.5,
+    "ultimo_puesto": "Analista de datos junior",
+    "tecnologias": [
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "pretension_salarial": 6500,
+    "disponibilidad": {
+      "texto": "en dos semanas",
+      "fecha": "2026-11-15"
+    },
+    "nivel_ingles": "intermedio"
+  },
+  "interview_02": {
+    "anios_experiencia": 7,
+    "ultimo_puesto": "Desarrollador backend senior",
+    "tecnologias": [
+      "Java",
+      "Spring Boot",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL"
+    ],
+    "pretension_salarial": 9800,
+    "disponibilidad": {
+      "texto": "de inmediato",
+      "fecha": "2026-11-01"
+    },
+    "nivel_ingles": "avanzado"
+  },
+  "interview_03": {
+    "anios_experiencia": 2.5,
+    "ultimo_puesto": "Asistente contable",
+    "tecnologias": [
+      "Excel",
+      "Concar",
+      "SAP"
+    ],
+    "pretension_salarial": 3300,
+    "disponibilidad": {
+      "texto": "a inicios del próximo mes",
+      "fecha": "2026-12-01"
+    },
+    "nivel_ingles": "basico"
+  },
+  "interview_04": {
+    "anios_experiencia": 10,
+    "ultimo_puesto": "Líder de diseño UX",
+    "tecnologias": [
+      "Figma",
+      "React",
+      "TypeScript"
+    ],
+    "pretension_salarial": 12000,
+    "disponibilidad": {
+      "texto": "en un mes",
+      "fecha": "2026-12-01"
+    },
+    "nivel_ingles": "avanzado"
+  },
+  "interview_05": {
+    "anios_experiencia": 6,
+    "ultimo_puesto": "Ingeniera de datos",
+    "tecnologias": [
+      "AWS",
+      "Airflow",
+      "Spark",
+      "dbt"
+    ],
+    "pretension_salarial": 8200,
+    "disponibilidad": {
+      "texto": "a partir del 15 de enero",
+      "fecha": "2027-01-15"
+    },
+    "nivel_ingles": "avanzado"
+  }
+}

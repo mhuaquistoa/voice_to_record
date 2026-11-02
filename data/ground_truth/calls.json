@@ -1,0 +1,161 @@
+{
+  "_note": "Gold order per call. total_real = sum(cantidad * precio_unitario) - descuento. total_dicho is what the seller said.",
+  "_menu": {
+    "americana mediana": 32,
+    "americana familiar": 45,
+    "pepperoni familiar": 49,
+    "hawaiana mediana": 34,
+    "gaseosa 1.5 L": 9,
+    "pan al ajo": 12,
+    "alitas x6": 24,
+    "brownie": 10
+  },
+  "call_01": {
+    "items": [
+      {
+        "producto": "americana mediana",
+        "cantidad": 1,
+        "precio_unitario": 32
+      },
+      {
+        "producto": "americana familiar",
+        "cantidad": 1,
+        "precio_unitario": 45
+      },
+      {
+        "producto": "gaseosa 1.5 L",
+        "cantidad": 1,
+        "precio_unitario": 9
+      }
+    ],
+    "promocion": {
+      "descripcion": "delivery gratis",
+      "descuento": 0
+    },
+    "direccion_entrega": "Av. Arequipa 1450, dpto. 302",
+    "metodo_pago": "yape",
+    "total_dicho": 82,
+    "total_real": 86,
+    "total_correcto": false,
+    "tiene_correccion": true,
+    "nota": "Seller repeats the address as dpto. 306; the customer said 302 and did not correct him. Gold keeps the customer's 302."
+  },
+  "call_02": {
+    "items": [
+      {
+        "producto": "pepperoni familiar",
+        "cantidad": 1,
+        "precio_unitario": 49
+      },
+      {
+        "producto": "alitas x6",
+        "cantidad": 1,
+        "precio_unitario": 24
+      },
+      {
+        "producto": "gaseosa 1.5 L",
+        "cantidad": 2,
+        "precio_unitario": 9
+      }
+    ],
+    "promocion": {
+      "descripcion": "primera compra",
+      "descuento": 10
+    },
+    "direccion_entrega": "Jr. Junín 345, Cercado",
+    "metodo_pago": "efectivo",
+    "total_dicho": 81,
+    "total_real": 81,
+    "total_correcto": true,
+    "tiene_correccion": true
+  },
+  "call_03": {
+    "items": [
+      {
+        "producto": "hawaiana mediana",
+        "cantidad": 2,
+        "precio_unitario": 34
+      },
+      {
+        "producto": "brownie",
+        "cantidad": 2,
+        "precio_unitario": 10
+      }
+    ],
+    "promocion": {
+      "descripcion": "segunda pizza a mitad de precio",
+      "descuento": 17
+    },
+    "direccion_entrega": "Calle Los Pinos 278, Miraflores",
+    "metodo_pago": "tarjeta",
+    "total_dicho": 76,
+    "total_real": 71,
+    "total_correcto": false,
+    "tiene_correccion": false
+  },
+  "call_04": {
+    "items": [
+      {
+        "producto": "pepperoni familiar",
+        "cantidad": 1,
+        "precio_unitario": 49
+      },
+      {
+        "producto": "americana familiar",
+        "cantidad": 1,
+        "precio_unitario": 45
+      },
+      {
+        "producto": "gaseosa 1.5 L",
+        "cantidad": 3,
+        "precio_unitario": 9
+      }
+    ],
+    "promocion": {
+      "descripcion": "combo familiar",
+      "descuento": 15
+    },
+    "direccion_entrega": "Av. La Marina 2085, torre B, dpto. 1104",
+    "metodo_pago": "plin",
+    "total_dicho": 116,
+    "total_real": 106,
+    "total_correcto": false,
+    "tiene_correccion": true,
+    "nota": "Seller slips 'pepperoni familiar 45' right after saying 49; the menu price 49 is gold. Seller also repeats the address as dpto. 1404; the customer said 1104 and did not correct him. Gold keeps 1104."
+  },
+  "call_05": {
+    "items": [
+      {
+        "producto": "americana familiar",
+        "cantidad": 1,
+        "precio_unitario": 45
+      },
+      {
+        "producto": "hawaiana mediana",
+        "cantidad": 1,
+        "precio_unitario": 34
+      },
+      {
+        "producto": "gaseosa 1.5 L",
+        "cantidad": 1,
+        "precio_unitario": 9
+      },
+      {
+        "producto": "pan al ajo",
+        "cantidad": 1,
+        "precio_unitario": 12
+      }
+    ],
+    "promocion": {
+      "descripcion": "pan al ajo de regalo por dos pizzas",
+      "descuento": 12
+    },
+    "direccion_entrega": "Urb. Santa Rosa Mz. B Lt. 12, Los Olivos",
+    "metodo_pago": "yape",
+    "total_dicho": 88,
+    "total_real": 88,
+    "total_correcto": true,
+    "tiene_correccion": true,
+    "nota": "Seller says 'ochenta y cinco... ochenta y ocho': self-correction, the final 88 is the spoken total."
+  }
+}

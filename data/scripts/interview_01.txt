@@ -1,0 +1,22 @@
+A: Buenos días, gracias por conectarte. ¿Me escuchas bien?
+B: Sí, perfecto, buenos días. Gracias por la oportunidad.
+A: Un gusto. Mira, la entrevista va a durar unos minutos. Antes de empezar, para no olvidarlo: ¿cuál es tu expectativa salarial?
+B: Eh, bueno, estuve revisando cuánto se paga en el mercado para puestos parecidos, y estoy buscando alrededor de seis mil quinientos soles mensuales.
+A: Perfecto, lo anoto. Ahora sí, cuéntame un poco de tu trayectoria.
+B: Claro. Estudié estadística en la universidad y empecé haciendo prácticas en un banco, en el área de riesgos. Al terminar las prácticas me contrataron, y desde ahí no he parado. Ya llevo cuatro años y medio trabajando con datos.
+A: ¿Y dónde estás trabajando ahora?
+B: Mi último puesto es analista de datos junior en una empresa de retail. Somos un equipo pequeño, de tres personas, y vemos sobre todo los reportes de ventas y de inventario de todas las tiendas.
+A: ¿Qué herramientas usas en el día a día?
+B: Principalmente Python para limpiar y cruzar datos, SQL para sacar la información de la base de datos, y Power BI para armar los tableros que ven los gerentes.
+A: ¿Me podrías contar un proyecto del que te sientas orgulloso?
+B: Sí. Armé un tablero que mostraba qué tiendas se iban a quedar sin stock antes del fin de semana. Antes eso se revisaba a mano, tienda por tienda. Con el tablero los encargados podían pedir mercadería a tiempo, y redujimos los quiebres de stock como en un veinte por ciento.
+A: Muy bien. ¿Y qué fue lo más difícil de ese proyecto?
+B: Convencer a la gente de usarlo, la verdad. Al principio nadie lo abría, así que tuve que ir a explicarlo en las reuniones semanales.
+A: Entiendo. ¿Y por qué quieres cambiar de trabajo?
+B: Siento que ya aprendí lo que podía ahí. Quiero trabajar en algo más analítico, con modelos predictivos, y no solo hacer reportes.
+A: Si todo sale bien, ¿cuándo podrías empezar con nosotros?
+B: Tendría que avisar en mi trabajo actual y dejar todo ordenado, así que podría empezar en dos semanas.
+A: Perfecto. Una última cosa: ¿cómo está tu inglés?
+B: Diría que intermedio. Leo documentación técnica sin problema, pero hablando todavía me falta práctica.
+A: Muy bien, eso es todo por hoy. Te contactamos esta semana con la respuesta.
+B: Muchas gracias, que tengas buen día.

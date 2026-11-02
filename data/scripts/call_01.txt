@@ -1,0 +1,22 @@
+A: Pizzería La Buena Masa, buenas noches, le habla Carlos. ¿Qué le gustaría pedir?
+B: Hola, buenas noches. ¿Todavía están atendiendo delivery?
+A: Sí, claro, atendemos hasta las once.
+B: Perfecto. Quería dos pizzas americanas medianas.
+A: Muy bien, la americana mediana está a treinta y dos soles cada una. ¿Algo más?
+B: Sí, una gaseosa de litro y medio.
+A: La gaseosa está a nueve soles. ¿La quiere helada?
+B: Sí, helada por favor. Ah, espera, espera. Mejor que una de las pizzas sea familiar, porque somos más de lo que pensaba. O sea, una americana mediana y una americana familiar.
+A: Ok, entonces queda una americana mediana a treinta y dos y una americana familiar a cuarenta y cinco soles, más la gaseosa.
+B: Exacto. ¿Hay alguna promoción hoy?
+A: Hoy el delivery es gratis, no se cobra el envío.
+B: Genial. ¿Cuánto se demora más o menos?
+A: Unos cuarenta minutos, depende del tráfico. ¿A qué dirección lo enviamos?
+B: Avenida Arequipa mil cuatrocientos cincuenta, departamento trescientos dos.
+A: Le repito: avenida Arequipa mil cuatrocientos cincuenta, departamento trescientos dos. ¿Alguna referencia?
+B: Es un edificio gris, al costado de una farmacia.
+A: Perfecto. ¿Y cómo va a pagar?
+B: Con Yape.
+A: Muy bien, le paso el número cuando llegue el motorizado. Entonces serían ochenta y dos soles en total.
+B: Ok, listo.
+A: Su pedido ya está en preparación. Gracias por llamar a La Buena Masa.
+B: Gracias a ti, hasta luego.

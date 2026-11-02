@@ -1,0 +1,23 @@
+A: la buena masa buenas tardes en que le ayudo
+B: hola quiero hacer un pedido para delivery por favor
+A: claro digame
+B: una pizza pepperoni familiar y un pan al ajo
+A: la pepperoni familiar esta a cuarenta y nueve soles el pan al ajo es a doce soles
+B: sabes que sabes que cambia el pan al ajo por unas alitas como vienen las alitas
+A: vienen de seis unidades con salsa barbecue y picante
+B: barbecue por favor las de seis unidades
+A: listo quito el pan al ajo y le pongo alitas de seis unidades a veinticuatro soles
+B: y dos gaseosas de litro y medio
+A: dos gaseosas a nueve soles cada una una pregunta es su primera compra con nosotros
+B: si es la primera vez que pido me recomendo una amiga
+A: que bueno entonces tiene la promocion de primera compra diez soles de descuento
+B: buenisimo
+A: a que direccion enviamos
+B: jiron junin trescientos cuarenta y cinco en el cercado es una quinta hay que tocar el timbre del fondo
+A: ok jiron junin trescientos cuarenta y cinco timbre del fondo forma de pago
+B: en efectivo voy a pagar con un billete de cien
+A: perfecto el motorizado lleva el vuelto el total es ochenta y un soles
+B: perfecto cuanto se demora
+A: unos cuarenta y cinco minutos
+B: ok gracias
+A: a usted que disfrute su pedido

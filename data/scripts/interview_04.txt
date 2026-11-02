@@ -1,0 +1,23 @@
+A: Hola, gracias por aceptar la entrevista. Para empezar, ¿me podrías resumir tu perfil?
+B: Claro. Soy diseñador y tengo diez años de experiencia. Empecé haciendo páginas web para pequeños negocios y después me especialicé en experiencia de usuario. Actualmente, bueno, mi último puesto es líder de diseño UX en una startup de educación.
+A: ¿Cuántas personas tienes a cargo?
+B: Un equipo de cuatro diseñadores. Dos se encargan de la app móvil y dos de la plataforma web.
+A: ¿Qué herramientas usan?
+B: Para diseñar usamos Figma. Y como también hago prototipos con código, trabajo con React y TypeScript. Eso me ayuda mucho a hablar el mismo idioma que los desarrolladores.
+A: ¿Cómo mides si un diseño funcionó?
+B: Con pruebas de usuario y con métricas. Por ejemplo, rediseñamos el registro de alumnos, que tenía muchos pasos, y la tasa de abandono bajó casi a la mitad.
+A: ¿Y cuando no estás de acuerdo con un gerente sobre un diseño?
+B: Trato de no discutir con opiniones. Propongo probar las dos versiones con usuarios reales y que los datos decidan.
+A: Muy bien. El puesto requiere presentar a clientes de afuera. ¿Cómo te sientes con el inglés?
+B: Bien. Tengo un inglés avanzado. He presentado en dos conferencias internacionales.
+A: Excelente. ¿Qué te motiva de esta posición?
+B: Me interesa que el producto lo usen miles de personas y que el equipo de diseño todavía se esté formando. Me gusta construir equipos.
+A: Perfecto. Y en cuanto a lo económico, ¿qué tienes en mente?
+B: Hoy gano un poco menos, pero por la responsabilidad del puesto estoy buscando doce mil soles.
+A: Entendido. ¿Y cuándo podrías empezar?
+B: Mi contrato me pide dar un mes de preaviso, así que podría empezar en un mes.
+A: Perfecto, eso nos acomoda. ¿Tienes alguna pregunta?
+B: Sí, ¿el equipo de diseño ya existe o habría que armarlo desde cero?
+A: Hay dos personas, y la idea es crecer a cinco este año.
+B: Genial, me interesa mucho.
+A: Muchas gracias, estamos en contacto.

@@ -1,0 +1,26 @@
+A: hola buenos dias gracias por conectarte antes de empezar me escuchas bien
+B: si todo bien buenos dias
+A: perfecto te cuento el equipo de datos es de quince personas y estamos buscando a alguien con experiencia para liderar la parte de ingesta cuentame de ti
+B: claro claro claro empece a trabajar en datos en dos mil veinte asi que tengo seis años de experiencia primero estuve en una aseguradora como analista y despues me pase a ingenieria
+A: y cual es tu puesto actual
+B: mi ultimo puesto es de ingenieria de datos en una empresa de telecomunicaciones me encargo de que la informacion de los clientes llegue limpia y a tiempo al area de analitica
+A: dale y con que herramientas trabajas
+B: todo esta en la nube en aws para orquestar los procesos usamos airflow para procesar volumenes grandes usamos spark y las transformaciones las hacemos con dbt
+A: bueno pero que volumen de datos manejan
+B: procesamos alrededor de dos millones de registros al dia entre llamadas recargas y pagos
+A: impresionante algun problema que hayas resuelto y te enorgullezca
+B: si el proceso nocturno demoraba seis horas y a veces no terminaba antes de que llegara la gente la gente de la oficina lo reescribi para que solo procese lo nuevo de cada dia y ahora termina en cuarenta minutos
+A: muy bien y bueno este puesto implica reuniones con el equipo regional que esta en chile y en estados unidos y como esta tu ingles
+B: bien tengo un nivel avanzado y el año pasado saque la certificacion c1
+A: excelente hablemos del economico cuanto ganas actualmente
+B: actualmente gano siete mil soles
+A: y cual es tu expectativa para este puesto
+B: nuevo como el puesto tiene mas responsabilidad estoy buscando ocho mil doscientos soles
+A: entendido desde cuando podrias empezar
+B: mira me comprometi a terminar una migracion que tenemos en curso asi que podria empezar a partir del quince de enero
+A: perfecto eso cansa con nuestros planes tienes alguna otra pregunta
+B: si el equipo trabajo con alguna metodologia agil
+A: si si trabajamos con sprints de dos semanas
+B: genial asi trabajo ahora tambien
+A: muchas gracias por tu tiempo te escribimos para la proxima semana
+B: gracias a ti hasta luego

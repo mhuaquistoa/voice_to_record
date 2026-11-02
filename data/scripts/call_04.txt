@@ -1,0 +1,21 @@
+A: La Buena Masa, buenas noches. ¿Qué le provoca hoy?
+B: Hola, buenas. Es para una reunión de cumpleaños. Quiero una pepperoni familiar y una americana familiar.
+A: La pepperoni familiar es cuarenta y nueve y la americana familiar cuarenta y cinco soles. Llevando dos familiares tiene el combo familiar: quince soles de descuento.
+B: Ah, perfecto. Y una gaseosa de litro y medio.
+A: Una gaseosa a nueve soles. ¿Algo más?
+B: ¿Las pizzas pueden venir cortadas en cuadraditos? Es que hay niños.
+A: Sí, claro, se las mandamos cortadas en cuadrados.
+B: Genial. Ah, y no, sabes qué, somos bastantes. Mejor que sean tres gaseosas.
+A: Corrijo entonces: tres gaseosas de litro y medio, a nueve soles cada una.
+B: Sí, eso.
+A: ¿A qué dirección lo enviamos?
+B: Avenida La Marina dos mil ochenta y cinco, torre B, departamento mil ciento cuatro.
+A: Le repito: avenida La Marina dos mil ochenta y cinco, torre B, departamento mil ciento cuatro.
+B: Correcto. En la entrada hay que dejar el DNI con el portero.
+A: Perfecto, el motorizado está avisado. ¿Cómo paga?
+B: Con Plin.
+A: Muy bien. El total es de ciento dieciséis soles.
+B: Ok, listo. ¿Cuánto demora?
+A: Unos cincuenta minutos, porque es hora punta y hay bastantes pedidos.
+B: Está bien, no hay problema. Gracias.
+A: Gracias a usted, buenas noches y feliz cumpleaños.
