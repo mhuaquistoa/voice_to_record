@@ -3,6 +3,7 @@
 The device is read back at runtime: if CUDA was requested but fails, the run falls back to CPU and
 says so in the result instead of pretending it ran on the GPU.
 """
+import gc
 import threading
 import time
 
@@ -39,12 +40,15 @@ def get_model(name: str, device: str, compute_type: str):
         model = WhisperModel(name, device=device, compute_type=compute_type, cpu_threads=8)
     info = {"load_seconds": round(time.perf_counter() - t0, 2),
             "vram_model_mb": round((free0 - _free_vram()) / 2**20) if device == "cuda" else 0}
-    _MODELS[key] = (model, device, compute_type, info)
-    return _MODELS[key]
+    loaded = (model, device, compute_type, info)
+    if device == key[1]:  # never cache a CPU fallback as the GPU model: the next call retries the GPU
+        _MODELS[key] = loaded
+    return loaded
 
 
 def unload_all() -> None:
     _MODELS.clear()
+    gc.collect()
     torch.cuda.empty_cache()
 
 
