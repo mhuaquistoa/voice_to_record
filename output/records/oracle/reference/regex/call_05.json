@@ -1,0 +1,95 @@
+{
+ "task": "call",
+ "method": "regex",
+ "transcript": "pizzeria la buena masa buenas noches le atiende diego hola diego buenas noches queria hacer un pedido para delivery claro que le gustaria una americana familiar y una hawaiana mediana la americana familiar esta a cuarenta y cinco soles y la hawaiana mediana a treinta y cuatro esta semana llevando dos pizzas le regalamos un pan al ajo ah buenisimo si incluyelo y las alitas cuanto estan las alitas de seis unidades estan veinticuatro soles no mejor no ya es bastante pero agregame dos brownies dos brownies a diez soles cada un alguna bebida una gaseosa de litro y medio ok una gaseosa de nueve soles oye sabes que quitame los brownies mejor mi hermana trajo torta y no vamos a acabar todo no hay problema retiro los brownies queda una americana familiar una hawaiana mediana la gaseosa y el pan al ajo de regalo exacto ok a que direccion le enviamos a urbanizacion santa rosa manzana b lote doce en los olivos ok le repito urbanizacion santa rosa manzana b lote doce alguna referencia es una casa de dos pisos con rejas verdes a media cuadra del mercado perfecto y como va a ser el pago con yape por favor muy bien el total es de ochenta y cinco ochenta y ocho soles perfecto mas o menos cuanto se demora unos cuarenta y cinco minutos listo muchas gracias gracias a usted buen provecho",
+ "fields": {
+  "items": [
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "hawaiana mediana",
+    "cantidad": 1,
+    "precio_unitario": 34
+   },
+   {
+    "producto": "pan al ajo",
+    "cantidad": 1,
+    "precio_unitario": 12
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 1,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "pan al ajo de regalo",
+   "descuento": 12
+  },
+  "direccion_entrega": "urbanizacion santa rosa manzana b lote doce en los olivos",
+  "metodo_pago": "yape",
+  "total_dicho": 88
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "hawaiana mediana",
+    "cantidad": 1,
+    "precio_unitario": 34
+   },
+   {
+    "producto": "pan al ajo",
+    "cantidad": 1,
+    "precio_unitario": 12
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 1,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "pan al ajo de regalo",
+   "descuento": 12
+  },
+  "direccion_entrega": "urbanizacion santa rosa manzana b lote doce en los olivos",
+  "metodo_pago": "yape",
+  "total_dicho": 88
+ },
+ "validation": {
+  "subtotal": 100,
+  "descuento": 12,
+  "total_calculado": 88,
+  "total_dicho": 88,
+  "confianza_total_asr": null,
+  "precios_distintos_al_menu": [],
+  "estado": "cuadra",
+  "diagnostico": null,
+  "motivo": "La suma coincide con el total dicho."
+ },
+ "device": "n/a",
+ "elapsed": {
+  "asr": 0,
+  "extraction": 0.0,
+  "total": 0.0
+ },
+ "error": null,
+ "asr": {
+  "model": "reference",
+  "compute_type": null,
+  "glossary": null,
+  "audio_seconds": null,
+  "rtf": null,
+  "vram_model_mb": 0,
+  "vram_peak_extra_mb": 0,
+  "gpu_name": null
+ }
+}

@@ -1,0 +1,67 @@
+method,nivel,clip_id,estado,diagnostico,total_dicho,total_calculado,confianza_total_asr
+llm-3b,L0,call_01,no_cuadra,error_hablante,82,77.0,0.952
+llm-3b,L0,call_02,no_cuadra,error_hablante,81,63.0,0.657
+llm-3b,L0,call_03,no_cuadra,error_hablante,76,78.0,0.966
+llm-3b,L0,call_04,no_cuadra,error_hablante,116,106.0,0.99
+llm-3b,L0,call_05,no_cuadra,error_hablante,88,81.0,0.843
+llm-3b,L1,call_01,no_cuadra,error_hablante,82,86.0,0.994
+llm-3b,L1,call_02,no_cuadra,error_hablante,81,63.0,0.798
+llm-3b,L1,call_03,no_cuadra,error_hablante,76,71.0,0.825
+llm-3b,L1,call_04,no_cuadra,error_hablante,116,106.0,0.985
+llm-3b,L1,call_05,no_cuadra,error_hablante,88,91.0,0.746
+llm-3b,L2,call_01,no_cuadra,error_hablante,82,4.0,0.989
+llm-3b,L2,call_02,no_cuadra,error_hablante,81,63.0,0.808
+llm-3b,L2,call_03,sin_total,error_asr,sin_verificar,78.0,0.565
+llm-3b,L2,call_04,no_cuadra,error_hablante,116,106.0,0.993
+llm-3b,L3,call_01,no_cuadra,error_hablante,62,86.0,
+llm-3b,L3,call_02,sin_total,error_asr,sin_verificar,0.0,0.404
+llm-3b,L3,call_03,sin_total,error_asr,sin_verificar,67.5,
+llm-3b,L3,call_04,sin_total,error_asr,sin_verificar,121.0,
+llm-3b,L3,call_05,sin_total,error_asr,sin_verificar,79.0,0.584
+llm-3b,texto perfecto,call_01,no_cuadra,error_hablante,82,86.0,
+llm-3b,texto perfecto,call_02,no_cuadra,error_hablante,81,63.0,
+llm-3b,texto perfecto,call_03,no_cuadra,error_hablante,76,71.0,
+llm-3b,texto perfecto,call_04,no_cuadra,error_hablante,116,106.0,
+llm-3b,texto perfecto,call_05,no_cuadra,error_hablante,88,100.0,
+llm-7b,L0,call_01,no_cuadra,error_hablante,82,86.0,0.952
+llm-7b,L0,call_03,no_cuadra,error_hablante,76,74.0,0.966
+llm-7b,L0,call_04,no_cuadra,error_hablante,116,106.0,0.99
+llm-7b,L0,call_05,sin_total,error_asr,sin_verificar,73.5,0.843
+llm-7b,L1,call_01,no_cuadra,error_hablante,82,86.0,0.994
+llm-7b,L1,call_03,no_cuadra,error_hablante,76,71.0,0.825
+llm-7b,L1,call_04,no_cuadra,error_hablante,116,106.0,0.985
+llm-7b,L1,call_05,sin_total,error_asr,sin_verificar,74.0,0.746
+llm-7b,L2,call_01,no_cuadra,error_hablante,82,86.0,0.989
+llm-7b,L2,call_03,sin_total,error_asr,sin_verificar,70.0,0.565
+llm-7b,L2,call_04,no_cuadra,error_hablante,116,106.0,0.993
+llm-7b,L2,call_05,no_cuadra,error_hablante,88,82.5,0.914
+llm-7b,L3,call_01,no_cuadra,error_hablante,62,118.0,
+llm-7b,L3,call_02,sin_total,error_asr,sin_verificar,8.0,0.404
+llm-7b,L3,call_03,sin_total,error_asr,,61.0,
+llm-7b,L3,call_04,sin_total,error_asr,,121.0,
+llm-7b,L3,call_05,no_cuadra,error_asr,85888,79.0,0.584
+llm-7b,texto perfecto,call_01,no_cuadra,error_hablante,82,86.0,
+llm-7b,texto perfecto,call_03,no_cuadra,error_hablante,76,71.0,
+llm-7b,texto perfecto,call_04,sin_total,error_asr,sin_verificar,106.0,
+llm-7b,texto perfecto,call_05,sin_total,error_asr,sin_verificar,82.5,
+regex,L0,call_01,no_cuadra,error_hablante,82,86.0,0.952
+regex,L0,call_02,no_cuadra,error_hablante,81,32.0,0.657
+regex,L0,call_03,no_cuadra,error_hablante,76,71.0,0.966
+regex,L0,call_04,no_cuadra,error_hablante,116,106.0,0.99
+regex,L1,call_01,no_cuadra,error_hablante,82,86.0,0.994
+regex,L1,call_02,no_cuadra,error_hablante,81,32.0,0.798
+regex,L1,call_03,no_cuadra,error_hablante,76,71.0,0.825
+regex,L1,call_04,no_cuadra,error_hablante,116,106.0,0.985
+regex,L2,call_01,no_cuadra,error_hablante,82,86.0,0.989
+regex,L2,call_02,no_cuadra,error_hablante,81,32.0,0.808
+regex,L2,call_03,no_cuadra,error_asr,76000,71.0,0.565
+regex,L2,call_04,no_cuadra,error_hablante,116,106.0,0.993
+regex,L2,call_05,no_cuadra,error_hablante,88,76.0,0.914
+regex,L3,call_01,sin_total,error_asr,,86.0,
+regex,L3,call_02,no_cuadra,error_asr,80000,18.0,0.404
+regex,L3,call_03,sin_total,error_asr,,78.0,
+regex,L3,call_04,sin_total,error_asr,,72.0,
+regex,L3,call_05,sin_total,error_asr,sin_verificar,79.0,0.584
+regex,texto perfecto,call_01,no_cuadra,error_hablante,82,86.0,
+regex,texto perfecto,call_03,no_cuadra,error_hablante,76,71.0,
+regex,texto perfecto,call_04,no_cuadra,error_hablante,116,106.0,

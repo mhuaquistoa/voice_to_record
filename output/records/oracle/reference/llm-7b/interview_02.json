@@ -1,0 +1,57 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "hola que tal bienvenido gracias por tu tiempo hola gracias a ustedes por la invitacion mira te cuento algo de urgencia con este puesto porque el proyecto arranca pronto tu cuando podrias incorporarte ah en eso no hay problema termine mi ultimo contrato hace unas semanas asi que puedo empezar de inmediato excelente entonces cuentame de tu experiencia bueno trabaje tres años en una fintech haciendo la parte de pagos y luego cuatro años en una empresa de logistica en total son siete años como desarrollador ok y en empresa de logistica que hacias mi ultimo puesto fue desarrollador backend senior me encargaba de los servicios que calculaban las rutas de reparto de los camiones y tambien revisaba el codigo de los chicos mas nuevos ok y con que tecnologias trabajaste sobre todo con java con spring boot para desplegar usabamos docker y kubernetes y la base de datos era postgresql ok y algun problema tecnico dificil que hayas resuelto si teniamos un servicio que se caia en las campañas de fin de año cuando los pedidos se triplicaban lo partimos en servicios mas pequeños y pusimos colas de mensaje en el medio desde ahi aguanto sin problemas incluso en el cyber day ok interesante y trabajaste con equipos de otros paises si la mitad del equipo estaba en mexico y otra parte en estados unidos asi que todas las reuniones eran en ingles mi nivel es avanzado perfecto como te organizas cuando hay muchas tareas a la vez priorizo con el lider del producto lo que bloquea a otros va primero y lo demas lo planificamos en el sprint buena respuesta hablemos de numeros cuanto esperas ganar depende de los beneficios pero pensaba en un rango entre nueve y diez mil si tengo que darte un numero exacto diria nueve mil ochocientos ok esta dentro de lo que manejamos alguna pregunta para nosotros si el trabajo es remoto o presencial es hibrido dos dias a la semana en la oficina perfecto me parece bien genial gracias por tu tiempo te escribimos pronto",
+ "fields": {
+  "anios_experiencia": 7,
+  "ultimo_puesto": "Desarrollador backend senior",
+  "tecnologias": [
+   "java",
+   "spring boot",
+   "docker",
+   "kubernetes",
+   "postgresql"
+  ],
+  "pretension_salarial": 9800,
+  "disponibilidad": {
+   "texto": "de inmediato",
+   "fecha": "2026-11-01"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "verified": {
+  "anios_experiencia": 7,
+  "pretension_salarial": 9800,
+  "ultimo_puesto": "Desarrollador backend senior",
+  "tecnologias": [
+   "java",
+   "spring boot",
+   "docker",
+   "kubernetes",
+   "postgresql"
+  ],
+  "disponibilidad": {
+   "texto": "de inmediato",
+   "fecha": "2026-11-01"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "validation": null,
+ "device": "n/a",
+ "elapsed": {
+  "asr": 0,
+  "extraction": 4.01,
+  "total": 4.01
+ },
+ "error": null,
+ "asr": {
+  "model": "reference",
+  "compute_type": null,
+  "glossary": null,
+  "audio_seconds": null,
+  "rtf": null,
+  "vram_model_mb": 0,
+  "vram_peak_extra_mb": 0,
+  "gpu_name": null
+ }
+}

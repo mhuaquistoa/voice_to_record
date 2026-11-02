@@ -1,0 +1,53 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "buenas tardes gracias por venir sientate por favor buenas tardes gracias empecemos con algo practico tu nivel de ingles porque es un de los requisitos del puesto ah bueno para ser sincera mi ingles es basico entiendo algunas cosas escritas como correos cortos pero no lo hablo esta bien lo tomamos en cuenta no es eliminatorio cuanto tiempo llevas en contabilidad casi tres años no en realidad son dos años y medio porque el primer año fueron practicas y esas no las conto entiendo donde trabajas actualmente mi ultimo puesto es asistente contable en un estudio que lleva la contabilidad de pequeñas empresas tenemos como veinte clientes la mayoria de restaurantes y bodegas y que te haces ahi registro las facturas de compras y ventas preparo las declaraciones mensuales y concilio las cuentas bancarias a fin de mes tambien ayudo con el cierre que programas manejas uso excel todos los dias tambien en el sistema concar y el ultimo año aprendi a usar sap porque un de los clientes mas grandes le pedia y como aprendiste sap lleve un curso virtual los fines de semana y lo demas lo aprendi practicando con los reportes del cliente muy bien alguna vez cometiste un error importante y como lo manejaste si una vez registre una factura dos veces y la declaracion salio mal lo detecte en la conciliacion lo hice mi jefa y presentamos la rectificacion el mismo dia eso habla bien de ti por que te interesa este puesto porque aqui la empresa es mas grande y podria aprender procesos de cierre mas completos con mas control cual es tu expectativa salarial estaba pensando en tres mil trescientos soles de acuerdo y desde cuando estarias disponible tendria que terminar el cierre de este mes asi que podriamos empezar a iniciar el proximo mes perfecto muchas gracias te escribimos con los siguientes pasos gracias a ustedes que esten bien",
+ "fields": {
+  "anios_experiencia": 2.5,
+  "ultimo_puesto": "Asistente contable",
+  "tecnologias": [
+   "Excel",
+   "Concar",
+   "SAP"
+  ],
+  "pretension_salarial": 3300,
+  "disponibilidad": {
+   "texto": "a partir del proximo mes",
+   "fecha": "2026-12-01"
+  },
+  "nivel_ingles": "basico"
+ },
+ "verified": {
+  "anios_experiencia": 2.5,
+  "pretension_salarial": 3300,
+  "ultimo_puesto": "Asistente contable",
+  "tecnologias": [
+   "Excel",
+   "Concar",
+   "SAP"
+  ],
+  "disponibilidad": {
+   "texto": "a partir del proximo mes",
+   "fecha": "2026-12-01"
+  },
+  "nivel_ingles": "basico"
+ },
+ "validation": null,
+ "device": "n/a",
+ "elapsed": {
+  "asr": 0,
+  "extraction": 3.76,
+  "total": 3.76
+ },
+ "error": null,
+ "asr": {
+  "model": "reference",
+  "compute_type": null,
+  "glossary": null,
+  "audio_seconds": null,
+  "rtf": null,
+  "vram_model_mb": 0,
+  "vram_peak_extra_mb": 0,
+  "gpu_name": null
+ }
+}

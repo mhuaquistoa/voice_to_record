@@ -1,0 +1,55 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "Hola, buenos días. Gracias por conectarte. Antes de empezar, ¿me escuchas bien? Sí, todo bien. Buenos días. Perfecto, te cuento. El equipo de datos es de 15 personas que están buscando a alguien con experiencia para liderar la parte de ingesta. Cuéntame de ti. Claro, claro, claro. Empecé a trabajar en datos en 2020, así que tengo 6 años de experiencia. experiencia. Primero estuve en una aseguradora como analista y después me pasé a ingeniería. ¿Y cuál es tu puesto actual? Mi último puesto es ingeniería de datos en una empresa de telecomunicaciones. Me encargo de que la información de los clientes llegue limpia y a tiempo al área de analítica. Dale, ¿y con qué herramienta estás trabajando? Todo está en la nube en en Amazon Web Services, para orquestar los procesos usamos Airflow, para procesar volúmenes grandes usamos Spark y las transformaciones las hacemos con DBT. Bueno, pero ¿qué volumen de datos se está manejando actualmente? Procesamos alrededor de 2 millones de registros al día, entre llamadas, recargas y pagos. Impresionante, ¿hay algún problema que hayas resuelto y se revoyezca? Sí, sí, sí. El proceso nocturno demoraba seis horas y a veces no terminaba antes de que llegara a la gente. La gente de la oficina. Lo reescribí para que solo procese lo nuevo de cada día y ahora termina en 40 minutos. Muy bien. Y bueno, este puesto implica reuniones con el equipo regional que está en Chile y en Estados Unidos. ¿Y cómo está en inglés? Bien, tengo un nivel avanzado y el año pasado saqué la certificación C1 Excelente, hablemos del económico, ¿cuánto ganas actualmente? Actualmente gano 7 mil soles ¿Y cuál es tu expectativa para este puesto nuevo? Como el puesto tiene más responsabilidad estoy buscando 8 mil 200 soles Entendido, ¿desde cuándo podrías empezar? Mira, me comprometí a terminar una migración que tenemos en curso, así que podría empezar a partir del 15 de enero. Perfecto. Eso cancela nuestros planes. ¿Tienes alguna otra pregunta? Sí. ¿El equipo trabaja con alguna metodología ágil? Sí, sí. Trabajamos con Sprint en dos semanas. Genial. Así trabajo ahora también. Muchas gracias por tu tiempo. Te escribimos para la próxima semana. Gracias a ti, hasta luego",
+ "fields": {
+  "anios_experiencia": 6.0,
+  "ultimo_puesto": "Ingeniero de Datos",
+  "tecnologias": [
+   "AWS",
+   "Airflow",
+   "Spark",
+   "DBT"
+  ],
+  "pretension_salarial": 8200,
+  "disponibilidad": {
+   "texto": "a partir del 15 de enero",
+   "fecha": "2027-01-15"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "verified": {
+  "anios_experiencia": 6.0,
+  "pretension_salarial": 8200,
+  "ultimo_puesto": "sin_verificar",
+  "tecnologias": [
+   "AWS",
+   "Airflow",
+   "Spark",
+   "DBT"
+  ],
+  "disponibilidad": {
+   "texto": "a partir del 15 de enero",
+   "fecha": "2027-01-15"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "validation": null,
+ "device": "cuda",
+ "elapsed": {
+  "asr": 10.37,
+  "extraction": 3.8,
+  "total": 3.81
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 165.74,
+  "rtf": 0.0626,
+  "vram_model_mb": 3776,
+  "vram_peak_extra_mb": 192,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

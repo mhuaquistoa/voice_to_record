@@ -1,0 +1,85 @@
+{
+ "task": "call",
+ "method": "llm",
+ "transcript": "3. Pizzería La Buena Masa. Buenas noches. Le habla Carlos. ¿Qué le gustaría pedir? Hola, buenas noches. ¿Todavía están atendiendo delivery? Sí, claro. Atendemos hasta las 11. Perfecto. Quería dos pizzas americanas medianas. Muy bien. La americana mediana está a 32 soles cada una. ¿Algo más? Sí. Una gaseosa de litro y medio. La gaseosa está a nueve soles. ¿La quiere helada? Sí. Helada, por favor. Ah, espera, espera. Mejor que una de las pizzas sea familiar, porque son más de lo que pensaba. O sea, una americana mediana y una americana familiar. Ok, entonces quedan una americana mediana a 32 y una americana familiar a 45 soles. Me la das yo, ¿sabes? Exacto, ¿hay alguna promoción hoy? Hoy el delivery es gratis, no sé cuál es el envío. Daniel, ¿cuánto demora más o menos? Unos 40 minutos, depende del tráfico. ¿A qué dirección enviamos? Avenida Arequipa 1450, departamento 302 Le repito, Avenida Arequipa 1450, departamento 307 ¿Alguna referencia? Es un edificio gris al costado de una farmacia Perfecto, ¿y cómo va a pagar? Un IAP Muy bien, le paso el número cuando llegue a motorizado Entonces serían 82 soles en total Ok, listo Su pedido está en preparación Gracias por llamar a la buena masa Gracias a ti Hasta luego",
+ "fields": {
+  "items": [
+   {
+    "producto": "americana mediana",
+    "cantidad": 1,
+    "precio_unitario": 32
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 1,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "delivery gratis",
+   "descuento": 0
+  },
+  "direccion_entrega": "Avenida Arequipa 1450, departamento 307",
+  "metodo_pago": "iap",
+  "total_dicho": 82
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "americana mediana",
+    "cantidad": 1,
+    "precio_unitario": 32
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 1,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "delivery gratis",
+   "descuento": 0
+  },
+  "direccion_entrega": "Avenida Arequipa 1450, departamento 307",
+  "metodo_pago": "sin_verificar",
+  "total_dicho": 82
+ },
+ "validation": {
+  "subtotal": 86,
+  "descuento": 0,
+  "total_calculado": 86,
+  "total_dicho": 82,
+  "confianza_total_asr": null,
+  "precios_distintos_al_menu": [],
+  "estado": "no_cuadra",
+  "diagnostico": "error_hablante",
+  "motivo": "La transcripción es confiable: se dijo 82 pero la suma da 86."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 7.23,
+  "extraction": 4.8,
+  "total": 4.81
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 113.0,
+  "rtf": 0.0639,
+  "vram_model_mb": 3776,
+  "vram_peak_extra_mb": 192,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

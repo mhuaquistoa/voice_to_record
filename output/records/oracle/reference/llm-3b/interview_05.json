@@ -1,0 +1,55 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "hola buenos dias gracias por conectarte antes de empezar me escuchas bien si todo bien buenos dias perfecto te cuento el equipo de datos es de quince personas y estamos buscando a alguien con experiencia para liderar la parte de ingesta cuentame de ti claro claro claro empece a trabajar en datos en dos mil veinte asi que tengo seis años de experiencia primero estuve en una aseguradora como analista y despues me pase a ingenieria y cual es tu puesto actual mi ultimo puesto es de ingenieria de datos en una empresa de telecomunicaciones me encargo de que la informacion de los clientes llegue limpia y a tiempo al area de analitica dale y con que herramientas trabajas todo esta en la nube en aws para orquestar los procesos usamos airflow para procesar volumenes grandes usamos spark y las transformaciones las hacemos con dbt bueno pero que volumen de datos manejan procesamos alrededor de dos millones de registros al dia entre llamadas recargas y pagos impresionante algun problema que hayas resuelto y te enorgullezca si el proceso nocturno demoraba seis horas y a veces no terminaba antes de que llegara la gente la gente de la oficina lo reescribi para que solo procese lo nuevo de cada dia y ahora termina en cuarenta minutos muy bien y bueno este puesto implica reuniones con el equipo regional que esta en chile y en estados unidos y como esta tu ingles bien tengo un nivel avanzado y el año pasado saque la certificacion c1 excelente hablemos del economico cuanto ganas actualmente actualmente gano siete mil soles y cual es tu expectativa para este puesto nuevo como el puesto tiene mas responsabilidad estoy buscando ocho mil doscientos soles entendido desde cuando podrias empezar mira me comprometi a terminar una migracion que tenemos en curso asi que podria empezar a partir del quince de enero perfecto eso cansa con nuestros planes tienes alguna otra pregunta si el equipo trabajo con alguna metodologia agil si si trabajamos con sprints de dos semanas genial asi trabajo ahora tambien muchas gracias por tu tiempo te escribimos para la proxima semana gracias a ti hasta luego",
+ "fields": {
+  "anios_experiencia": 6.0,
+  "ultimo_puesto": "Ingeniero de Datos",
+  "tecnologias": [
+   "AWS",
+   "Airflow",
+   "Spark",
+   "DBT"
+  ],
+  "pretension_salarial": 8200,
+  "disponibilidad": {
+   "texto": "a partir del 15 de enero",
+   "fecha": "2027-01-15"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "verified": {
+  "anios_experiencia": 6.0,
+  "pretension_salarial": 8200,
+  "ultimo_puesto": "sin_verificar",
+  "tecnologias": [
+   "AWS",
+   "Airflow",
+   "Spark",
+   "DBT"
+  ],
+  "disponibilidad": {
+   "texto": "a partir del 15 de enero",
+   "fecha": "2027-01-15"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "validation": null,
+ "device": "n/a",
+ "elapsed": {
+  "asr": 0,
+  "extraction": 3.9,
+  "total": 3.9
+ },
+ "error": null,
+ "asr": {
+  "model": "reference",
+  "compute_type": null,
+  "glossary": null,
+  "audio_seconds": null,
+  "rtf": null,
+  "vram_model_mb": 0,
+  "vram_peak_extra_mb": 0,
+  "gpu_name": null
+ }
+}

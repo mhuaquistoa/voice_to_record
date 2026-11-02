@@ -1,0 +1,79 @@
+{
+ "task": "call",
+ "method": "regex",
+ "transcript": "3. ¿Qué sería La Buena Masa cada noche? Le habla Carlos. ¿Qué le gustaría pedir? Hola, buenas noches. ¿Podrías estar atendiendo delivery? Sí, claro. Atendemos hasta California. Perfecto. Quería dos piezas americanas y medianas. Muy bien. La americana mediana está a 32 dólares cada una. ¿Algo más? Sí. Una gaseosa de litro y medio. La graciosa está a nueve soles. ¿La que es helada? Sí, es helada, por favor. Ah, espera, espera. Mejor que vean las pistas de familia, porque son más de lo que pensaba. O sea, una americana mediana y una americana familiar. Ok. Entonces, queda una americana mediana, número dos, y una americana familiar, respecto a 45, por ejemplo. ¿Cuánto dura más o menos? Unos 40 minutos Depende del plástico Aquí les estamos guiando Avenida Arequipa 1450 Departamento 302 Me refiero. Avenida del edificio de aumento por ciento cincuenta, departamento por ciento cincuenta. ¿Hay una referencia? Es un edificio gris al costado de una farmacia. Perfecto. ¿Y cómo voy a pagar? Coñate. Muy bien. Te paso el número que me hubieran solicitado. Entonces serían a sesenta y dos por ciento cincuenta. Ok. Listo. Si te veo ya está en preparación. Gracias por llamar a la buena noche. Gracias a ti, hasta luego",
+ "fields": {
+  "items": [
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 1,
+    "precio_unitario": 9
+   },
+   {
+    "producto": "americana mediana",
+    "cantidad": 1,
+    "precio_unitario": 32
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   }
+  ],
+  "promocion": null,
+  "direccion_entrega": "avenida arequipa mil cuatrocientos cincuenta departamento trescientos dos me refiero",
+  "metodo_pago": null,
+  "total_dicho": null
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 1,
+    "precio_unitario": 9
+   },
+   {
+    "producto": "americana mediana",
+    "cantidad": 1,
+    "precio_unitario": 32
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   }
+  ],
+  "promocion": null,
+  "direccion_entrega": "avenida arequipa mil cuatrocientos cincuenta departamento trescientos dos me refiero",
+  "metodo_pago": null,
+  "total_dicho": null
+ },
+ "validation": {
+  "subtotal": 86,
+  "descuento": 0,
+  "total_calculado": 86,
+  "total_dicho": null,
+  "confianza_total_asr": null,
+  "precios_distintos_al_menu": [],
+  "estado": "sin_total",
+  "diagnostico": "error_asr",
+  "motivo": "El total dicho no se pudo leer en la transcripción."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 6.95,
+  "extraction": 0.0,
+  "total": 0.0
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 113.0,
+  "rtf": 0.0615,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

@@ -1,0 +1,1059 @@
+{
+ "model": "large-v3",
+ "clip_id": "call_01",
+ "duration": 113.0013125,
+ "seconds": 7.57,
+ "text": "Tres. Pizzería La Buena Masa. Buenas noches. Le habla Carlos. ¿Qué le gustaría pedir? Hola, buenas noches. ¿Todavía están atendiendo delivery? Sí, claro. Atendemos hasta las 11. Perfecto. Quería dos piezas americanas medianas. Muy bien. La americana mediana está a 32 soles cada una. ¿Algo más? Sí. Una gaseosa de litro y medio. La gaseosa está a 9 soles. ¿La quiere helada? Sí. Helada, por favor. Ah, espera. Espera. Mejor que una de las pizzas de familiar, porque somos más de lo que pensaba. O sea, una americana mediana y una americana familiar. Ok. Entonces, quedan una americana mediana a 32 y una americana familiar a 45 soles. Me la gaseosa. Exacto. Hay alguna promoción hoy. Ok, delivery. Delivery es gratis. No sé cuál es el envío. Daniel, ¿cuánto demora más o menos? Unos 40 minutos. Depende del tráfico. ¿A qué dirección enviamos? Avenida Arequipa 1450, departamento 302. Le repito. Avenida Arequipa 1450, departamento 306. ¿Alguna referencia? Es un edificio gris al costado de una farmación. Perfecto. ¿Y cómo va a pagar? Un yape. Muy bien. Repaso el número cuando llegue el motorizado. Entonces serían 82 soles en total. Ok. Listo. Su pedido ya está en preparación. Gracias por llamar a la buena masa. Gracias a ti. Hasta luego. Gracias.",
+ "words": [
+  {
+   "w": " Tres.",
+   "start": 0.0,
+   "end": 0.32
+  },
+  {
+   "w": " Pizzería",
+   "start": 1.3,
+   "end": 1.94
+  },
+  {
+   "w": " La",
+   "start": 1.94,
+   "end": 2.1
+  },
+  {
+   "w": " Buena",
+   "start": 2.1,
+   "end": 2.34
+  },
+  {
+   "w": " Masa.",
+   "start": 2.34,
+   "end": 2.68
+  },
+  {
+   "w": " Buenas",
+   "start": 2.68,
+   "end": 3.08
+  },
+  {
+   "w": " noches.",
+   "start": 3.08,
+   "end": 3.5
+  },
+  {
+   "w": " Le",
+   "start": 3.5,
+   "end": 4.0
+  },
+  {
+   "w": " habla",
+   "start": 4.0,
+   "end": 4.16
+  },
+  {
+   "w": " Carlos.",
+   "start": 4.16,
+   "end": 4.42
+  },
+  {
+   "w": " ¿Qué",
+   "start": 4.78,
+   "end": 4.96
+  },
+  {
+   "w": " le",
+   "start": 4.96,
+   "end": 5.02
+  },
+  {
+   "w": " gustaría",
+   "start": 5.02,
+   "end": 5.58
+  },
+  {
+   "w": " pedir?",
+   "start": 5.58,
+   "end": 5.88
+  },
+  {
+   "w": " Hola,",
+   "start": 6.82,
+   "end": 7.46
+  },
+  {
+   "w": " buenas",
+   "start": 7.48,
+   "end": 7.7
+  },
+  {
+   "w": " noches.",
+   "start": 7.7,
+   "end": 8.12
+  },
+  {
+   "w": " ¿Todavía",
+   "start": 8.12,
+   "end": 8.54
+  },
+  {
+   "w": " están",
+   "start": 8.54,
+   "end": 8.74
+  },
+  {
+   "w": " atendiendo",
+   "start": 8.74,
+   "end": 9.12
+  },
+  {
+   "w": " delivery?",
+   "start": 9.12,
+   "end": 9.36
+  },
+  {
+   "w": " Sí,",
+   "start": 9.74,
+   "end": 10.32
+  },
+  {
+   "w": " claro.",
+   "start": 10.34,
+   "end": 10.5
+  },
+  {
+   "w": " Atendemos",
+   "start": 10.68,
+   "end": 11.16
+  },
+  {
+   "w": " hasta",
+   "start": 11.16,
+   "end": 11.38
+  },
+  {
+   "w": " las",
+   "start": 11.38,
+   "end": 11.56
+  },
+  {
+   "w": " 11.",
+   "start": 11.56,
+   "end": 11.82
+  },
+  {
+   "w": " Perfecto.",
+   "start": 14.14,
+   "end": 14.78
+  },
+  {
+   "w": " Quería",
+   "start": 14.78,
+   "end": 15.42
+  },
+  {
+   "w": " dos",
+   "start": 15.42,
+   "end": 15.64
+  },
+  {
+   "w": " piezas",
+   "start": 15.64,
+   "end": 16.1
+  },
+  {
+   "w": " americanas",
+   "start": 16.1,
+   "end": 17.26
+  },
+  {
+   "w": " medianas.",
+   "start": 17.26,
+   "end": 17.88
+  },
+  {
+   "w": " Muy",
+   "start": 18.56,
+   "end": 18.88
+  },
+  {
+   "w": " bien.",
+   "start": 18.88,
+   "end": 19.04
+  },
+  {
+   "w": " La",
+   "start": 19.16,
+   "end": 19.66
+  },
+  {
+   "w": " americana",
+   "start": 19.66,
+   "end": 20.6
+  },
+  {
+   "w": " mediana",
+   "start": 20.6,
+   "end": 20.92
+  },
+  {
+   "w": " está",
+   "start": 20.92,
+   "end": 21.22
+  },
+  {
+   "w": " a",
+   "start": 21.22,
+   "end": 21.44
+  },
+  {
+   "w": " 32",
+   "start": 21.44,
+   "end": 21.78
+  },
+  {
+   "w": " soles",
+   "start": 21.78,
+   "end": 22.56
+  },
+  {
+   "w": " cada",
+   "start": 22.56,
+   "end": 22.7
+  },
+  {
+   "w": " una.",
+   "start": 22.7,
+   "end": 23.0
+  },
+  {
+   "w": " ¿Algo",
+   "start": 23.72,
+   "end": 24.36
+  },
+  {
+   "w": " más?",
+   "start": 24.36,
+   "end": 24.52
+  },
+  {
+   "w": " Sí.",
+   "start": 25.84,
+   "end": 26.48
+  },
+  {
+   "w": " Una",
+   "start": 26.48,
+   "end": 27.12
+  },
+  {
+   "w": " gaseosa",
+   "start": 27.12,
+   "end": 27.62
+  },
+  {
+   "w": " de",
+   "start": 27.62,
+   "end": 27.8
+  },
+  {
+   "w": " litro",
+   "start": 27.8,
+   "end": 28.14
+  },
+  {
+   "w": " y",
+   "start": 28.14,
+   "end": 28.24
+  },
+  {
+   "w": " medio.",
+   "start": 28.24,
+   "end": 28.5
+  },
+  {
+   "w": " La",
+   "start": 30.0,
+   "end": 30.24
+  },
+  {
+   "w": " gaseosa",
+   "start": 30.24,
+   "end": 30.56
+  },
+  {
+   "w": " está",
+   "start": 30.56,
+   "end": 30.92
+  },
+  {
+   "w": " a",
+   "start": 30.92,
+   "end": 31.08
+  },
+  {
+   "w": " 9",
+   "start": 31.08,
+   "end": 31.22
+  },
+  {
+   "w": " soles.",
+   "start": 31.22,
+   "end": 31.64
+  },
+  {
+   "w": " ¿La",
+   "start": 31.72,
+   "end": 32.2
+  },
+  {
+   "w": " quiere",
+   "start": 32.2,
+   "end": 32.4
+  },
+  {
+   "w": " helada?",
+   "start": 32.4,
+   "end": 32.74
+  },
+  {
+   "w": " Sí.",
+   "start": 35.6,
+   "end": 36.08
+  },
+  {
+   "w": " Helada,",
+   "start": 36.08,
+   "end": 36.56
+  },
+  {
+   "w": " por",
+   "start": 36.6,
+   "end": 36.78
+  },
+  {
+   "w": " favor.",
+   "start": 36.78,
+   "end": 37.08
+  },
+  {
+   "w": " Ah,",
+   "start": 37.56,
+   "end": 37.78
+  },
+  {
+   "w": " espera.",
+   "start": 37.8,
+   "end": 38.1
+  },
+  {
+   "w": " Espera.",
+   "start": 38.46,
+   "end": 38.94
+  },
+  {
+   "w": " Mejor",
+   "start": 39.48,
+   "end": 39.96
+  },
+  {
+   "w": " que",
+   "start": 39.96,
+   "end": 40.1
+  },
+  {
+   "w": " una",
+   "start": 40.1,
+   "end": 40.2
+  },
+  {
+   "w": " de",
+   "start": 40.2,
+   "end": 40.3
+  },
+  {
+   "w": " las",
+   "start": 40.3,
+   "end": 40.42
+  },
+  {
+   "w": " pizzas",
+   "start": 40.42,
+   "end": 40.62
+  },
+  {
+   "w": " de",
+   "start": 40.62,
+   "end": 40.74
+  },
+  {
+   "w": " familiar,",
+   "start": 40.74,
+   "end": 40.98
+  },
+  {
+   "w": " porque",
+   "start": 41.12,
+   "end": 41.24
+  },
+  {
+   "w": " somos",
+   "start": 41.24,
+   "end": 41.42
+  },
+  {
+   "w": " más",
+   "start": 41.42,
+   "end": 41.64
+  },
+  {
+   "w": " de",
+   "start": 41.64,
+   "end": 41.72
+  },
+  {
+   "w": " lo",
+   "start": 41.72,
+   "end": 41.78
+  },
+  {
+   "w": " que",
+   "start": 41.78,
+   "end": 41.94
+  },
+  {
+   "w": " pensaba.",
+   "start": 41.94,
+   "end": 42.36
+  },
+  {
+   "w": " O",
+   "start": 42.56,
+   "end": 42.98
+  },
+  {
+   "w": " sea,",
+   "start": 42.98,
+   "end": 43.1
+  },
+  {
+   "w": " una",
+   "start": 43.2,
+   "end": 43.82
+  },
+  {
+   "w": " americana",
+   "start": 43.82,
+   "end": 44.18
+  },
+  {
+   "w": " mediana",
+   "start": 44.18,
+   "end": 44.48
+  },
+  {
+   "w": " y",
+   "start": 44.48,
+   "end": 45.18
+  },
+  {
+   "w": " una",
+   "start": 45.18,
+   "end": 45.5
+  },
+  {
+   "w": " americana",
+   "start": 45.5,
+   "end": 46.58
+  },
+  {
+   "w": " familiar.",
+   "start": 46.58,
+   "end": 46.9
+  },
+  {
+   "w": " Ok.",
+   "start": 48.28,
+   "end": 48.76
+  },
+  {
+   "w": " Entonces,",
+   "start": 48.76,
+   "end": 49.24
+  },
+  {
+   "w": " quedan",
+   "start": 49.36,
+   "end": 49.96
+  },
+  {
+   "w": " una",
+   "start": 49.96,
+   "end": 50.04
+  },
+  {
+   "w": " americana",
+   "start": 50.04,
+   "end": 50.34
+  },
+  {
+   "w": " mediana",
+   "start": 50.34,
+   "end": 50.7
+  },
+  {
+   "w": " a",
+   "start": 50.7,
+   "end": 50.94
+  },
+  {
+   "w": " 32",
+   "start": 50.94,
+   "end": 51.14
+  },
+  {
+   "w": " y",
+   "start": 51.14,
+   "end": 51.58
+  },
+  {
+   "w": " una",
+   "start": 51.58,
+   "end": 51.72
+  },
+  {
+   "w": " americana",
+   "start": 51.72,
+   "end": 52.06
+  },
+  {
+   "w": " familiar",
+   "start": 52.06,
+   "end": 52.42
+  },
+  {
+   "w": " a",
+   "start": 52.42,
+   "end": 52.64
+  },
+  {
+   "w": " 45",
+   "start": 52.64,
+   "end": 53.0
+  },
+  {
+   "w": " soles.",
+   "start": 53.0,
+   "end": 54.78
+  },
+  {
+   "w": " Me",
+   "start": 54.84,
+   "end": 55.24
+  },
+  {
+   "w": " la",
+   "start": 55.24,
+   "end": 55.34
+  },
+  {
+   "w": " gaseosa.",
+   "start": 55.34,
+   "end": 55.68
+  },
+  {
+   "w": " Exacto.",
+   "start": 57.04,
+   "end": 57.52
+  },
+  {
+   "w": " Hay",
+   "start": 57.52,
+   "end": 57.64
+  },
+  {
+   "w": " alguna",
+   "start": 57.64,
+   "end": 57.82
+  },
+  {
+   "w": " promoción",
+   "start": 57.82,
+   "end": 58.3
+  },
+  {
+   "w": " hoy.",
+   "start": 58.3,
+   "end": 58.44
+  },
+  {
+   "w": " Ok,",
+   "start": 59.14,
+   "end": 59.62
+  },
+  {
+   "w": " delivery.",
+   "start": 59.62,
+   "end": 59.8
+  },
+  {
+   "w": " Delivery",
+   "start": 60.0,
+   "end": 60.08
+  },
+  {
+   "w": " es",
+   "start": 60.08,
+   "end": 60.16
+  },
+  {
+   "w": " gratis.",
+   "start": 60.16,
+   "end": 60.6
+  },
+  {
+   "w": " No",
+   "start": 60.6,
+   "end": 60.98
+  },
+  {
+   "w": " sé",
+   "start": 60.98,
+   "end": 61.1
+  },
+  {
+   "w": " cuál",
+   "start": 61.1,
+   "end": 61.24
+  },
+  {
+   "w": " es",
+   "start": 61.24,
+   "end": 61.3
+  },
+  {
+   "w": " el",
+   "start": 61.3,
+   "end": 61.4
+  },
+  {
+   "w": " envío.",
+   "start": 61.4,
+   "end": 61.58
+  },
+  {
+   "w": " Daniel,",
+   "start": 66.2,
+   "end": 67.04
+  },
+  {
+   "w": " ¿cuánto",
+   "start": 67.04,
+   "end": 67.88
+  },
+  {
+   "w": " demora",
+   "start": 67.88,
+   "end": 69.16
+  },
+  {
+   "w": " más",
+   "start": 69.16,
+   "end": 69.34
+  },
+  {
+   "w": " o",
+   "start": 69.34,
+   "end": 69.48
+  },
+  {
+   "w": " menos?",
+   "start": 69.48,
+   "end": 69.7
+  },
+  {
+   "w": " Unos",
+   "start": 70.54,
+   "end": 71.02
+  },
+  {
+   "w": " 40",
+   "start": 71.02,
+   "end": 71.46
+  },
+  {
+   "w": " minutos.",
+   "start": 71.46,
+   "end": 71.9
+  },
+  {
+   "w": " Depende",
+   "start": 72.1,
+   "end": 72.58
+  },
+  {
+   "w": " del",
+   "start": 72.58,
+   "end": 72.74
+  },
+  {
+   "w": " tráfico.",
+   "start": 72.74,
+   "end": 73.18
+  },
+  {
+   "w": " ¿A",
+   "start": 73.28,
+   "end": 73.64
+  },
+  {
+   "w": " qué",
+   "start": 73.64,
+   "end": 73.78
+  },
+  {
+   "w": " dirección",
+   "start": 73.78,
+   "end": 74.08
+  },
+  {
+   "w": " enviamos?",
+   "start": 74.08,
+   "end": 74.42
+  },
+  {
+   "w": " Avenida",
+   "start": 76.04,
+   "end": 76.88
+  },
+  {
+   "w": " Arequipa",
+   "start": 76.88,
+   "end": 77.3
+  },
+  {
+   "w": " 1450,",
+   "start": 77.3,
+   "end": 78.56
+  },
+  {
+   "w": " departamento",
+   "start": 79.04,
+   "end": 79.88
+  },
+  {
+   "w": " 302.",
+   "start": 79.88,
+   "end": 80.82
+  },
+  {
+   "w": " Le",
+   "start": 81.66,
+   "end": 82.08
+  },
+  {
+   "w": " repito.",
+   "start": 82.08,
+   "end": 82.44
+  },
+  {
+   "w": " Avenida",
+   "start": 82.92,
+   "end": 83.76
+  },
+  {
+   "w": " Arequipa",
+   "start": 83.76,
+   "end": 84.12
+  },
+  {
+   "w": " 1450,",
+   "start": 84.12,
+   "end": 85.12
+  },
+  {
+   "w": " departamento",
+   "start": 85.42,
+   "end": 86.32
+  },
+  {
+   "w": " 306.",
+   "start": 86.32,
+   "end": 86.98
+  },
+  {
+   "w": " ¿Alguna",
+   "start": 87.06,
+   "end": 87.78
+  },
+  {
+   "w": " referencia?",
+   "start": 87.78,
+   "end": 88.18
+  },
+  {
+   "w": " Es",
+   "start": 90.0,
+   "end": 90.24
+  },
+  {
+   "w": " un",
+   "start": 90.24,
+   "end": 90.36
+  },
+  {
+   "w": " edificio",
+   "start": 90.36,
+   "end": 90.84
+  },
+  {
+   "w": " gris",
+   "start": 90.84,
+   "end": 91.16
+  },
+  {
+   "w": " al",
+   "start": 91.16,
+   "end": 91.24
+  },
+  {
+   "w": " costado",
+   "start": 91.24,
+   "end": 91.7
+  },
+  {
+   "w": " de",
+   "start": 91.7,
+   "end": 91.8
+  },
+  {
+   "w": " una",
+   "start": 91.8,
+   "end": 91.92
+  },
+  {
+   "w": " farmación.",
+   "start": 91.92,
+   "end": 92.48
+  },
+  {
+   "w": " Perfecto.",
+   "start": 92.96,
+   "end": 93.44
+  },
+  {
+   "w": " ¿Y",
+   "start": 93.44,
+   "end": 93.68
+  },
+  {
+   "w": " cómo",
+   "start": 93.68,
+   "end": 93.86
+  },
+  {
+   "w": " va",
+   "start": 93.86,
+   "end": 93.98
+  },
+  {
+   "w": " a",
+   "start": 93.98,
+   "end": 94.0
+  },
+  {
+   "w": " pagar?",
+   "start": 94.0,
+   "end": 94.2
+  },
+  {
+   "w": " Un",
+   "start": 94.9,
+   "end": 95.38
+  },
+  {
+   "w": " yape.",
+   "start": 95.38,
+   "end": 95.62
+  },
+  {
+   "w": " Muy",
+   "start": 95.98,
+   "end": 96.46
+  },
+  {
+   "w": " bien.",
+   "start": 96.46,
+   "end": 96.62
+  },
+  {
+   "w": " Repaso",
+   "start": 97.06,
+   "end": 97.54
+  },
+  {
+   "w": " el",
+   "start": 97.54,
+   "end": 97.66
+  },
+  {
+   "w": " número",
+   "start": 97.66,
+   "end": 97.96
+  },
+  {
+   "w": " cuando",
+   "start": 97.96,
+   "end": 98.2
+  },
+  {
+   "w": " llegue",
+   "start": 98.2,
+   "end": 98.46
+  },
+  {
+   "w": " el",
+   "start": 98.46,
+   "end": 98.48
+  },
+  {
+   "w": " motorizado.",
+   "start": 98.48,
+   "end": 98.88
+  },
+  {
+   "w": " Entonces",
+   "start": 99.0,
+   "end": 99.48
+  },
+  {
+   "w": " serían",
+   "start": 99.48,
+   "end": 99.96
+  },
+  {
+   "w": " 82",
+   "start": 99.96,
+   "end": 100.56
+  },
+  {
+   "w": " soles",
+   "start": 100.56,
+   "end": 101.14
+  },
+  {
+   "w": " en",
+   "start": 101.14,
+   "end": 101.24
+  },
+  {
+   "w": " total.",
+   "start": 101.24,
+   "end": 101.4
+  },
+  {
+   "w": " Ok.",
+   "start": 103.54,
+   "end": 104.02
+  },
+  {
+   "w": " Listo.",
+   "start": 104.02,
+   "end": 104.5
+  },
+  {
+   "w": " Su",
+   "start": 105.0,
+   "end": 105.48
+  },
+  {
+   "w": " pedido",
+   "start": 105.48,
+   "end": 105.78
+  },
+  {
+   "w": " ya",
+   "start": 105.78,
+   "end": 105.86
+  },
+  {
+   "w": " está",
+   "start": 105.86,
+   "end": 105.92
+  },
+  {
+   "w": " en",
+   "start": 105.92,
+   "end": 106.0
+  },
+  {
+   "w": " preparación.",
+   "start": 106.0,
+   "end": 106.38
+  },
+  {
+   "w": " Gracias",
+   "start": 106.42,
+   "end": 106.74
+  },
+  {
+   "w": " por",
+   "start": 106.74,
+   "end": 106.88
+  },
+  {
+   "w": " llamar",
+   "start": 106.88,
+   "end": 107.16
+  },
+  {
+   "w": " a",
+   "start": 107.16,
+   "end": 107.2
+  },
+  {
+   "w": " la",
+   "start": 107.2,
+   "end": 107.3
+  },
+  {
+   "w": " buena",
+   "start": 107.3,
+   "end": 107.46
+  },
+  {
+   "w": " masa.",
+   "start": 107.46,
+   "end": 107.68
+  },
+  {
+   "w": " Gracias",
+   "start": 110.28,
+   "end": 110.76
+  },
+  {
+   "w": " a",
+   "start": 110.76,
+   "end": 110.94
+  },
+  {
+   "w": " ti.",
+   "start": 110.94,
+   "end": 111.18
+  },
+  {
+   "w": " Hasta",
+   "start": 111.46,
+   "end": 111.94
+  },
+  {
+   "w": " luego.",
+   "start": 111.94,
+   "end": 112.2
+  },
+  {
+   "w": " Gracias.",
+   "start": 112.52,
+   "end": 112.98
+  }
+ ]
+}

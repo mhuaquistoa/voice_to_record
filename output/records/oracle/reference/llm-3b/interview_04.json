@@ -1,0 +1,55 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "hola gracias por aceptar la entrevista para empezar me podrias resumir tu perfil por favor claro soy diseñador y tengo diez años de experiencia empece haciendo paginas web para pequeños negocios y despues me especialice en experiencia de usuario actualmente bueno mi ultimo puesto es lider de diseño ux en una startup de educacion y cuantas personas tienes a cargo un equipo de cuatro diseñadores dos se encargan de la app movil y dos de la plataforma web y que herramientas usan para diseñar usamos figma y como tambien hago prototipos con codigo trabajo con react y typescript eso me ayuda mucho a desarrollar el mismo idioma que los desarrolladores como mides si un diseño funciona con pruebas de usuario y con metricas por ejemplo prediseñamos el registro de alumnos que tenia muchos pasos y la tasa de abandono bajo casi a la mitad y como estas de acuerdo con un gerente sobre un diseño trato de no discutir con opiniones propongo probar las dos versiones con usuarios reales y que los datos decidan muy bien el puesto requiere presentar a clientes de afuera como te sientes con ingles bien tengo un ingles avanzado he presentado en dos conferencias internacionales excelente que te motiva de esta posicion me interesa que el producto lo usen miles de personas y que el equipo de diseño todavia se este formando me gustaria construir equipos perfecto y en cuanto a lo economico que tienes en mente hoy gano un poco menos pero por la responsabilidad del puesto estoy buscando doce mil soles entendido y cuando podrias empezar mi contrato me pide dar un mes de preaviso asi que podria empezar en un mes perfecto eso nos acomoda tienes alguna otra pregunta si el equipo de diseño ya existe o habria que armarlo desde cero hay dos personas la idea es crecer a cinco este año genial me interesa mucho muchas gracias estamos en contacto",
+ "fields": {
+  "anios_experiencia": 10.0,
+  "ultimo_puesto": "Lider de diseño UX",
+  "tecnologias": [
+   "Figma",
+   "Prototipos con código",
+   "React",
+   "Typescript"
+  ],
+  "pretension_salarial": 12000,
+  "disponibilidad": {
+   "texto": "en un mes",
+   "fecha": "2026-12-01"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "verified": {
+  "anios_experiencia": 10.0,
+  "pretension_salarial": 12000,
+  "ultimo_puesto": "Lider de diseño UX",
+  "tecnologias": [
+   "Figma",
+   "Prototipos con código",
+   "React",
+   "Typescript"
+  ],
+  "disponibilidad": {
+   "texto": "en un mes",
+   "fecha": "2026-12-01"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "validation": null,
+ "device": "n/a",
+ "elapsed": {
+  "asr": 0,
+  "extraction": 3.97,
+  "total": 3.97
+ },
+ "error": null,
+ "asr": {
+  "model": "reference",
+  "compute_type": null,
+  "glossary": null,
+  "audio_seconds": null,
+  "rtf": null,
+  "vram_model_mb": 0,
+  "vram_peak_extra_mb": 0,
+  "gpu_name": null
+ }
+}

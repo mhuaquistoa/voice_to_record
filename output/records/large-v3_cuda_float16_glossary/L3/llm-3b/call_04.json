@@ -1,0 +1,85 @@
+{
+ "task": "call",
+ "method": "llm",
+ "transcript": "La Buena Masa, buenas noches, ¿qué le provoco hoy? Hola, buenas, es para una luna de cumpleaños. Quiero una de pepperoni familiar y una americana familiar. La pepperoni familiar está a $40.000 y la americana familiar $45.000. La pepperoni familiar $45.000. Llevando dos familiares, ¿quiénes son los familiares? ¿Quiénes son los familiares? Ah perfecto, y una gaseosa de litro y medio. No, es que aquí hay una de soles. ¿Algo más? Las piezas pueden venir cortadas en cuadraditos, es que hay de menos. Sí, claro, se las mandamos por gas instalado. Genial. Ay, no, ¿sabes qué? Somos bastantes. Mejor empiezan tres gaseosas. Ok, obvio entonces. Tres piezas de litro y medio, en una soles cada una. Sí, ya está. Ok, ¿a qué dirección nos enviamos? Eh, Avenida La Marina, 2085, corredor B, departamento 1104. Te repito, Avenida La Marina, 2085, corredor B, departamento 1104. Corto, encontrado el que dejaré de tener con el producto. Perfecto, el motorizado descargado. ¿Cómo está? Ok Muy bien, el que está ahí es el cliente de Facebook Ok, listo. ¿Cuánto demora? Es muy buenísimo YouTube. ¿Por qué por la pregunta llevas un despedido? Está bien, no hay problema. Gracias Es usted. Bueno, no quiere decir feliz cumpleaños",
+ "fields": {
+  "items": [
+   {
+    "producto": "pepperoni familiar",
+    "cantidad": 1,
+    "precio_unitario": 49
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 3,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "segunda pieza a mitad de precio",
+   "descuento": 0
+  },
+  "direccion_entrega": "Avenida La Marina 2085, corredor B, departamento 1104",
+  "metodo_pago": "efectivo",
+  "total_dicho": 147
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "pepperoni familiar",
+    "cantidad": 1,
+    "precio_unitario": 49
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 3,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "segunda pieza a mitad de precio",
+   "descuento": 0
+  },
+  "direccion_entrega": "Avenida La Marina 2085, corredor B, departamento 1104",
+  "metodo_pago": "sin_verificar",
+  "total_dicho": "sin_verificar"
+ },
+ "validation": {
+  "subtotal": 121,
+  "descuento": 0,
+  "total_calculado": 121,
+  "total_dicho": "sin_verificar",
+  "confianza_total_asr": null,
+  "precios_distintos_al_menu": [],
+  "estado": "sin_total",
+  "diagnostico": "error_asr",
+  "motivo": "El total dicho no se pudo leer en la transcripción."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 6.8,
+  "extraction": 5.62,
+  "total": 5.62
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 106.86,
+  "rtf": 0.0636,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

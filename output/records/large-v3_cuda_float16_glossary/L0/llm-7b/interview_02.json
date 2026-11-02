@@ -1,0 +1,56 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "Hola, ¿qué tal? Bienvenido, gracias por tu tiempo. Hola, gracias a ustedes por la invitación. Mira, te cuento. Algo de urgencia con este puesto, porque el proyecto arranca pronto. ¿Tú cuándo podrías incorporarte? Ah, en eso no hay problema. Terminé mi último contrato hace unas semanas, así que puedo empezar de inmediato. Excelente, entonces cuéntame tu experiencia. Bueno, trabajé tres años en una fintech, haciendo la parte de pagos y luego cuatro años en una empresa de logística. En total son siete años como desarrollador. Ok, y en empresa de logística, ¿qué hacías? Mi último puesto fue desarrollador backend senior. Me encargaba de los servicios que calculaban las rutas de reparto de los camiones y también revisaba el código de los chicos más nuevos. Ok, ¿y con qué tecnologías trabajaste? Sobre todo con Java con Spring Boot para desplegar, usábamos Docker y los nombres más gubernetes y la base de datos era PostgreSQL ¿Y algún problema técnico difícil que hayas resuelto? Sí, teníamos un servicio que se caía en las campañas de fin de año Cuando los pedidos se triplicaban Lo partimos en servicios más pequeños y pusimos colas de mensaje en el medio Desde ahí aguantó sin problemas, incluso en el Cyber Day Ok, interesante ¿Y trabajaste con equipos de otros países? Sí, la mitad del equipo estaba en México y otra parte en Estados Unidos Así que todas las reuniones eran en inglés Mi nivel es avanzado Perfecto. ¿Cómo te organizas cuando hay muchas tareas a la vez? Priorizo con el líder del producto, lo que bloquea a otros va primero y lo demás lo planificamos en el sprint. Buena respuesta. Hablemos de números. ¿Cuánto esperas de andar? Depende de los beneficios, pero pensaba en un rango entre 9.000 y 10.000. Si tengo que quedar tu número exacto, diría 9800. Ok, está dentro de lo que manejamos. ¿Alguna pregunta para nosotros? Sí, el trabajo es remoto o presencial. Es híbrido, dos días a la semana en la oficina. Perfecto, me parece bien. Genial, gracias por tu tiempo, te escribimos pronto.",
+ "fields": {
+  "anios_experiencia": 7,
+  "ultimo_puesto": "Desarrollador backend senior",
+  "tecnologias": [
+   "Java",
+   "Spring Boot",
+   "Docker",
+   "G/kubernetes",
+   "PostgreSQL"
+  ],
+  "pretension_salarial": 9800,
+  "disponibilidad": {
+   "texto": "de inmediato",
+   "fecha": "2026-11-01"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "verified": {
+  "anios_experiencia": 7,
+  "pretension_salarial": 9800,
+  "ultimo_puesto": "Desarrollador backend senior",
+  "tecnologias": [
+   "Java",
+   "Spring Boot",
+   "Docker",
+   "PostgreSQL"
+  ],
+  "disponibilidad": {
+   "texto": "de inmediato",
+   "fecha": "2026-11-01"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "validation": null,
+ "device": "cuda",
+ "elapsed": {
+  "asr": 9.61,
+  "extraction": 4.07,
+  "total": 4.07
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 154.9,
+  "rtf": 0.062,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "task": "call",
+ "method": "llm",
+ "transcript": "la buena masa buenas noches que le provoco hoy hola buenas es para una reunion de cumpleaños quiero una pepperoni familiar y una americana familiar la pepperoni familiar esta cuarenta y nueve y la americana familiar cuarenta y cinco la pepperoni familiar cuarenta y cinco llevando dos familiares tiene el costo familiar tiene el combo familiar quince soles de descuento ah perfecto y una gaseosa de litro y medio una gaseosa a nueve soles algo mas las pizzas pueden venir cortadas en cuadraditos es que hay niños si claro se las mandamos cortadas en cuadrados genial ah y no sabes que somos bastantes mejor que sean tres gaseosas corrijo entonces tres gaseosas de litro y medio a nueve soles cada una si eso ok a que direccion lo enviamos avenida la marina dos mil ochenta y cinco torre b departamento mil ciento cuatro le repito avenida la marina dos mil ochenta y cinco torre b departamento mil cuatrocientos cuatro correcto en la entrada hay que dejar el dni con el portero perfecto el motorizado estara avisado como paga con plin muy bien el total es de ciento dieciseis soles ok listo cuanto demora unos cincuenta minutos porque es hora punta y hay bastantes pedidos esta bien no hay problema gracias es usted buenas noches y feliz cumpleaños gracias",
+ "fields": {
+  "items": [
+   {
+    "producto": "pepperoni familiar",
+    "cantidad": 1,
+    "precio_unitario": 49
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 3,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "combo familiar con descuento",
+   "descuento": 15
+  },
+  "direccion_entrega": "Avenida La Marina 2085 Torre B Departamento 104",
+  "metodo_pago": "plin",
+  "total_dicho": 160
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "pepperoni familiar",
+    "cantidad": 1,
+    "precio_unitario": 49
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 3,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "combo familiar con descuento",
+   "descuento": 15
+  },
+  "direccion_entrega": "Avenida La Marina 2085 Torre B Departamento 104",
+  "metodo_pago": "plin",
+  "total_dicho": "sin_verificar"
+ },
+ "validation": {
+  "subtotal": 121,
+  "descuento": 15,
+  "total_calculado": 106,
+  "total_dicho": "sin_verificar",
+  "confianza_total_asr": null,
+  "precios_distintos_al_menu": [
+   {
+    "producto": "pepperoni familiar",
+    "dicho": 45,
+    "menu": 49
+   }
+  ],
+  "estado": "sin_total",
+  "diagnostico": "error_asr",
+  "motivo": "El total dicho no se pudo leer en la transcripción."
+ },
+ "device": "n/a",
+ "elapsed": {
+  "asr": 0,
+  "extraction": 5.58,
+  "total": 5.58
+ },
+ "error": null,
+ "asr": {
+  "model": "reference",
+  "compute_type": null,
+  "glossary": null,
+  "audio_seconds": null,
+  "rtf": null,
+  "vram_model_mb": 0,
+  "vram_peak_extra_mb": 0,
+  "gpu_name": null
+ }
+}

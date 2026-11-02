@@ -1,0 +1,53 @@
+{
+ "task": "interview",
+ "method": "regex",
+ "transcript": "Buenos días, gracias por conectarte. ¿Me escuchas bien? Sí, perfecto, buenos días. Gracias por la oportunidad. Un gusto. Mira, la entrevista va a durar unos minutos. Antes de empezar, para no olvidarlo, ¿cuál es tu expectativa salarial? Bueno, estoy revisando cuánto se paga en el mercado para puestos parecidos y estoy buscando alrededor de 6.500 soles mensuales. Ya, perfecto, lo noto. Ahora sí, cuéntame un poco sobre tu trayectoria. Claro. Estudié estadística en la universidad y empecé haciendo prácticas en un banco en el área de riesgos. Al terminar las prácticas me contrataron y desde ahí no he parado. Ya llevo cuatro años y medio trabajando con Datos. ¿Y en dónde has estado trabajando ahora? Mi último puesto es analista de Datos Junior en una empresa de retail. Somos un equipo pequeño de tres personas y vemos sobre todo los reportes de ventas y de inventario en todas las siervas. Ya, ¿y qué herramientas usas en el día a día? Principalmente Python para limpiar y cruzar datos, SQL para sacar la información de la base de datos y Power BI para armar los tableros que hay en los gerentes Ya, a ver, ¿me podrías contar un poco de un proyecto del que te sientas orgulloso? Sí, armé un tablero que mostró qué tiendas se iban a crear sin stock antes del fin de semana Antes eso se revisaba a mano, tienda por tienda. Con el tablero de los encargados podíamos pedir mercadería a tiempo y redujimos los quiebres de stock como en un 20%. ¿Y qué fue lo más difícil del proyecto? Convencer a la gente de usarlo, la verdad. Al principio nadie lo abría, así que tuve que ir a explicarlo en las reuniones semanales. Ok, entiendo. ¿Y por qué quieres cambiar de trabajo? Siento que ya aprendí lo que podía ahí Y quiero trabajar en algo más analítico Como de los predictivos Y no solo hacer reportes Ok, y si todo sale bien ¿Cuánto podrías empezar con nosotros? Tendría que avisar mi trabajo actual Y dejar todo ordenado Así que podría empezar en dos semanas Perfecto, una última cosa ¿Cómo está tu inglés? Diría que intermedio Leo documentación técnica sin problema problema, pero hablando todavía me falta práctica. Muy bien, eso es todo por hoy. Te contactamos la siguiente semana con la respuesta. Muchas gracias.",
+ "fields": {
+  "anios_experiencia": 4.5,
+  "ultimo_puesto": "analista de datos junior",
+  "tecnologias": [
+   "Power BI",
+   "Python",
+   "SQL"
+  ],
+  "pretension_salarial": 6500,
+  "disponibilidad": {
+   "texto": "empezar en dos semanas",
+   "fecha": "2026-11-15"
+  },
+  "nivel_ingles": "intermedio"
+ },
+ "verified": {
+  "anios_experiencia": 4.5,
+  "pretension_salarial": 6500,
+  "ultimo_puesto": "analista de datos junior",
+  "tecnologias": [
+   "Power BI",
+   "Python",
+   "SQL"
+  ],
+  "disponibilidad": {
+   "texto": "empezar en dos semanas",
+   "fecha": "2026-11-15"
+  },
+  "nivel_ingles": "intermedio"
+ },
+ "validation": null,
+ "device": "cuda",
+ "elapsed": {
+  "asr": 10.31,
+  "extraction": 0.0,
+  "total": 0.0
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 149.27,
+  "rtf": 0.0691,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

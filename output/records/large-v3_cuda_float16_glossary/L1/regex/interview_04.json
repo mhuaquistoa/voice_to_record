@@ -1,0 +1,53 @@
+{
+ "task": "interview",
+ "method": "regex",
+ "transcript": "Hola, gracias por aceptar la entrevista. Para empezar, ¿me pueden recibir de perfil, por favor? Claro, soy diseñador y tengo 10 años de experiencia. Empecé haciendo páginas web para pequeños negocios y después me especialicé en experiencia de usuario. Actualmente, bueno, mi último puesto es líder de diseño UX en una startup de educación. ¿Y cuántas personas tienes a cargo? Un equipo de cuatro diseñadores, dos se encargan de la móvil y dos de la plataforma web. ¿Y qué herramientas usan? Para diseñar usamos Figma y como también hago prototipos con código, trabajo con React y TypeScript. Eso me ayuda mucho a desarrollar el mismo idioma que los desarrolladores. ¿Y cómo mides si un diseño funciona o no? Con pruebas de usuario y con métricas. Por ejemplo, prediseñamos el registro de alumnos que tenían muchos pasos y la tasa de abandono bajó casi a la mitad. ¿Y cómo estás de acuerdo con un gerente sobre un diseño? Trato de no discutir con opiniones, pero propongo probar las dos versiones con seras reales y que los datos coincidan. Muy bien. El puesto requiere presentar a clientes de afuera. ¿Cómo te sientes con ingresos? Bien, tengo un inglés avanzado. Lo he presentado en dos conferencias internacionales. Excelente. ¿Qué te motiva esta posición? Me interesa que produzca la audición de miles de personas y que el equipo de diseño todavía se esté formando. Me gustaría construir equipos. Perfecto. Y en cuanto a lo económico, ¿qué tienes en mente? Hoy gano un poco menos, pero por la responsabilidad de puesta estoy buscando 12.000 soles. Entendido. ¿Y cuándo podría empezar? Mi contrato me pide dar un mes de preaviso, así que podría empezar en un mes. Perfecto. Eso nos acomoda. ¿Tienes alguna otra pregunta? Sí. ¿El equipo de diseño ya existe o habría que hablarlo desde cero? Hay dos personas. La idea es crecer a cinco este año. Genial. Me interesa mucho. Muchas gracias. Estamos en contacto.",
+ "fields": {
+  "anios_experiencia": 10,
+  "ultimo_puesto": "lider de diseño ux",
+  "tecnologias": [
+   "Figma",
+   "React",
+   "TypeScript"
+  ],
+  "pretension_salarial": 12000,
+  "disponibilidad": {
+   "texto": "empezar en un mes",
+   "fecha": "2026-12-01"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "verified": {
+  "anios_experiencia": 10,
+  "pretension_salarial": 12000,
+  "ultimo_puesto": "lider de diseño ux",
+  "tecnologias": [
+   "Figma",
+   "React",
+   "TypeScript"
+  ],
+  "disponibilidad": {
+   "texto": "empezar en un mes",
+   "fecha": "2026-12-01"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "validation": null,
+ "device": "cuda",
+ "elapsed": {
+  "asr": 8.73,
+  "extraction": 0.0,
+  "total": 0.0
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 141.42,
+  "rtf": 0.0618,
+  "vram_model_mb": 3776,
+  "vram_peak_extra_mb": 192,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

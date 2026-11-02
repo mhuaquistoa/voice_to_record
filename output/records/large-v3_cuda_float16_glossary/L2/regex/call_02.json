@@ -1,0 +1,75 @@
+{
+ "task": "call",
+ "method": "regex",
+ "transcript": "La Buena Masa, buenas tardes, ¿en qué le ayudo? Hola, quiero hacer un pedido para delivery, por favor. Claro, dígame. Una pizza de pepperoni familiar y un pan al ajo. La pepperoni familiar está a 49 soles, el pan al ajo está a 12 soles. Eh, ¿sabes qué? ¿Sabes qué? Cambia el pan al ajo por unos alitas. ¿Cómo vienen los alitas? Vienen de 6 unidades, con salsa barbecue y picante. Barboco. Por favor, las de seis unidades. Listo. Quito el pan y le pongo las listas de seis unidades a 24 soles. Y dos gaseosas a el otro y medio. Dos gaseosas a nueve soles cada una. Una pregunta, ¿es su primera compra con nosotros? Sí, es la primera vez que pido. Me recomiendo una amiga. Qué bueno. Entonces tiene la promoción de primera compra. Diez soles de descuento. Buenísimo. ¿A qué dirección enviamos? Girón Junín 345 en el Cerrado. Es una quinta. Hay que tocar el timbre del fondo. Ok, Girón Junín 345. Timbre del fondo. ¿Forma de pago? En efectivo. Voy a pagar con un billete de 100. ¡Fua! El motorizado lleva el vuelto. El total es 80 y un soles. Perfecto. ¿Cuánto se demora? Unos 45 minutos Oh, gracias A usted, que eso es su pedido",
+ "fields": {
+  "items": [
+   {
+    "producto": "alitas x6",
+    "cantidad": 1,
+    "precio_unitario": 24
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 2,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "diez soles de descuento",
+   "descuento": 10
+  },
+  "direccion_entrega": "giron junin trescientos cuarenta y cinco en el cerrado",
+  "metodo_pago": "efectivo",
+  "total_dicho": 81
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "alitas x6",
+    "cantidad": 1,
+    "precio_unitario": 24
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 2,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "diez soles de descuento",
+   "descuento": 10
+  },
+  "direccion_entrega": "giron junin trescientos cuarenta y cinco en el cerrado",
+  "metodo_pago": "efectivo",
+  "total_dicho": 81
+ },
+ "validation": {
+  "subtotal": 42,
+  "descuento": 10,
+  "total_calculado": 32,
+  "total_dicho": 81,
+  "confianza_total_asr": 0.808,
+  "precios_distintos_al_menu": [],
+  "estado": "no_cuadra",
+  "diagnostico": "error_hablante",
+  "motivo": "La transcripción es confiable: se dijo 81 pero la suma da 32."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 6.74,
+  "extraction": 0.0,
+  "total": 0.0
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 98.32,
+  "rtf": 0.0686,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

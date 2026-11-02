@@ -1,0 +1,53 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "buenos dias gracias por conectarte me escuchas bien si perfecto buenos dias gracias por la oportunidad un gusto mira la entrevista va a durar unos minutos antes de empezar para no olvidarlo cual es tu expectativa salarial bueno estoy revisando cuanto se paga en el mercado para puestos parecidos y estoy buscando alrededor de seis mil quinientos soles mensuales ya perfecto noto ahora si cuentame un poco sobre tu trayectoria claro estudie estadistica en la universidad y empece haciendo practicas en un banco en el area de riesgos al terminar las practicas me contrataron y desde ahi no he parado ya llevo cuatro años y medio trabajando con datos y en donde has estado trabajando ahora mi ultimo puesto es analista de datos junior en una empresa de retail somos un equipo pequeño de tres personas y vemos sobre todo los reportes de ventas y de inventario en todas las tiendas que herramientas usas en el dia a dia principalmente python para limpiar y cruzar datos sql para sacar la informacion de la base de datos y power bi para armar los tableros que hay en los gerentes ya a ver me podrias contar un poco de un proyecto del que te sientas orgulloso si arme un tablero que mostro que tiendas se iban a quedar sin stock antes del fin de semana antes eso se revisaba a mano tienda por tienda con el tablero de los encargados podian pedir mercaderia a tiempo y redujimos los quiebres de stock como en un veinte por ciento y que fue lo mas dificil del proyecto convencer a la gente de usarlo la verdad al principio nadie lo abria asi que tuve que ir a explicarlo en las reuniones semanales ok entiendo y por que quieres cambiar de trabajo siento que ya aprendi lo que podia ahi y quiero trabajar en algo mas analitico con modelos predictivos y no solo hacer reportes si todo sale bien cuanto podrias empezar con nosotros tendria que avisar mi trabajo actual y dejar todo ordenado asi que podria empezar en dos semanas perfecto una ultima cosa como esta tu ingles diria que intermedio leo documentacion tecnica sin problema pero hablando todavia me falta practica muy bien eso es todo por hoy te contactamos la siguiente semana con la respuesta muchas gracias que tengas buen dia",
+ "fields": {
+  "anios_experiencia": 4.5,
+  "ultimo_puesto": "Analista de datos junior",
+  "tecnologias": [
+   "Python",
+   "SQL",
+   "Power BI"
+  ],
+  "pretension_salarial": 6500,
+  "disponibilidad": {
+   "texto": "en dos semanas",
+   "fecha": "2026-11-15"
+  },
+  "nivel_ingles": "intermedio"
+ },
+ "verified": {
+  "anios_experiencia": 4.5,
+  "pretension_salarial": 6500,
+  "ultimo_puesto": "Analista de datos junior",
+  "tecnologias": [
+   "Python",
+   "SQL",
+   "Power BI"
+  ],
+  "disponibilidad": {
+   "texto": "en dos semanas",
+   "fecha": "2026-11-15"
+  },
+  "nivel_ingles": "intermedio"
+ },
+ "validation": null,
+ "device": "n/a",
+ "elapsed": {
+  "asr": 0,
+  "extraction": 3.43,
+  "total": 3.43
+ },
+ "error": null,
+ "asr": {
+  "model": "reference",
+  "compute_type": null,
+  "glossary": null,
+  "audio_seconds": null,
+  "rtf": null,
+  "vram_model_mb": 0,
+  "vram_peak_extra_mb": 0,
+  "gpu_name": null
+ }
+}
