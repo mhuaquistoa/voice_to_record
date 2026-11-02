@@ -1,0 +1,65 @@
+{
+ "task": "call",
+ "method": "regex",
+ "transcript": "La Buena Masa, buenas tardes, ¿en qué le ayudó? Hola, ¿qué va a ser un pedido para delivery, por favor? Claro, dígame. Una pizza con pan al ajo. Pero el problema es que el dinero está a 49 soles, el pan al ajo está a 2 pesos. Bueno, ¿sabes qué? ¿sabes qué? Cambia el pan al ajo con unos alitajos. ¿Cómo vienen los alitajos? Vienen de 6 unidades, con salsa barbecue y picante. Van Bocó. Por favor, tiras de 6 unidades. Listo. Tito y Pan, y le pongo a listas de 6 unidades a 24 torres. Y dos gaseosas del otro medio. Dos gaseosas a 9 soles cada una. Una pregunta, ¿es su primera compra con otro trip? Sí, es la primera vez que pido, me recomendó una amiga. ¡Qué bueno! Entonces tienen la promoción de primera compra. 10 horas de descuento. Buenísimo. ¿A qué edición lo enviamos? Tigón Junín 345 en el centro. En una quinta, hay que tocar el tinte de fondo. Ok, Tigón Junín 345, tinte de fondo. ¿Forma de pago? En efectivo, voy a pagar con un billete de 100. El motorizado llega al momento. El total es 80.000 y un soporte. Perfecto. ¿Cuánto se demoró? Unos 45 minutos. Ok. Gracias. Ok.",
+ "fields": {
+  "items": [
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 2,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": null,
+  "direccion_entrega": null,
+  "metodo_pago": "efectivo",
+  "total_dicho": 80000
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 2,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": null,
+  "direccion_entrega": null,
+  "metodo_pago": "efectivo",
+  "total_dicho": 80000
+ },
+ "validation": {
+  "subtotal": 18,
+  "descuento": 0,
+  "total_calculado": 18,
+  "total_dicho": 80000,
+  "confianza_total_asr": 0.404,
+  "precios_distintos_al_menu": [
+   {
+    "producto": "pan al ajo",
+    "dicho": 2,
+    "menu": 12
+   }
+  ],
+  "estado": "no_cuadra",
+  "diagnostico": "error_asr",
+  "motivo": "Whisper no está seguro del total (confianza 0.404) o falta verificar ítems: escuchar el audio."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 6.78,
+  "extraction": 0.0,
+  "total": 0.0
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 98.32,
+  "rtf": 0.0689,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

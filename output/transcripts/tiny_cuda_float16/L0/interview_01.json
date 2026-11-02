@@ -1,0 +1,2436 @@
+{
+ "text": "Gracias por conectarte. Me escucha bien. Sí, perfecta, buenos días. Gracias por la oportunidad. Un gusto, mira. Dentro dice ahora unos minutos, antes de empezar, para no olvidarlo, ¿cuál es ese pedagogía salarial? Bueno, soy realizando cuántos se pagaron al mercado para posas parecidos y estoy buscando alrededor de sí. Sí, me he generado dos mensales. Ya, perfecto, no, no. Ahora sí, fue no un poco sobre tu trayectoria. Claro, esto es mi esticora de la Universidad, que empezaseando a practicarse en un banco en el olídeo de riesgos, a terminar la práctica de otra parama, y de ahí no parado, porque yo 4 años me he trabajado con datos. Y en donde ha estado trabajando ahora? Mi último pasado son la lista de la toribunidad en una empresa de son un equipo pequeño de otras personas y vemos sobre todo los reportos de ventás y metario de todas las firmas, ya y realmente susas en mi en día a día, principalmente para el império de los adaptos, ese juego le ponas a creer información de la base de datos y por vía y para armar los tareas que lo gerentes, ya me podrían encontrar un poco de un proyecto de que te sientas orgulloso, Sí, armando a lo que hemos sido, a que tiendos, y van a crearse un estado antes del fin de semana. Antes, eso se realizaba a mano, que me apretienda. Con el tarea de los escredados podían pedir verte a la tienda, y redujo en los que redistas como era un 20%. ¿Y qué fue el lo más difícil de proyecto? Con mancer a la gente a usar lo lo va. El principio no es la vida, así que todo es que ir a explicarlo en las reuniones a marales. Ok, entiendo. ¿Y por qué quieres cambiar detrás? Siendo que ya aprendí lo que podía ir y quiero trabajar en algo más analítico, como él es prohibitivo, si no se lo salga por otras. Ok, y si todos salga bien, ¿cuánto podría empezar con nosotros? Tendría que haberciado mi trabajo actual y dejar todo orenado, así que podría empezar en dos semanas. Perfecto, uno de me gusta, como como esta tingurece. Día el intermedio, le hago documentos en técnica siempre haré más, pero hablando todavía no falta práctica. Muy bien, esto es por hoy. Te contactamos la semana, las le siguen de semana con la respuesta. Muchas gracias.",
+ "words": [
+  {
+   "w": " Gracias",
+   "start": 1.26,
+   "end": 1.72,
+   "p": 0.04
+  },
+  {
+   "w": " por",
+   "start": 1.72,
+   "end": 2.16,
+   "p": 0.862
+  },
+  {
+   "w": " conectarte.",
+   "start": 2.16,
+   "end": 2.7,
+   "p": 0.787
+  },
+  {
+   "w": " Me",
+   "start": 2.9,
+   "end": 2.96,
+   "p": 0.286
+  },
+  {
+   "w": " escucha",
+   "start": 2.96,
+   "end": 3.1,
+   "p": 0.461
+  },
+  {
+   "w": " bien.",
+   "start": 3.1,
+   "end": 4.14,
+   "p": 0.971
+  },
+  {
+   "w": " Sí,",
+   "start": 5.1,
+   "end": 5.14,
+   "p": 0.359
+  },
+  {
+   "w": " perfecta,",
+   "start": 5.22,
+   "end": 5.62,
+   "p": 0.521
+  },
+  {
+   "w": " buenos",
+   "start": 5.84,
+   "end": 5.88,
+   "p": 0.351
+  },
+  {
+   "w": " días.",
+   "start": 5.88,
+   "end": 6.16,
+   "p": 0.996
+  },
+  {
+   "w": " Gracias",
+   "start": 6.4,
+   "end": 6.66,
+   "p": 0.523
+  },
+  {
+   "w": " por",
+   "start": 6.66,
+   "end": 6.84,
+   "p": 0.959
+  },
+  {
+   "w": " la",
+   "start": 6.84,
+   "end": 6.96,
+   "p": 0.834
+  },
+  {
+   "w": " oportunidad.",
+   "start": 6.96,
+   "end": 7.38,
+   "p": 0.616
+  },
+  {
+   "w": " Un",
+   "start": 8.4,
+   "end": 8.54,
+   "p": 0.217
+  },
+  {
+   "w": " gusto,",
+   "start": 8.54,
+   "end": 8.76,
+   "p": 0.902
+  },
+  {
+   "w": " mira.",
+   "start": 8.9,
+   "end": 9.14,
+   "p": 0.834
+  },
+  {
+   "w": " Dentro",
+   "start": 9.4,
+   "end": 9.54,
+   "p": 0.555
+  },
+  {
+   "w": " dice",
+   "start": 9.54,
+   "end": 9.66,
+   "p": 0.064
+  },
+  {
+   "w": " ahora",
+   "start": 9.66,
+   "end": 9.88,
+   "p": 0.604
+  },
+  {
+   "w": " unos",
+   "start": 9.88,
+   "end": 10.4,
+   "p": 0.96
+  },
+  {
+   "w": " minutos,",
+   "start": 10.4,
+   "end": 11.46,
+   "p": 0.748
+  },
+  {
+   "w": " antes",
+   "start": 11.9,
+   "end": 11.96,
+   "p": 0.968
+  },
+  {
+   "w": " de",
+   "start": 11.96,
+   "end": 12.1,
+   "p": 0.958
+  },
+  {
+   "w": " empezar,",
+   "start": 12.1,
+   "end": 12.36,
+   "p": 0.995
+  },
+  {
+   "w": " para",
+   "start": 12.58,
+   "end": 12.66,
+   "p": 0.645
+  },
+  {
+   "w": " no",
+   "start": 12.66,
+   "end": 12.74,
+   "p": 0.441
+  },
+  {
+   "w": " olvidarlo,",
+   "start": 12.74,
+   "end": 13.18,
+   "p": 0.937
+  },
+  {
+   "w": " ¿cuál",
+   "start": 13.36,
+   "end": 13.46,
+   "p": 0.32
+  },
+  {
+   "w": " es",
+   "start": 13.46,
+   "end": 13.46,
+   "p": 0.432
+  },
+  {
+   "w": " ese",
+   "start": 13.46,
+   "end": 13.58,
+   "p": 0.092
+  },
+  {
+   "w": " pedagogía",
+   "start": 13.58,
+   "end": 13.82,
+   "p": 0.315
+  },
+  {
+   "w": " salarial?",
+   "start": 13.82,
+   "end": 14.22,
+   "p": 0.504
+  },
+  {
+   "w": " Bueno,",
+   "start": 15.94,
+   "end": 16.4,
+   "p": 0.719
+  },
+  {
+   "w": " soy",
+   "start": 16.46,
+   "end": 16.62,
+   "p": 0.107
+  },
+  {
+   "w": " realizando",
+   "start": 16.62,
+   "end": 17.08,
+   "p": 0.387
+  },
+  {
+   "w": " cuántos",
+   "start": 17.08,
+   "end": 17.94,
+   "p": 0.428
+  },
+  {
+   "w": " se",
+   "start": 17.94,
+   "end": 18.14,
+   "p": 0.624
+  },
+  {
+   "w": " pagaron",
+   "start": 18.14,
+   "end": 18.3,
+   "p": 0.32
+  },
+  {
+   "w": " al",
+   "start": 18.3,
+   "end": 18.58,
+   "p": 0.547
+  },
+  {
+   "w": " mercado",
+   "start": 18.58,
+   "end": 18.74,
+   "p": 0.974
+  },
+  {
+   "w": " para",
+   "start": 18.74,
+   "end": 19.04,
+   "p": 0.836
+  },
+  {
+   "w": " posas",
+   "start": 19.04,
+   "end": 19.28,
+   "p": 0.536
+  },
+  {
+   "w": " parecidos",
+   "start": 19.28,
+   "end": 19.74,
+   "p": 0.684
+  },
+  {
+   "w": " y",
+   "start": 19.74,
+   "end": 20.04,
+   "p": 0.42
+  },
+  {
+   "w": " estoy",
+   "start": 20.04,
+   "end": 20.22,
+   "p": 0.904
+  },
+  {
+   "w": " buscando",
+   "start": 20.22,
+   "end": 20.54,
+   "p": 0.95
+  },
+  {
+   "w": " alrededor",
+   "start": 20.54,
+   "end": 20.92,
+   "p": 0.626
+  },
+  {
+   "w": " de",
+   "start": 20.92,
+   "end": 21.22,
+   "p": 0.741
+  },
+  {
+   "w": " sí.",
+   "start": 21.22,
+   "end": 21.32,
+   "p": 0.214
+  },
+  {
+   "w": " Sí,",
+   "start": 21.58,
+   "end": 21.78,
+   "p": 0.507
+  },
+  {
+   "w": " me",
+   "start": 21.78,
+   "end": 21.88,
+   "p": 0.417
+  },
+  {
+   "w": " he",
+   "start": 21.88,
+   "end": 22.02,
+   "p": 0.127
+  },
+  {
+   "w": " generado",
+   "start": 22.02,
+   "end": 22.18,
+   "p": 0.553
+  },
+  {
+   "w": " dos",
+   "start": 22.18,
+   "end": 22.42,
+   "p": 0.506
+  },
+  {
+   "w": " mensales.",
+   "start": 22.42,
+   "end": 23.26,
+   "p": 0.321
+  },
+  {
+   "w": " Ya,",
+   "start": 24.56,
+   "end": 24.56,
+   "p": 0.513
+  },
+  {
+   "w": " perfecto,",
+   "start": 24.74,
+   "end": 25.04,
+   "p": 0.902
+  },
+  {
+   "w": " no,",
+   "start": 25.04,
+   "end": 25.2,
+   "p": 0.674
+  },
+  {
+   "w": " no.",
+   "start": 25.5,
+   "end": 25.64,
+   "p": 0.613
+  },
+  {
+   "w": " Ahora",
+   "start": 25.64,
+   "end": 25.8,
+   "p": 0.708
+  },
+  {
+   "w": " sí,",
+   "start": 25.8,
+   "end": 26.3,
+   "p": 0.833
+  },
+  {
+   "w": " fue",
+   "start": 26.58,
+   "end": 26.68,
+   "p": 0.521
+  },
+  {
+   "w": " no",
+   "start": 26.68,
+   "end": 26.76,
+   "p": 0.318
+  },
+  {
+   "w": " un",
+   "start": 26.76,
+   "end": 26.88,
+   "p": 0.968
+  },
+  {
+   "w": " poco",
+   "start": 26.88,
+   "end": 27.02,
+   "p": 0.864
+  },
+  {
+   "w": " sobre",
+   "start": 27.02,
+   "end": 27.22,
+   "p": 0.068
+  },
+  {
+   "w": " tu",
+   "start": 27.22,
+   "end": 27.32,
+   "p": 0.393
+  },
+  {
+   "w": " trayectoria.",
+   "start": 27.32,
+   "end": 27.86,
+   "p": 0.617
+  },
+  {
+   "w": " Claro,",
+   "start": 29.64,
+   "end": 29.74,
+   "p": 0.779
+  },
+  {
+   "w": " esto",
+   "start": 30.2,
+   "end": 30.48,
+   "p": 0.565
+  },
+  {
+   "w": " es",
+   "start": 30.48,
+   "end": 30.64,
+   "p": 0.132
+  },
+  {
+   "w": " mi",
+   "start": 30.64,
+   "end": 30.64,
+   "p": 0.266
+  },
+  {
+   "w": " esticora",
+   "start": 30.64,
+   "end": 31.22,
+   "p": 0.197
+  },
+  {
+   "w": " de",
+   "start": 31.22,
+   "end": 31.38,
+   "p": 0.353
+  },
+  {
+   "w": " la",
+   "start": 31.38,
+   "end": 31.38,
+   "p": 0.246
+  },
+  {
+   "w": " Universidad,",
+   "start": 31.38,
+   "end": 31.84,
+   "p": 0.618
+  },
+  {
+   "w": " que",
+   "start": 31.98,
+   "end": 32.02,
+   "p": 0.342
+  },
+  {
+   "w": " empezaseando",
+   "start": 32.02,
+   "end": 32.58,
+   "p": 0.424
+  },
+  {
+   "w": " a",
+   "start": 32.58,
+   "end": 32.74,
+   "p": 0.662
+  },
+  {
+   "w": " practicarse",
+   "start": 32.74,
+   "end": 33.36,
+   "p": 0.735
+  },
+  {
+   "w": " en",
+   "start": 33.36,
+   "end": 33.4,
+   "p": 0.711
+  },
+  {
+   "w": " un",
+   "start": 33.4,
+   "end": 33.46,
+   "p": 0.995
+  },
+  {
+   "w": " banco",
+   "start": 33.46,
+   "end": 33.9,
+   "p": 0.943
+  },
+  {
+   "w": " en",
+   "start": 33.9,
+   "end": 34.3,
+   "p": 0.694
+  },
+  {
+   "w": " el",
+   "start": 34.3,
+   "end": 34.38,
+   "p": 0.385
+  },
+  {
+   "w": " olídeo",
+   "start": 34.38,
+   "end": 34.58,
+   "p": 0.331
+  },
+  {
+   "w": " de",
+   "start": 34.58,
+   "end": 34.7,
+   "p": 0.894
+  },
+  {
+   "w": " riesgos,",
+   "start": 34.7,
+   "end": 35.3,
+   "p": 0.417
+  },
+  {
+   "w": " a",
+   "start": 35.68,
+   "end": 35.68,
+   "p": 0.259
+  },
+  {
+   "w": " terminar",
+   "start": 35.68,
+   "end": 35.86,
+   "p": 0.412
+  },
+  {
+   "w": " la",
+   "start": 35.86,
+   "end": 36.22,
+   "p": 0.474
+  },
+  {
+   "w": " práctica",
+   "start": 36.22,
+   "end": 36.46,
+   "p": 0.787
+  },
+  {
+   "w": " de",
+   "start": 36.46,
+   "end": 36.68,
+   "p": 0.576
+  },
+  {
+   "w": " otra",
+   "start": 36.68,
+   "end": 36.88,
+   "p": 0.243
+  },
+  {
+   "w": " parama,",
+   "start": 36.88,
+   "end": 37.34,
+   "p": 0.262
+  },
+  {
+   "w": " y",
+   "start": 37.5,
+   "end": 37.56,
+   "p": 0.135
+  },
+  {
+   "w": " de",
+   "start": 37.56,
+   "end": 37.68,
+   "p": 0.373
+  },
+  {
+   "w": " ahí",
+   "start": 37.68,
+   "end": 37.82,
+   "p": 0.92
+  },
+  {
+   "w": " no",
+   "start": 37.82,
+   "end": 38.0,
+   "p": 0.565
+  },
+  {
+   "w": " parado,",
+   "start": 38.0,
+   "end": 38.38,
+   "p": 0.474
+  },
+  {
+   "w": " porque",
+   "start": 38.7,
+   "end": 38.78,
+   "p": 0.822
+  },
+  {
+   "w": " yo",
+   "start": 38.78,
+   "end": 39.08,
+   "p": 0.526
+  },
+  {
+   "w": " 4",
+   "start": 39.08,
+   "end": 39.6,
+   "p": 0.171
+  },
+  {
+   "w": " años",
+   "start": 39.6,
+   "end": 39.88,
+   "p": 0.974
+  },
+  {
+   "w": " me",
+   "start": 39.88,
+   "end": 40.1,
+   "p": 0.869
+  },
+  {
+   "w": " he",
+   "start": 40.1,
+   "end": 40.24,
+   "p": 0.459
+  },
+  {
+   "w": " trabajado",
+   "start": 40.24,
+   "end": 40.62,
+   "p": 0.626
+  },
+  {
+   "w": " con",
+   "start": 40.62,
+   "end": 40.92,
+   "p": 0.936
+  },
+  {
+   "w": " datos.",
+   "start": 40.92,
+   "end": 41.44,
+   "p": 0.727
+  },
+  {
+   "w": " Y",
+   "start": 42.24,
+   "end": 42.34,
+   "p": 0.641
+  },
+  {
+   "w": " en",
+   "start": 42.34,
+   "end": 42.42,
+   "p": 0.82
+  },
+  {
+   "w": " donde",
+   "start": 42.42,
+   "end": 42.64,
+   "p": 0.862
+  },
+  {
+   "w": " ha",
+   "start": 42.64,
+   "end": 42.84,
+   "p": 0.21
+  },
+  {
+   "w": " estado",
+   "start": 42.84,
+   "end": 42.98,
+   "p": 0.979
+  },
+  {
+   "w": " trabajando",
+   "start": 42.98,
+   "end": 43.4,
+   "p": 0.7
+  },
+  {
+   "w": " ahora?",
+   "start": 43.4,
+   "end": 43.94,
+   "p": 0.847
+  },
+  {
+   "w": " Mi",
+   "start": 45.82,
+   "end": 45.98,
+   "p": 0.25
+  },
+  {
+   "w": " último",
+   "start": 45.98,
+   "end": 46.2,
+   "p": 0.797
+  },
+  {
+   "w": " pasado",
+   "start": 46.2,
+   "end": 46.5,
+   "p": 0.057
+  },
+  {
+   "w": " son",
+   "start": 46.5,
+   "end": 46.82,
+   "p": 0.518
+  },
+  {
+   "w": " la",
+   "start": 46.82,
+   "end": 46.9,
+   "p": 0.128
+  },
+  {
+   "w": " lista",
+   "start": 46.9,
+   "end": 47.14,
+   "p": 0.605
+  },
+  {
+   "w": " de",
+   "start": 47.14,
+   "end": 47.26,
+   "p": 0.958
+  },
+  {
+   "w": " la",
+   "start": 47.26,
+   "end": 47.42,
+   "p": 0.828
+  },
+  {
+   "w": " toribunidad",
+   "start": 47.42,
+   "end": 47.72,
+   "p": 0.318
+  },
+  {
+   "w": " en",
+   "start": 47.72,
+   "end": 48.14,
+   "p": 0.101
+  },
+  {
+   "w": " una",
+   "start": 48.14,
+   "end": 48.32,
+   "p": 0.872
+  },
+  {
+   "w": " empresa",
+   "start": 48.32,
+   "end": 48.58,
+   "p": 0.994
+  },
+  {
+   "w": " de",
+   "start": 48.58,
+   "end": 48.8,
+   "p": 0.984
+  },
+  {
+   "w": " son",
+   "start": 48.8,
+   "end": 49.72,
+   "p": 0.018
+  },
+  {
+   "w": " un",
+   "start": 49.72,
+   "end": 50.14,
+   "p": 0.102
+  },
+  {
+   "w": " equipo",
+   "start": 50.14,
+   "end": 50.36,
+   "p": 0.882
+  },
+  {
+   "w": " pequeño",
+   "start": 50.36,
+   "end": 50.68,
+   "p": 0.135
+  },
+  {
+   "w": " de",
+   "start": 50.68,
+   "end": 50.84,
+   "p": 0.862
+  },
+  {
+   "w": " otras",
+   "start": 50.84,
+   "end": 50.92,
+   "p": 0.826
+  },
+  {
+   "w": " personas",
+   "start": 50.92,
+   "end": 51.36,
+   "p": 0.991
+  },
+  {
+   "w": " y",
+   "start": 51.36,
+   "end": 51.7,
+   "p": 0.812
+  },
+  {
+   "w": " vemos",
+   "start": 51.7,
+   "end": 52.08,
+   "p": 0.961
+  },
+  {
+   "w": " sobre",
+   "start": 52.08,
+   "end": 52.44,
+   "p": 0.311
+  },
+  {
+   "w": " todo",
+   "start": 52.44,
+   "end": 52.68,
+   "p": 0.792
+  },
+  {
+   "w": " los",
+   "start": 52.68,
+   "end": 52.9,
+   "p": 0.487
+  },
+  {
+   "w": " reportos",
+   "start": 52.9,
+   "end": 53.2,
+   "p": 0.648
+  },
+  {
+   "w": " de",
+   "start": 53.2,
+   "end": 53.38,
+   "p": 0.862
+  },
+  {
+   "w": " ventás",
+   "start": 53.38,
+   "end": 53.74,
+   "p": 0.333
+  },
+  {
+   "w": " y",
+   "start": 53.74,
+   "end": 54.0,
+   "p": 0.941
+  },
+  {
+   "w": " metario",
+   "start": 54.0,
+   "end": 54.4,
+   "p": 0.222
+  },
+  {
+   "w": " de",
+   "start": 54.4,
+   "end": 54.64,
+   "p": 0.365
+  },
+  {
+   "w": " todas",
+   "start": 54.64,
+   "end": 54.8,
+   "p": 0.935
+  },
+  {
+   "w": " las",
+   "start": 54.8,
+   "end": 54.9,
+   "p": 0.979
+  },
+  {
+   "w": " firmas,",
+   "start": 54.9,
+   "end": 56.76,
+   "p": 0.524
+  },
+  {
+   "w": " ya",
+   "start": 57.4,
+   "end": 57.52,
+   "p": 0.591
+  },
+  {
+   "w": " y",
+   "start": 57.52,
+   "end": 58.2,
+   "p": 0.833
+  },
+  {
+   "w": " realmente",
+   "start": 58.2,
+   "end": 58.42,
+   "p": 0.445
+  },
+  {
+   "w": " susas",
+   "start": 58.42,
+   "end": 58.88,
+   "p": 0.533
+  },
+  {
+   "w": " en",
+   "start": 58.88,
+   "end": 59.04,
+   "p": 0.969
+  },
+  {
+   "w": " mi",
+   "start": 59.04,
+   "end": 59.2,
+   "p": 0.327
+  },
+  {
+   "w": " en",
+   "start": 59.2,
+   "end": 59.3,
+   "p": 0.239
+  },
+  {
+   "w": " día",
+   "start": 59.3,
+   "end": 59.76,
+   "p": 0.979
+  },
+  {
+   "w": " a",
+   "start": 59.76,
+   "end": 59.96,
+   "p": 0.684
+  },
+  {
+   "w": " día,",
+   "start": 59.96,
+   "end": 60.22,
+   "p": 0.984
+  },
+  {
+   "w": " principalmente",
+   "start": 62.32,
+   "end": 62.84,
+   "p": 0.927
+  },
+  {
+   "w": " para",
+   "start": 62.84,
+   "end": 63.2,
+   "p": 0.422
+  },
+  {
+   "w": " el",
+   "start": 63.2,
+   "end": 63.74,
+   "p": 0.161
+  },
+  {
+   "w": " império",
+   "start": 63.74,
+   "end": 64.0,
+   "p": 0.249
+  },
+  {
+   "w": " de",
+   "start": 64.0,
+   "end": 64.2,
+   "p": 0.438
+  },
+  {
+   "w": " los",
+   "start": 64.2,
+   "end": 64.28,
+   "p": 0.854
+  },
+  {
+   "w": " adaptos,",
+   "start": 64.28,
+   "end": 64.98,
+   "p": 0.549
+  },
+  {
+   "w": " ese",
+   "start": 65.12,
+   "end": 65.28,
+   "p": 0.573
+  },
+  {
+   "w": " juego",
+   "start": 65.28,
+   "end": 65.44,
+   "p": 0.155
+  },
+  {
+   "w": " le",
+   "start": 65.44,
+   "end": 65.74,
+   "p": 0.318
+  },
+  {
+   "w": " ponas",
+   "start": 65.74,
+   "end": 65.78,
+   "p": 0.274
+  },
+  {
+   "w": " a",
+   "start": 65.78,
+   "end": 65.94,
+   "p": 0.581
+  },
+  {
+   "w": " creer",
+   "start": 65.94,
+   "end": 66.08,
+   "p": 0.401
+  },
+  {
+   "w": " información",
+   "start": 66.08,
+   "end": 66.44,
+   "p": 0.369
+  },
+  {
+   "w": " de",
+   "start": 66.44,
+   "end": 66.64,
+   "p": 0.959
+  },
+  {
+   "w": " la",
+   "start": 66.64,
+   "end": 66.72,
+   "p": 0.224
+  },
+  {
+   "w": " base",
+   "start": 66.72,
+   "end": 66.98,
+   "p": 0.776
+  },
+  {
+   "w": " de",
+   "start": 66.98,
+   "end": 67.1,
+   "p": 0.982
+  },
+  {
+   "w": " datos",
+   "start": 67.1,
+   "end": 67.46,
+   "p": 0.979
+  },
+  {
+   "w": " y",
+   "start": 67.46,
+   "end": 68.14,
+   "p": 0.885
+  },
+  {
+   "w": " por",
+   "start": 68.14,
+   "end": 68.28,
+   "p": 0.935
+  },
+  {
+   "w": " vía",
+   "start": 68.28,
+   "end": 68.56,
+   "p": 0.462
+  },
+  {
+   "w": " y",
+   "start": 68.56,
+   "end": 68.82,
+   "p": 0.259
+  },
+  {
+   "w": " para",
+   "start": 68.82,
+   "end": 68.92,
+   "p": 0.773
+  },
+  {
+   "w": " armar",
+   "start": 68.92,
+   "end": 69.74,
+   "p": 0.612
+  },
+  {
+   "w": " los",
+   "start": 69.74,
+   "end": 70.02,
+   "p": 0.984
+  },
+  {
+   "w": " tareas",
+   "start": 70.02,
+   "end": 70.34,
+   "p": 0.366
+  },
+  {
+   "w": " que",
+   "start": 70.34,
+   "end": 70.54,
+   "p": 0.88
+  },
+  {
+   "w": " lo",
+   "start": 70.54,
+   "end": 70.72,
+   "p": 0.162
+  },
+  {
+   "w": " gerentes,",
+   "start": 70.72,
+   "end": 71.48,
+   "p": 0.785
+  },
+  {
+   "w": " ya",
+   "start": 73.16,
+   "end": 73.16,
+   "p": 0.96
+  },
+  {
+   "w": " me",
+   "start": 73.16,
+   "end": 74.16,
+   "p": 0.823
+  },
+  {
+   "w": " podrían",
+   "start": 74.16,
+   "end": 74.46,
+   "p": 0.37
+  },
+  {
+   "w": " encontrar",
+   "start": 74.46,
+   "end": 74.7,
+   "p": 0.206
+  },
+  {
+   "w": " un",
+   "start": 74.7,
+   "end": 74.88,
+   "p": 0.992
+  },
+  {
+   "w": " poco",
+   "start": 74.88,
+   "end": 75.22,
+   "p": 0.99
+  },
+  {
+   "w": " de",
+   "start": 75.22,
+   "end": 76.4,
+   "p": 0.975
+  },
+  {
+   "w": " un",
+   "start": 76.4,
+   "end": 77.08,
+   "p": 0.891
+  },
+  {
+   "w": " proyecto",
+   "start": 77.08,
+   "end": 77.4,
+   "p": 0.983
+  },
+  {
+   "w": " de",
+   "start": 77.4,
+   "end": 77.62,
+   "p": 0.878
+  },
+  {
+   "w": " que",
+   "start": 77.62,
+   "end": 77.72,
+   "p": 0.281
+  },
+  {
+   "w": " te",
+   "start": 77.72,
+   "end": 77.82,
+   "p": 0.893
+  },
+  {
+   "w": " sientas",
+   "start": 77.82,
+   "end": 78.1,
+   "p": 0.619
+  },
+  {
+   "w": " orgulloso,",
+   "start": 78.1,
+   "end": 78.52,
+   "p": 0.622
+  },
+  {
+   "w": " Sí,",
+   "start": 79.82,
+   "end": 80.22,
+   "p": 0.179
+  },
+  {
+   "w": " armando",
+   "start": 80.74,
+   "end": 81.0,
+   "p": 0.363
+  },
+  {
+   "w": " a",
+   "start": 81.0,
+   "end": 81.22,
+   "p": 0.131
+  },
+  {
+   "w": " lo",
+   "start": 81.22,
+   "end": 81.3,
+   "p": 0.811
+  },
+  {
+   "w": " que",
+   "start": 81.3,
+   "end": 81.5,
+   "p": 0.972
+  },
+  {
+   "w": " hemos",
+   "start": 81.5,
+   "end": 81.7,
+   "p": 0.371
+  },
+  {
+   "w": " sido,",
+   "start": 81.7,
+   "end": 81.92,
+   "p": 0.164
+  },
+  {
+   "w": " a",
+   "start": 82.12,
+   "end": 82.12,
+   "p": 0.287
+  },
+  {
+   "w": " que",
+   "start": 82.12,
+   "end": 82.2,
+   "p": 0.497
+  },
+  {
+   "w": " tiendos,",
+   "start": 82.2,
+   "end": 82.54,
+   "p": 0.513
+  },
+  {
+   "w": " y",
+   "start": 82.64,
+   "end": 82.7,
+   "p": 0.165
+  },
+  {
+   "w": " van",
+   "start": 82.7,
+   "end": 82.88,
+   "p": 0.51
+  },
+  {
+   "w": " a",
+   "start": 82.88,
+   "end": 83.04,
+   "p": 0.979
+  },
+  {
+   "w": " crearse",
+   "start": 83.04,
+   "end": 83.36,
+   "p": 0.194
+  },
+  {
+   "w": " un",
+   "start": 83.36,
+   "end": 83.52,
+   "p": 0.194
+  },
+  {
+   "w": " estado",
+   "start": 83.52,
+   "end": 83.7,
+   "p": 0.392
+  },
+  {
+   "w": " antes",
+   "start": 83.7,
+   "end": 84.12,
+   "p": 0.685
+  },
+  {
+   "w": " del",
+   "start": 84.12,
+   "end": 84.26,
+   "p": 0.341
+  },
+  {
+   "w": " fin",
+   "start": 84.26,
+   "end": 84.4,
+   "p": 0.893
+  },
+  {
+   "w": " de",
+   "start": 84.4,
+   "end": 84.52,
+   "p": 0.898
+  },
+  {
+   "w": " semana.",
+   "start": 84.52,
+   "end": 84.94,
+   "p": 0.956
+  },
+  {
+   "w": " Antes,",
+   "start": 85.68,
+   "end": 86.08,
+   "p": 0.967
+  },
+  {
+   "w": " eso",
+   "start": 86.76,
+   "end": 86.98,
+   "p": 0.775
+  },
+  {
+   "w": " se",
+   "start": 86.98,
+   "end": 87.14,
+   "p": 0.715
+  },
+  {
+   "w": " realizaba",
+   "start": 87.14,
+   "end": 87.48,
+   "p": 0.402
+  },
+  {
+   "w": " a",
+   "start": 87.48,
+   "end": 87.56,
+   "p": 0.212
+  },
+  {
+   "w": " mano,",
+   "start": 87.56,
+   "end": 87.82,
+   "p": 0.866
+  },
+  {
+   "w": " que",
+   "start": 88.0,
+   "end": 88.04,
+   "p": 0.594
+  },
+  {
+   "w": " me",
+   "start": 88.04,
+   "end": 88.18,
+   "p": 0.094
+  },
+  {
+   "w": " apretienda.",
+   "start": 88.18,
+   "end": 89.14,
+   "p": 0.511
+  },
+  {
+   "w": " Con",
+   "start": 89.62,
+   "end": 89.74,
+   "p": 0.677
+  },
+  {
+   "w": " el",
+   "start": 89.74,
+   "end": 89.9,
+   "p": 0.593
+  },
+  {
+   "w": " tarea",
+   "start": 89.9,
+   "end": 90.0,
+   "p": 0.176
+  },
+  {
+   "w": " de",
+   "start": 90.0,
+   "end": 90.22,
+   "p": 0.909
+  },
+  {
+   "w": " los",
+   "start": 90.22,
+   "end": 90.38,
+   "p": 0.97
+  },
+  {
+   "w": " escredados",
+   "start": 90.38,
+   "end": 90.72,
+   "p": 0.337
+  },
+  {
+   "w": " podían",
+   "start": 90.72,
+   "end": 91.1,
+   "p": 0.49
+  },
+  {
+   "w": " pedir",
+   "start": 91.1,
+   "end": 91.66,
+   "p": 0.729
+  },
+  {
+   "w": " verte",
+   "start": 91.66,
+   "end": 91.96,
+   "p": 0.079
+  },
+  {
+   "w": " a",
+   "start": 91.96,
+   "end": 92.0,
+   "p": 0.361
+  },
+  {
+   "w": " la",
+   "start": 92.0,
+   "end": 92.26,
+   "p": 0.153
+  },
+  {
+   "w": " tienda,",
+   "start": 92.26,
+   "end": 92.36,
+   "p": 0.446
+  },
+  {
+   "w": " y",
+   "start": 92.74,
+   "end": 92.88,
+   "p": 0.787
+  },
+  {
+   "w": " redujo",
+   "start": 92.88,
+   "end": 93.14,
+   "p": 0.374
+  },
+  {
+   "w": " en",
+   "start": 93.14,
+   "end": 93.3,
+   "p": 0.552
+  },
+  {
+   "w": " los",
+   "start": 93.3,
+   "end": 93.46,
+   "p": 0.441
+  },
+  {
+   "w": " que",
+   "start": 93.46,
+   "end": 93.6,
+   "p": 0.792
+  },
+  {
+   "w": " redistas",
+   "start": 93.6,
+   "end": 94.12,
+   "p": 0.371
+  },
+  {
+   "w": " como",
+   "start": 94.12,
+   "end": 94.46,
+   "p": 0.62
+  },
+  {
+   "w": " era",
+   "start": 94.46,
+   "end": 94.64,
+   "p": 0.329
+  },
+  {
+   "w": " un",
+   "start": 94.64,
+   "end": 94.78,
+   "p": 0.888
+  },
+  {
+   "w": " 20%.",
+   "start": 94.78,
+   "end": 96.06,
+   "p": 0.374
+  },
+  {
+   "w": " ¿Y",
+   "start": 96.72,
+   "end": 97.12,
+   "p": 0.709
+  },
+  {
+   "w": " qué",
+   "start": 97.12,
+   "end": 97.48,
+   "p": 0.718
+  },
+  {
+   "w": " fue",
+   "start": 97.48,
+   "end": 97.66,
+   "p": 0.947
+  },
+  {
+   "w": " el",
+   "start": 97.66,
+   "end": 97.78,
+   "p": 0.646
+  },
+  {
+   "w": " lo",
+   "start": 97.78,
+   "end": 97.92,
+   "p": 0.171
+  },
+  {
+   "w": " más",
+   "start": 97.92,
+   "end": 98.12,
+   "p": 0.974
+  },
+  {
+   "w": " difícil",
+   "start": 98.12,
+   "end": 98.38,
+   "p": 0.979
+  },
+  {
+   "w": " de",
+   "start": 98.38,
+   "end": 98.72,
+   "p": 0.41
+  },
+  {
+   "w": " proyecto?",
+   "start": 98.72,
+   "end": 99.08,
+   "p": 0.893
+  },
+  {
+   "w": " Con",
+   "start": 100.72,
+   "end": 100.98,
+   "p": 0.564
+  },
+  {
+   "w": " mancer",
+   "start": 100.98,
+   "end": 101.2,
+   "p": 0.466
+  },
+  {
+   "w": " a",
+   "start": 101.2,
+   "end": 101.32,
+   "p": 0.189
+  },
+  {
+   "w": " la",
+   "start": 101.32,
+   "end": 101.4,
+   "p": 0.825
+  },
+  {
+   "w": " gente",
+   "start": 101.4,
+   "end": 101.56,
+   "p": 0.83
+  },
+  {
+   "w": " a",
+   "start": 101.56,
+   "end": 101.9,
+   "p": 0.177
+  },
+  {
+   "w": " usar",
+   "start": 101.9,
+   "end": 101.94,
+   "p": 0.229
+  },
+  {
+   "w": " lo",
+   "start": 101.94,
+   "end": 102.12,
+   "p": 0.594
+  },
+  {
+   "w": " lo",
+   "start": 102.12,
+   "end": 102.28,
+   "p": 0.644
+  },
+  {
+   "w": " va.",
+   "start": 102.28,
+   "end": 102.36,
+   "p": 0.259
+  },
+  {
+   "w": " El",
+   "start": 102.78,
+   "end": 103.04,
+   "p": 0.612
+  },
+  {
+   "w": " principio",
+   "start": 103.04,
+   "end": 103.3,
+   "p": 0.733
+  },
+  {
+   "w": " no",
+   "start": 103.3,
+   "end": 103.8,
+   "p": 0.664
+  },
+  {
+   "w": " es",
+   "start": 103.8,
+   "end": 103.8,
+   "p": 0.734
+  },
+  {
+   "w": " la",
+   "start": 103.8,
+   "end": 103.94,
+   "p": 0.932
+  },
+  {
+   "w": " vida,",
+   "start": 103.94,
+   "end": 104.26,
+   "p": 0.58
+  },
+  {
+   "w": " así",
+   "start": 104.46,
+   "end": 104.48,
+   "p": 0.672
+  },
+  {
+   "w": " que",
+   "start": 104.48,
+   "end": 104.58,
+   "p": 0.993
+  },
+  {
+   "w": " todo",
+   "start": 104.58,
+   "end": 104.76,
+   "p": 0.532
+  },
+  {
+   "w": " es",
+   "start": 104.76,
+   "end": 104.86,
+   "p": 0.296
+  },
+  {
+   "w": " que",
+   "start": 104.86,
+   "end": 104.9,
+   "p": 0.983
+  },
+  {
+   "w": " ir",
+   "start": 104.9,
+   "end": 105.06,
+   "p": 0.968
+  },
+  {
+   "w": " a",
+   "start": 105.06,
+   "end": 105.12,
+   "p": 0.217
+  },
+  {
+   "w": " explicarlo",
+   "start": 105.12,
+   "end": 105.78,
+   "p": 0.655
+  },
+  {
+   "w": " en",
+   "start": 105.78,
+   "end": 106.02,
+   "p": 0.877
+  },
+  {
+   "w": " las",
+   "start": 106.02,
+   "end": 106.12,
+   "p": 0.848
+  },
+  {
+   "w": " reuniones",
+   "start": 106.12,
+   "end": 106.4,
+   "p": 0.543
+  },
+  {
+   "w": " a",
+   "start": 106.4,
+   "end": 106.64,
+   "p": 0.258
+  },
+  {
+   "w": " marales.",
+   "start": 106.64,
+   "end": 106.96,
+   "p": 0.495
+  },
+  {
+   "w": " Ok,",
+   "start": 107.92,
+   "end": 108.36,
+   "p": 0.047
+  },
+  {
+   "w": " entiendo.",
+   "start": 108.76,
+   "end": 108.94,
+   "p": 0.679
+  },
+  {
+   "w": " ¿Y",
+   "start": 109.38,
+   "end": 109.48,
+   "p": 0.627
+  },
+  {
+   "w": " por",
+   "start": 109.48,
+   "end": 109.52,
+   "p": 0.784
+  },
+  {
+   "w": " qué",
+   "start": 109.52,
+   "end": 109.66,
+   "p": 0.868
+  },
+  {
+   "w": " quieres",
+   "start": 109.66,
+   "end": 109.88,
+   "p": 0.313
+  },
+  {
+   "w": " cambiar",
+   "start": 109.88,
+   "end": 110.28,
+   "p": 0.975
+  },
+  {
+   "w": " detrás?",
+   "start": 110.28,
+   "end": 111.0,
+   "p": 0.731
+  },
+  {
+   "w": " Siendo",
+   "start": 113.0,
+   "end": 113.3,
+   "p": 0.587
+  },
+  {
+   "w": " que",
+   "start": 113.3,
+   "end": 113.48,
+   "p": 0.879
+  },
+  {
+   "w": " ya",
+   "start": 113.48,
+   "end": 113.64,
+   "p": 0.416
+  },
+  {
+   "w": " aprendí",
+   "start": 113.64,
+   "end": 113.94,
+   "p": 0.859
+  },
+  {
+   "w": " lo",
+   "start": 113.94,
+   "end": 114.06,
+   "p": 0.939
+  },
+  {
+   "w": " que",
+   "start": 114.06,
+   "end": 114.2,
+   "p": 0.999
+  },
+  {
+   "w": " podía",
+   "start": 114.2,
+   "end": 114.44,
+   "p": 0.452
+  },
+  {
+   "w": " ir",
+   "start": 114.44,
+   "end": 114.9,
+   "p": 0.843
+  },
+  {
+   "w": " y",
+   "start": 114.9,
+   "end": 115.32,
+   "p": 0.775
+  },
+  {
+   "w": " quiero",
+   "start": 115.32,
+   "end": 115.5,
+   "p": 0.735
+  },
+  {
+   "w": " trabajar",
+   "start": 115.5,
+   "end": 115.82,
+   "p": 0.945
+  },
+  {
+   "w": " en",
+   "start": 115.82,
+   "end": 116.04,
+   "p": 0.94
+  },
+  {
+   "w": " algo",
+   "start": 116.04,
+   "end": 116.22,
+   "p": 0.985
+  },
+  {
+   "w": " más",
+   "start": 116.22,
+   "end": 116.4,
+   "p": 0.976
+  },
+  {
+   "w": " analítico,",
+   "start": 116.4,
+   "end": 117.02,
+   "p": 0.846
+  },
+  {
+   "w": " como",
+   "start": 117.28,
+   "end": 117.4,
+   "p": 0.956
+  },
+  {
+   "w": " él",
+   "start": 117.4,
+   "end": 117.56,
+   "p": 0.322
+  },
+  {
+   "w": " es",
+   "start": 117.56,
+   "end": 117.72,
+   "p": 0.716
+  },
+  {
+   "w": " prohibitivo,",
+   "start": 117.72,
+   "end": 118.14,
+   "p": 0.69
+  },
+  {
+   "w": " si",
+   "start": 118.3,
+   "end": 118.38,
+   "p": 0.249
+  },
+  {
+   "w": " no",
+   "start": 118.38,
+   "end": 118.5,
+   "p": 0.957
+  },
+  {
+   "w": " se",
+   "start": 118.5,
+   "end": 118.62,
+   "p": 0.652
+  },
+  {
+   "w": " lo",
+   "start": 118.62,
+   "end": 118.74,
+   "p": 0.551
+  },
+  {
+   "w": " salga",
+   "start": 118.74,
+   "end": 119.0,
+   "p": 0.249
+  },
+  {
+   "w": " por",
+   "start": 119.0,
+   "end": 119.18,
+   "p": 0.842
+  },
+  {
+   "w": " otras.",
+   "start": 119.18,
+   "end": 119.44,
+   "p": 0.151
+  },
+  {
+   "w": " Ok,",
+   "start": 120.84,
+   "end": 121.04,
+   "p": 0.608
+  },
+  {
+   "w": " y",
+   "start": 121.12,
+   "end": 121.34,
+   "p": 0.363
+  },
+  {
+   "w": " si",
+   "start": 121.34,
+   "end": 121.38,
+   "p": 0.988
+  },
+  {
+   "w": " todos",
+   "start": 121.38,
+   "end": 121.58,
+   "p": 0.918
+  },
+  {
+   "w": " salga",
+   "start": 121.58,
+   "end": 121.78,
+   "p": 0.359
+  },
+  {
+   "w": " bien,",
+   "start": 121.78,
+   "end": 122.34,
+   "p": 0.989
+  },
+  {
+   "w": " ¿cuánto",
+   "start": 122.68,
+   "end": 122.78,
+   "p": 0.791
+  },
+  {
+   "w": " podría",
+   "start": 122.78,
+   "end": 123.02,
+   "p": 0.843
+  },
+  {
+   "w": " empezar",
+   "start": 123.02,
+   "end": 123.46,
+   "p": 0.526
+  },
+  {
+   "w": " con",
+   "start": 123.46,
+   "end": 123.68,
+   "p": 0.412
+  },
+  {
+   "w": " nosotros?",
+   "start": 123.68,
+   "end": 123.96,
+   "p": 0.355
+  },
+  {
+   "w": " Tendría",
+   "start": 125.46,
+   "end": 125.8,
+   "p": 0.702
+  },
+  {
+   "w": " que",
+   "start": 125.8,
+   "end": 125.92,
+   "p": 0.993
+  },
+  {
+   "w": " haberciado",
+   "start": 125.92,
+   "end": 126.18,
+   "p": 0.236
+  },
+  {
+   "w": " mi",
+   "start": 126.18,
+   "end": 126.3,
+   "p": 0.901
+  },
+  {
+   "w": " trabajo",
+   "start": 126.3,
+   "end": 126.54,
+   "p": 0.985
+  },
+  {
+   "w": " actual",
+   "start": 126.54,
+   "end": 126.92,
+   "p": 0.953
+  },
+  {
+   "w": " y",
+   "start": 126.92,
+   "end": 127.18,
+   "p": 0.92
+  },
+  {
+   "w": " dejar",
+   "start": 127.18,
+   "end": 127.4,
+   "p": 0.726
+  },
+  {
+   "w": " todo",
+   "start": 127.4,
+   "end": 127.76,
+   "p": 0.475
+  },
+  {
+   "w": " orenado,",
+   "start": 127.76,
+   "end": 128.4,
+   "p": 0.573
+  },
+  {
+   "w": " así",
+   "start": 128.58,
+   "end": 128.8,
+   "p": 0.881
+  },
+  {
+   "w": " que",
+   "start": 128.8,
+   "end": 128.96,
+   "p": 0.998
+  },
+  {
+   "w": " podría",
+   "start": 128.96,
+   "end": 129.18,
+   "p": 0.379
+  },
+  {
+   "w": " empezar",
+   "start": 129.18,
+   "end": 129.56,
+   "p": 0.916
+  },
+  {
+   "w": " en",
+   "start": 129.56,
+   "end": 130.18,
+   "p": 0.956
+  },
+  {
+   "w": " dos",
+   "start": 130.18,
+   "end": 130.3,
+   "p": 0.612
+  },
+  {
+   "w": " semanas.",
+   "start": 130.3,
+   "end": 130.58,
+   "p": 0.918
+  },
+  {
+   "w": " Perfecto,",
+   "start": 131.22,
+   "end": 131.54,
+   "p": 0.809
+  },
+  {
+   "w": " uno",
+   "start": 131.56,
+   "end": 131.72,
+   "p": 0.824
+  },
+  {
+   "w": " de",
+   "start": 131.72,
+   "end": 131.8,
+   "p": 0.532
+  },
+  {
+   "w": " me",
+   "start": 131.8,
+   "end": 131.88,
+   "p": 0.119
+  },
+  {
+   "w": " gusta,",
+   "start": 131.88,
+   "end": 132.22,
+   "p": 0.29
+  },
+  {
+   "w": " como",
+   "start": 132.44,
+   "end": 133.12,
+   "p": 0.53
+  },
+  {
+   "w": " como",
+   "start": 133.12,
+   "end": 133.48,
+   "p": 0.123
+  },
+  {
+   "w": " esta",
+   "start": 133.48,
+   "end": 133.58,
+   "p": 0.257
+  },
+  {
+   "w": " tingurece.",
+   "start": 133.58,
+   "end": 134.04,
+   "p": 0.283
+  },
+  {
+   "w": " Día",
+   "start": 135.36,
+   "end": 135.8,
+   "p": 0.152
+  },
+  {
+   "w": " el",
+   "start": 135.8,
+   "end": 135.96,
+   "p": 0.224
+  },
+  {
+   "w": " intermedio,",
+   "start": 135.96,
+   "end": 136.8,
+   "p": 0.81
+  },
+  {
+   "w": " le",
+   "start": 137.22,
+   "end": 137.26,
+   "p": 0.252
+  },
+  {
+   "w": " hago",
+   "start": 137.26,
+   "end": 137.44,
+   "p": 0.279
+  },
+  {
+   "w": " documentos",
+   "start": 137.44,
+   "end": 137.76,
+   "p": 0.535
+  },
+  {
+   "w": " en",
+   "start": 137.76,
+   "end": 137.9,
+   "p": 0.266
+  },
+  {
+   "w": " técnica",
+   "start": 137.9,
+   "end": 138.16,
+   "p": 0.27
+  },
+  {
+   "w": " siempre",
+   "start": 138.16,
+   "end": 138.46,
+   "p": 0.475
+  },
+  {
+   "w": " haré",
+   "start": 138.46,
+   "end": 138.66,
+   "p": 0.374
+  },
+  {
+   "w": " más,",
+   "start": 138.66,
+   "end": 139.1,
+   "p": 0.426
+  },
+  {
+   "w": " pero",
+   "start": 139.32,
+   "end": 139.6,
+   "p": 0.984
+  },
+  {
+   "w": " hablando",
+   "start": 139.6,
+   "end": 140.36,
+   "p": 0.084
+  },
+  {
+   "w": " todavía",
+   "start": 140.36,
+   "end": 140.74,
+   "p": 0.898
+  },
+  {
+   "w": " no",
+   "start": 140.74,
+   "end": 140.92,
+   "p": 0.366
+  },
+  {
+   "w": " falta",
+   "start": 140.92,
+   "end": 141.1,
+   "p": 0.523
+  },
+  {
+   "w": " práctica.",
+   "start": 141.1,
+   "end": 141.78,
+   "p": 0.382
+  },
+  {
+   "w": " Muy",
+   "start": 142.26,
+   "end": 142.26,
+   "p": 0.751
+  },
+  {
+   "w": " bien,",
+   "start": 142.26,
+   "end": 142.48,
+   "p": 0.996
+  },
+  {
+   "w": " esto",
+   "start": 142.48,
+   "end": 142.74,
+   "p": 0.47
+  },
+  {
+   "w": " es",
+   "start": 142.74,
+   "end": 142.96,
+   "p": 0.354
+  },
+  {
+   "w": " por",
+   "start": 142.96,
+   "end": 142.98,
+   "p": 0.923
+  },
+  {
+   "w": " hoy.",
+   "start": 142.98,
+   "end": 143.22,
+   "p": 0.973
+  },
+  {
+   "w": " Te",
+   "start": 143.26,
+   "end": 143.44,
+   "p": 0.751
+  },
+  {
+   "w": " contactamos",
+   "start": 143.44,
+   "end": 143.78,
+   "p": 0.644
+  },
+  {
+   "w": " la",
+   "start": 143.78,
+   "end": 144.0,
+   "p": 0.454
+  },
+  {
+   "w": " semana,",
+   "start": 144.0,
+   "end": 144.32,
+   "p": 0.908
+  },
+  {
+   "w": " las",
+   "start": 144.52,
+   "end": 144.74,
+   "p": 0.945
+  },
+  {
+   "w": " le",
+   "start": 144.74,
+   "end": 144.92,
+   "p": 0.377
+  },
+  {
+   "w": " siguen",
+   "start": 144.92,
+   "end": 144.96,
+   "p": 0.254
+  },
+  {
+   "w": " de",
+   "start": 144.96,
+   "end": 145.16,
+   "p": 0.448
+  },
+  {
+   "w": " semana",
+   "start": 145.16,
+   "end": 145.34,
+   "p": 0.711
+  },
+  {
+   "w": " con",
+   "start": 145.34,
+   "end": 145.58,
+   "p": 0.746
+  },
+  {
+   "w": " la",
+   "start": 145.58,
+   "end": 145.7,
+   "p": 0.507
+  },
+  {
+   "w": " respuesta.",
+   "start": 145.7,
+   "end": 145.9,
+   "p": 0.958
+  },
+  {
+   "w": " Muchas",
+   "start": 147.32,
+   "end": 147.46,
+   "p": 0.638
+  },
+  {
+   "w": " gracias.",
+   "start": 147.46,
+   "end": 147.78,
+   "p": 0.999
+  }
+ ],
+ "model": "tiny",
+ "device": "cuda",
+ "compute_type": "float16",
+ "glossary": false,
+ "audio_seconds": 149.27,
+ "elapsed_seconds": 2.16,
+ "rtf": 0.0145,
+ "vram_model_mb": 96,
+ "vram_peak_extra_mb": 32,
+ "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU",
+ "clip_id": "interview_01",
+ "level": "L0",
+ "run": "tiny_cuda_float16"
+}

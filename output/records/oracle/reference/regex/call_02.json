@@ -1,0 +1,85 @@
+{
+ "task": "call",
+ "method": "regex",
+ "transcript": "la buena masa buenas tardes en que le ayudo hola quiero hacer un pedido para delivery por favor claro digame una pizza pepperoni familiar y un pan al ajo la pepperoni familiar esta a cuarenta y nueve soles el pan al ajo es a doce soles sabes que sabes que cambia el pan al ajo por unas alitas como vienen las alitas vienen de seis unidades con salsa barbecue y picante barbecue por favor las de seis unidades listo quito el pan al ajo y le pongo alitas de seis unidades a veinticuatro soles y dos gaseosas de litro y medio dos gaseosas a nueve soles cada una una pregunta es su primera compra con nosotros si es la primera vez que pido me recomendo una amiga que bueno entonces tiene la promocion de primera compra diez soles de descuento buenisimo a que direccion enviamos jiron junin trescientos cuarenta y cinco en el cercado es una quinta hay que tocar el timbre del fondo ok jiron junin trescientos cuarenta y cinco timbre del fondo forma de pago en efectivo voy a pagar con un billete de cien perfecto el motorizado lleva el vuelto el total es ochenta y un soles perfecto cuanto se demora unos cuarenta y cinco minutos ok gracias a usted que disfrute su pedido",
+ "fields": {
+  "items": [
+   {
+    "producto": "pepperoni familiar",
+    "cantidad": 1,
+    "precio_unitario": 49
+   },
+   {
+    "producto": "alitas x6",
+    "cantidad": 1,
+    "precio_unitario": 24
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 2,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "diez soles de descuento",
+   "descuento": 10
+  },
+  "direccion_entrega": "jiron junin trescientos cuarenta y cinco en el cercado",
+  "metodo_pago": "efectivo",
+  "total_dicho": 81
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "pepperoni familiar",
+    "cantidad": 1,
+    "precio_unitario": 49
+   },
+   {
+    "producto": "alitas x6",
+    "cantidad": 1,
+    "precio_unitario": 24
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 2,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "diez soles de descuento",
+   "descuento": 10
+  },
+  "direccion_entrega": "jiron junin trescientos cuarenta y cinco en el cercado",
+  "metodo_pago": "efectivo",
+  "total_dicho": 81
+ },
+ "validation": {
+  "subtotal": 91,
+  "descuento": 10,
+  "total_calculado": 81,
+  "total_dicho": 81,
+  "confianza_total_asr": null,
+  "precios_distintos_al_menu": [],
+  "estado": "cuadra",
+  "diagnostico": null,
+  "motivo": "La suma coincide con el total dicho."
+ },
+ "device": "n/a",
+ "elapsed": {
+  "asr": 0,
+  "extraction": 0.0,
+  "total": 0.0
+ },
+ "error": null,
+ "asr": {
+  "model": "reference",
+  "compute_type": null,
+  "glossary": null,
+  "audio_seconds": null,
+  "rtf": null,
+  "vram_model_mb": 0,
+  "vram_peak_extra_mb": 0,
+  "gpu_name": null
+ }
+}

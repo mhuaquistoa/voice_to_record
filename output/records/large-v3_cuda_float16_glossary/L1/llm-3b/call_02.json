@@ -1,0 +1,75 @@
+{
+ "task": "call",
+ "method": "llm",
+ "transcript": "La Buena Masa, buenas tardes, ¿en qué le ayudo? Hola, quiero hacer un pedido para delivery, por favor. Claro, dígame. Una pizza con peperoni familiar y un pan al ajo. La peperoni familiar está a 49 soles, el pan al ajo es a 12 soles. ¿Sabes qué? ¿Sabes qué? Cambia el pan al ajo por unos alitas. ¿Cómo vienen los alitas? Vienen de 6 unidades, con salsa barbeque y picante Barboco Por favor, las de 6 unidades Listo, quito el pan y le pongo bolitas de 6 unidades a 24 soles Y 2 gaseosas al 3 y medio 2 gaseosas a 9 soles cada una Una pregunta, ¿es su primera compra con nosotros? Sí, es la primera vez que pido, me recomendó una amiga Que bueno, entonces tienes la promoción de primera compra, 10 soles de descuento Buenísimo ¿A qué edición enviamos? Girón Junín 345 en el Cercado Es una quinta, hay que tocar el timbre del fondo Ok, Girón Junín 345, timbre del fondo, ¿forma de pago? En efectivo, voy a pagar con un billete de 100 ¡Fua! El motorizado lleva el vuelto. El total es ochenta y un soles. Perfecto. ¿Cuánto se demora? Unos cuarenta y cinco minutos. ¡Oh! Gracias. A usted. Quiero hacer su pedido.",
+ "fields": {
+  "items": [
+   {
+    "producto": "pepperoni familiar",
+    "cantidad": 1,
+    "precio_unitario": 49
+   },
+   {
+    "producto": "alitas x6",
+    "cantidad": 1,
+    "precio_unitario": 24
+   }
+  ],
+  "promocion": {
+   "descripcion": "primera compra",
+   "descuento": 10
+  },
+  "direccion_entrega": "Girón Junín 345",
+  "metodo_pago": "efectivo",
+  "total_dicho": 81
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "pepperoni familiar",
+    "cantidad": 1,
+    "precio_unitario": 49
+   },
+   {
+    "producto": "alitas x6",
+    "cantidad": 1,
+    "precio_unitario": 24
+   }
+  ],
+  "promocion": {
+   "descripcion": "primera compra",
+   "descuento": 10
+  },
+  "direccion_entrega": "Girón Junín 345",
+  "metodo_pago": "efectivo",
+  "total_dicho": 81
+ },
+ "validation": {
+  "subtotal": 73,
+  "descuento": 10,
+  "total_calculado": 63,
+  "total_dicho": 81,
+  "confianza_total_asr": 0.798,
+  "precios_distintos_al_menu": [],
+  "estado": "no_cuadra",
+  "diagnostico": "error_hablante",
+  "motivo": "La transcripción es confiable: se dijo 81 pero la suma da 63."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 6.84,
+  "extraction": 4.04,
+  "total": 4.05
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 98.32,
+  "rtf": 0.0695,
+  "vram_model_mb": 3776,
+  "vram_peak_extra_mb": 192,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

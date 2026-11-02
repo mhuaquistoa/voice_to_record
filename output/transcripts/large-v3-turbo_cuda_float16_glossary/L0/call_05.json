@@ -1,0 +1,1338 @@
+{
+ "text": "Pizzería La Buena Masa, buenas noches. La tiende Diego. Hola Diego, buenas noches. Quería hacer un pedido para delivery. Claro, ¿qué le gustaría? Una americana familiar y una hawaiana mediana. La americana familiar está a 45 soles y la hawaiana mediana a 34. Esta semana, llevando dos pizzas, le regalamos una ajo. Ah, buenísimo Sí, incluyelo ¿Y las salitas cuantos están? Las salitas de 6 unidades están 24 soles No, mejor no Ya bastante Pero agregame 2 brownies 2 brownies, a eso cada uno ¿Alguna bebida? Una gaseosa de litro y medio Ok, una gaseosa de 9 soles Oye, ¿sabes qué? Quítame los brownies mejor Mi hermana trajo torta y no vamos a pagar todo. No hay problema, retira los brownies. Queda una americana familiar, una jaguayana mediana, la laseosa y el pan al ajo de regalo. Exacto. Ok, ¿a qué dirección le enviamos? A Urbanización Santa Rosa, Manzana B, Lote 12, en Los Olivos. Ok, le repito. Urbanización Santa Rosa, Manzana B, Lote 12. ¿Alguna referencia? Es una casa de dos pisos con rejas verdes a media cuadra del mercado. Perfecto. ¿Y cómo va a ser el pago? Oigan, por favor. Muy bien. El total es de 88 soles. Perfecto. ¿Más o menos cuánto se demora? Un poco de cinco minutos. Listo. Muchas gracias. Gracias a usted. Buen provecho.",
+ "words": [
+  {
+   "w": " Pizzería",
+   "start": 0.92,
+   "end": 1.6,
+   "p": 0.847
+  },
+  {
+   "w": " La",
+   "start": 1.6,
+   "end": 1.7,
+   "p": 0.833
+  },
+  {
+   "w": " Buena",
+   "start": 1.7,
+   "end": 1.86,
+   "p": 0.969
+  },
+  {
+   "w": " Masa,",
+   "start": 1.86,
+   "end": 2.16,
+   "p": 0.807
+  },
+  {
+   "w": " buenas",
+   "start": 2.26,
+   "end": 2.46,
+   "p": 0.99
+  },
+  {
+   "w": " noches.",
+   "start": 2.46,
+   "end": 2.86,
+   "p": 1.0
+  },
+  {
+   "w": " La",
+   "start": 3.06,
+   "end": 3.18,
+   "p": 0.752
+  },
+  {
+   "w": " tiende",
+   "start": 3.18,
+   "end": 3.36,
+   "p": 0.848
+  },
+  {
+   "w": " Diego.",
+   "start": 3.36,
+   "end": 3.62,
+   "p": 0.973
+  },
+  {
+   "w": " Hola",
+   "start": 5.08,
+   "end": 5.76,
+   "p": 0.987
+  },
+  {
+   "w": " Diego,",
+   "start": 5.76,
+   "end": 6.06,
+   "p": 0.523
+  },
+  {
+   "w": " buenas",
+   "start": 6.42,
+   "end": 6.64,
+   "p": 1.0
+  },
+  {
+   "w": " noches.",
+   "start": 6.64,
+   "end": 7.04,
+   "p": 1.0
+  },
+  {
+   "w": " Quería",
+   "start": 7.56,
+   "end": 8.0,
+   "p": 0.993
+  },
+  {
+   "w": " hacer",
+   "start": 8.0,
+   "end": 8.16,
+   "p": 0.999
+  },
+  {
+   "w": " un",
+   "start": 8.16,
+   "end": 8.28,
+   "p": 1.0
+  },
+  {
+   "w": " pedido",
+   "start": 8.28,
+   "end": 8.56,
+   "p": 0.999
+  },
+  {
+   "w": " para",
+   "start": 8.56,
+   "end": 8.82,
+   "p": 1.0
+  },
+  {
+   "w": " delivery.",
+   "start": 8.82,
+   "end": 9.3,
+   "p": 0.981
+  },
+  {
+   "w": " Claro,",
+   "start": 9.92,
+   "end": 10.2,
+   "p": 0.993
+  },
+  {
+   "w": " ¿qué",
+   "start": 10.4,
+   "end": 10.56,
+   "p": 0.996
+  },
+  {
+   "w": " le",
+   "start": 10.56,
+   "end": 10.66,
+   "p": 0.996
+  },
+  {
+   "w": " gustaría?",
+   "start": 10.66,
+   "end": 10.88,
+   "p": 1.0
+  },
+  {
+   "w": " Una",
+   "start": 12.08,
+   "end": 12.76,
+   "p": 0.967
+  },
+  {
+   "w": " americana",
+   "start": 12.76,
+   "end": 13.34,
+   "p": 0.99
+  },
+  {
+   "w": " familiar",
+   "start": 13.34,
+   "end": 13.74,
+   "p": 0.999
+  },
+  {
+   "w": " y",
+   "start": 13.74,
+   "end": 14.2,
+   "p": 0.999
+  },
+  {
+   "w": " una",
+   "start": 14.2,
+   "end": 14.44,
+   "p": 0.998
+  },
+  {
+   "w": " hawaiana",
+   "start": 14.44,
+   "end": 14.92,
+   "p": 0.598
+  },
+  {
+   "w": " mediana.",
+   "start": 14.92,
+   "end": 15.32,
+   "p": 1.0
+  },
+  {
+   "w": " La",
+   "start": 16.26,
+   "end": 16.64,
+   "p": 0.988
+  },
+  {
+   "w": " americana",
+   "start": 16.64,
+   "end": 16.92,
+   "p": 0.999
+  },
+  {
+   "w": " familiar",
+   "start": 16.92,
+   "end": 17.26,
+   "p": 1.0
+  },
+  {
+   "w": " está",
+   "start": 17.26,
+   "end": 17.46,
+   "p": 0.786
+  },
+  {
+   "w": " a",
+   "start": 17.46,
+   "end": 17.6,
+   "p": 0.994
+  },
+  {
+   "w": " 45",
+   "start": 17.6,
+   "end": 18.06,
+   "p": 0.986
+  },
+  {
+   "w": " soles",
+   "start": 18.06,
+   "end": 18.58,
+   "p": 1.0
+  },
+  {
+   "w": " y",
+   "start": 18.58,
+   "end": 18.82,
+   "p": 0.986
+  },
+  {
+   "w": " la",
+   "start": 18.82,
+   "end": 18.9,
+   "p": 1.0
+  },
+  {
+   "w": " hawaiana",
+   "start": 18.9,
+   "end": 19.28,
+   "p": 0.991
+  },
+  {
+   "w": " mediana",
+   "start": 19.28,
+   "end": 19.74,
+   "p": 1.0
+  },
+  {
+   "w": " a",
+   "start": 19.74,
+   "end": 20.2,
+   "p": 0.997
+  },
+  {
+   "w": " 34.",
+   "start": 20.2,
+   "end": 20.66,
+   "p": 0.999
+  },
+  {
+   "w": " Esta",
+   "start": 21.16,
+   "end": 21.62,
+   "p": 0.806
+  },
+  {
+   "w": " semana,",
+   "start": 21.62,
+   "end": 22.5,
+   "p": 0.982
+  },
+  {
+   "w": " llevando",
+   "start": 22.84,
+   "end": 23.48,
+   "p": 0.998
+  },
+  {
+   "w": " dos",
+   "start": 23.48,
+   "end": 23.62,
+   "p": 0.98
+  },
+  {
+   "w": " pizzas,",
+   "start": 23.62,
+   "end": 23.86,
+   "p": 0.995
+  },
+  {
+   "w": " le",
+   "start": 24.02,
+   "end": 24.14,
+   "p": 0.954
+  },
+  {
+   "w": " regalamos",
+   "start": 24.14,
+   "end": 24.54,
+   "p": 1.0
+  },
+  {
+   "w": " una",
+   "start": 24.54,
+   "end": 24.76,
+   "p": 0.169
+  },
+  {
+   "w": " ajo.",
+   "start": 24.76,
+   "end": 25.04,
+   "p": 0.06
+  },
+  {
+   "w": " Ah,",
+   "start": 25.98,
+   "end": 26.54,
+   "p": 0.74
+  },
+  {
+   "w": " buenísimo",
+   "start": 26.64,
+   "end": 27.02,
+   "p": 0.999
+  },
+  {
+   "w": " Sí,",
+   "start": 27.02,
+   "end": 27.56,
+   "p": 0.133
+  },
+  {
+   "w": " incluyelo",
+   "start": 27.7,
+   "end": 28.08,
+   "p": 0.98
+  },
+  {
+   "w": " ¿Y",
+   "start": 28.08,
+   "end": 28.92,
+   "p": 0.959
+  },
+  {
+   "w": " las",
+   "start": 28.92,
+   "end": 29.1,
+   "p": 0.999
+  },
+  {
+   "w": " salitas",
+   "start": 29.1,
+   "end": 29.34,
+   "p": 0.619
+  },
+  {
+   "w": " cuantos",
+   "start": 29.34,
+   "end": 29.62,
+   "p": 0.602
+  },
+  {
+   "w": " están?",
+   "start": 29.62,
+   "end": 29.78,
+   "p": 0.979
+  },
+  {
+   "w": " Las",
+   "start": 30.42,
+   "end": 30.92,
+   "p": 0.974
+  },
+  {
+   "w": " salitas",
+   "start": 30.92,
+   "end": 31.2,
+   "p": 0.997
+  },
+  {
+   "w": " de",
+   "start": 31.2,
+   "end": 31.32,
+   "p": 0.991
+  },
+  {
+   "w": " 6",
+   "start": 31.32,
+   "end": 31.48,
+   "p": 0.71
+  },
+  {
+   "w": " unidades",
+   "start": 31.48,
+   "end": 31.82,
+   "p": 0.999
+  },
+  {
+   "w": " están",
+   "start": 31.82,
+   "end": 32.08,
+   "p": 0.75
+  },
+  {
+   "w": " 24",
+   "start": 32.08,
+   "end": 32.36,
+   "p": 0.966
+  },
+  {
+   "w": " soles",
+   "start": 32.36,
+   "end": 32.78,
+   "p": 1.0
+  },
+  {
+   "w": " No,",
+   "start": 35.02,
+   "end": 35.58,
+   "p": 0.817
+  },
+  {
+   "w": " mejor",
+   "start": 35.72,
+   "end": 36.24,
+   "p": 0.994
+  },
+  {
+   "w": " no",
+   "start": 36.24,
+   "end": 36.42,
+   "p": 0.998
+  },
+  {
+   "w": " Ya",
+   "start": 36.42,
+   "end": 36.96,
+   "p": 0.728
+  },
+  {
+   "w": " bastante",
+   "start": 36.96,
+   "end": 37.36,
+   "p": 0.969
+  },
+  {
+   "w": " Pero",
+   "start": 38.0,
+   "end": 38.56,
+   "p": 0.75
+  },
+  {
+   "w": " agregame",
+   "start": 38.56,
+   "end": 38.98,
+   "p": 0.845
+  },
+  {
+   "w": " 2",
+   "start": 38.98,
+   "end": 39.18,
+   "p": 0.722
+  },
+  {
+   "w": " brownies",
+   "start": 39.18,
+   "end": 39.62,
+   "p": 0.998
+  },
+  {
+   "w": " 2",
+   "start": 39.62,
+   "end": 40.22,
+   "p": 0.371
+  },
+  {
+   "w": " brownies,",
+   "start": 40.22,
+   "end": 40.72,
+   "p": 0.999
+  },
+  {
+   "w": " a",
+   "start": 40.78,
+   "end": 40.92,
+   "p": 0.264
+  },
+  {
+   "w": " eso",
+   "start": 40.92,
+   "end": 41.02,
+   "p": 0.164
+  },
+  {
+   "w": " cada",
+   "start": 41.02,
+   "end": 41.28,
+   "p": 0.831
+  },
+  {
+   "w": " uno",
+   "start": 41.28,
+   "end": 41.68,
+   "p": 0.996
+  },
+  {
+   "w": " ¿Alguna",
+   "start": 41.68,
+   "end": 42.2,
+   "p": 0.936
+  },
+  {
+   "w": " bebida?",
+   "start": 42.2,
+   "end": 42.52,
+   "p": 1.0
+  },
+  {
+   "w": " Una",
+   "start": 44.12,
+   "end": 44.68,
+   "p": 0.807
+  },
+  {
+   "w": " gaseosa",
+   "start": 44.68,
+   "end": 45.18,
+   "p": 0.787
+  },
+  {
+   "w": " de",
+   "start": 45.18,
+   "end": 45.36,
+   "p": 0.726
+  },
+  {
+   "w": " litro",
+   "start": 45.36,
+   "end": 45.62,
+   "p": 0.916
+  },
+  {
+   "w": " y",
+   "start": 45.62,
+   "end": 45.68,
+   "p": 0.997
+  },
+  {
+   "w": " medio",
+   "start": 45.68,
+   "end": 45.92,
+   "p": 1.0
+  },
+  {
+   "w": " Ok,",
+   "start": 46.86,
+   "end": 47.42,
+   "p": 0.975
+  },
+  {
+   "w": " una",
+   "start": 47.54,
+   "end": 47.7,
+   "p": 0.986
+  },
+  {
+   "w": " gaseosa",
+   "start": 47.7,
+   "end": 47.98,
+   "p": 0.996
+  },
+  {
+   "w": " de",
+   "start": 47.98,
+   "end": 48.08,
+   "p": 0.979
+  },
+  {
+   "w": " 9",
+   "start": 48.08,
+   "end": 48.2,
+   "p": 0.996
+  },
+  {
+   "w": " soles",
+   "start": 48.2,
+   "end": 48.56,
+   "p": 1.0
+  },
+  {
+   "w": " Oye,",
+   "start": 50.06,
+   "end": 50.62,
+   "p": 0.998
+  },
+  {
+   "w": " ¿sabes",
+   "start": 50.72,
+   "end": 50.92,
+   "p": 0.99
+  },
+  {
+   "w": " qué?",
+   "start": 50.92,
+   "end": 51.06,
+   "p": 0.998
+  },
+  {
+   "w": " Quítame",
+   "start": 51.22,
+   "end": 51.58,
+   "p": 0.985
+  },
+  {
+   "w": " los",
+   "start": 51.58,
+   "end": 51.74,
+   "p": 0.998
+  },
+  {
+   "w": " brownies",
+   "start": 51.74,
+   "end": 52.12,
+   "p": 1.0
+  },
+  {
+   "w": " mejor",
+   "start": 52.12,
+   "end": 52.4,
+   "p": 0.968
+  },
+  {
+   "w": " Mi",
+   "start": 52.4,
+   "end": 53.2,
+   "p": 0.987
+  },
+  {
+   "w": " hermana",
+   "start": 53.2,
+   "end": 53.4,
+   "p": 0.997
+  },
+  {
+   "w": " trajo",
+   "start": 53.4,
+   "end": 53.7,
+   "p": 0.998
+  },
+  {
+   "w": " torta",
+   "start": 53.7,
+   "end": 54.06,
+   "p": 0.991
+  },
+  {
+   "w": " y",
+   "start": 54.06,
+   "end": 54.54,
+   "p": 0.747
+  },
+  {
+   "w": " no",
+   "start": 54.54,
+   "end": 54.76,
+   "p": 0.977
+  },
+  {
+   "w": " vamos",
+   "start": 54.76,
+   "end": 54.96,
+   "p": 0.998
+  },
+  {
+   "w": " a",
+   "start": 54.96,
+   "end": 55.02,
+   "p": 1.0
+  },
+  {
+   "w": " pagar",
+   "start": 55.02,
+   "end": 55.22,
+   "p": 0.563
+  },
+  {
+   "w": " todo.",
+   "start": 55.22,
+   "end": 55.56,
+   "p": 0.998
+  },
+  {
+   "w": " No",
+   "start": 56.24,
+   "end": 56.72,
+   "p": 0.868
+  },
+  {
+   "w": " hay",
+   "start": 56.72,
+   "end": 56.78,
+   "p": 1.0
+  },
+  {
+   "w": " problema,",
+   "start": 56.78,
+   "end": 57.1,
+   "p": 1.0
+  },
+  {
+   "w": " retira",
+   "start": 57.4,
+   "end": 57.64,
+   "p": 0.583
+  },
+  {
+   "w": " los",
+   "start": 57.64,
+   "end": 57.76,
+   "p": 0.944
+  },
+  {
+   "w": " brownies.",
+   "start": 57.76,
+   "end": 58.1,
+   "p": 0.988
+  },
+  {
+   "w": " Queda",
+   "start": 58.5,
+   "end": 58.8,
+   "p": 0.961
+  },
+  {
+   "w": " una",
+   "start": 58.8,
+   "end": 59.16,
+   "p": 0.988
+  },
+  {
+   "w": " americana",
+   "start": 59.16,
+   "end": 59.44,
+   "p": 0.98
+  },
+  {
+   "w": " familiar,",
+   "start": 59.44,
+   "end": 59.78,
+   "p": 1.0
+  },
+  {
+   "w": " una",
+   "start": 60.08,
+   "end": 60.4,
+   "p": 0.998
+  },
+  {
+   "w": " jaguayana",
+   "start": 60.4,
+   "end": 60.86,
+   "p": 0.595
+  },
+  {
+   "w": " mediana,",
+   "start": 60.86,
+   "end": 61.24,
+   "p": 0.999
+  },
+  {
+   "w": " la",
+   "start": 61.72,
+   "end": 61.82,
+   "p": 0.988
+  },
+  {
+   "w": " laseosa",
+   "start": 61.82,
+   "end": 62.2,
+   "p": 0.552
+  },
+  {
+   "w": " y",
+   "start": 62.2,
+   "end": 62.3,
+   "p": 0.995
+  },
+  {
+   "w": " el",
+   "start": 62.3,
+   "end": 62.36,
+   "p": 1.0
+  },
+  {
+   "w": " pan",
+   "start": 62.36,
+   "end": 62.48,
+   "p": 0.996
+  },
+  {
+   "w": " al",
+   "start": 62.48,
+   "end": 62.58,
+   "p": 0.509
+  },
+  {
+   "w": " ajo",
+   "start": 62.58,
+   "end": 62.74,
+   "p": 0.993
+  },
+  {
+   "w": " de",
+   "start": 62.74,
+   "end": 62.84,
+   "p": 0.949
+  },
+  {
+   "w": " regalo.",
+   "start": 62.84,
+   "end": 63.06,
+   "p": 0.391
+  },
+  {
+   "w": " Exacto.",
+   "start": 64.4,
+   "end": 64.96,
+   "p": 0.998
+  },
+  {
+   "w": " Ok,",
+   "start": 65.4,
+   "end": 65.62,
+   "p": 0.898
+  },
+  {
+   "w": " ¿a",
+   "start": 65.88,
+   "end": 66.06,
+   "p": 0.975
+  },
+  {
+   "w": " qué",
+   "start": 66.06,
+   "end": 66.18,
+   "p": 0.999
+  },
+  {
+   "w": " dirección",
+   "start": 66.18,
+   "end": 66.38,
+   "p": 0.918
+  },
+  {
+   "w": " le",
+   "start": 66.38,
+   "end": 66.48,
+   "p": 0.818
+  },
+  {
+   "w": " enviamos?",
+   "start": 66.48,
+   "end": 66.76,
+   "p": 0.996
+  },
+  {
+   "w": " A",
+   "start": 68.16,
+   "end": 68.72,
+   "p": 0.896
+  },
+  {
+   "w": " Urbanización",
+   "start": 68.72,
+   "end": 69.28,
+   "p": 0.973
+  },
+  {
+   "w": " Santa",
+   "start": 69.28,
+   "end": 69.58,
+   "p": 0.999
+  },
+  {
+   "w": " Rosa,",
+   "start": 69.58,
+   "end": 69.9,
+   "p": 1.0
+  },
+  {
+   "w": " Manzana",
+   "start": 70.2,
+   "end": 70.62,
+   "p": 0.915
+  },
+  {
+   "w": " B,",
+   "start": 70.62,
+   "end": 70.86,
+   "p": 0.993
+  },
+  {
+   "w": " Lote",
+   "start": 71.12,
+   "end": 71.36,
+   "p": 0.789
+  },
+  {
+   "w": " 12,",
+   "start": 71.36,
+   "end": 71.64,
+   "p": 0.997
+  },
+  {
+   "w": " en",
+   "start": 71.88,
+   "end": 72.0,
+   "p": 0.97
+  },
+  {
+   "w": " Los",
+   "start": 72.0,
+   "end": 72.12,
+   "p": 0.929
+  },
+  {
+   "w": " Olivos.",
+   "start": 72.12,
+   "end": 72.48,
+   "p": 0.998
+  },
+  {
+   "w": " Ok,",
+   "start": 73.32,
+   "end": 73.82,
+   "p": 1.0
+  },
+  {
+   "w": " le",
+   "start": 73.9,
+   "end": 73.98,
+   "p": 0.865
+  },
+  {
+   "w": " repito.",
+   "start": 73.98,
+   "end": 74.3,
+   "p": 1.0
+  },
+  {
+   "w": " Urbanización",
+   "start": 74.52,
+   "end": 75.0,
+   "p": 0.979
+  },
+  {
+   "w": " Santa",
+   "start": 75.0,
+   "end": 75.28,
+   "p": 1.0
+  },
+  {
+   "w": " Rosa,",
+   "start": 75.28,
+   "end": 75.58,
+   "p": 1.0
+  },
+  {
+   "w": " Manzana",
+   "start": 75.84,
+   "end": 76.14,
+   "p": 1.0
+  },
+  {
+   "w": " B,",
+   "start": 76.14,
+   "end": 76.38,
+   "p": 1.0
+  },
+  {
+   "w": " Lote",
+   "start": 76.76,
+   "end": 77.14,
+   "p": 1.0
+  },
+  {
+   "w": " 12.",
+   "start": 77.14,
+   "end": 77.42,
+   "p": 1.0
+  },
+  {
+   "w": " ¿Alguna",
+   "start": 77.68,
+   "end": 78.02,
+   "p": 0.993
+  },
+  {
+   "w": " referencia?",
+   "start": 78.02,
+   "end": 78.46,
+   "p": 1.0
+  },
+  {
+   "w": " Es",
+   "start": 79.92,
+   "end": 80.48,
+   "p": 0.997
+  },
+  {
+   "w": " una",
+   "start": 80.48,
+   "end": 80.64,
+   "p": 1.0
+  },
+  {
+   "w": " casa",
+   "start": 80.64,
+   "end": 80.92,
+   "p": 1.0
+  },
+  {
+   "w": " de",
+   "start": 80.92,
+   "end": 81.06,
+   "p": 1.0
+  },
+  {
+   "w": " dos",
+   "start": 81.06,
+   "end": 81.22,
+   "p": 0.997
+  },
+  {
+   "w": " pisos",
+   "start": 81.22,
+   "end": 81.58,
+   "p": 1.0
+  },
+  {
+   "w": " con",
+   "start": 81.58,
+   "end": 81.8,
+   "p": 0.998
+  },
+  {
+   "w": " rejas",
+   "start": 81.8,
+   "end": 82.1,
+   "p": 0.996
+  },
+  {
+   "w": " verdes",
+   "start": 82.1,
+   "end": 82.54,
+   "p": 1.0
+  },
+  {
+   "w": " a",
+   "start": 82.54,
+   "end": 82.72,
+   "p": 0.96
+  },
+  {
+   "w": " media",
+   "start": 82.72,
+   "end": 82.92,
+   "p": 0.998
+  },
+  {
+   "w": " cuadra",
+   "start": 82.92,
+   "end": 83.24,
+   "p": 0.952
+  },
+  {
+   "w": " del",
+   "start": 83.24,
+   "end": 83.38,
+   "p": 0.915
+  },
+  {
+   "w": " mercado.",
+   "start": 83.38,
+   "end": 83.72,
+   "p": 0.996
+  },
+  {
+   "w": " Perfecto.",
+   "start": 84.5,
+   "end": 85.04,
+   "p": 0.888
+  },
+  {
+   "w": " ¿Y",
+   "start": 85.22,
+   "end": 85.56,
+   "p": 0.957
+  },
+  {
+   "w": " cómo",
+   "start": 85.56,
+   "end": 85.74,
+   "p": 0.99
+  },
+  {
+   "w": " va",
+   "start": 85.74,
+   "end": 85.9,
+   "p": 0.984
+  },
+  {
+   "w": " a",
+   "start": 85.9,
+   "end": 85.94,
+   "p": 0.999
+  },
+  {
+   "w": " ser",
+   "start": 85.94,
+   "end": 86.02,
+   "p": 0.996
+  },
+  {
+   "w": " el",
+   "start": 86.02,
+   "end": 86.12,
+   "p": 0.997
+  },
+  {
+   "w": " pago?",
+   "start": 86.12,
+   "end": 86.32,
+   "p": 0.953
+  },
+  {
+   "w": " Oigan,",
+   "start": 88.68,
+   "end": 89.22,
+   "p": 0.234
+  },
+  {
+   "w": " por",
+   "start": 89.3,
+   "end": 89.5,
+   "p": 0.962
+  },
+  {
+   "w": " favor.",
+   "start": 89.5,
+   "end": 89.76,
+   "p": 1.0
+  },
+  {
+   "w": " Muy",
+   "start": 90.32,
+   "end": 90.6,
+   "p": 0.993
+  },
+  {
+   "w": " bien.",
+   "start": 90.6,
+   "end": 90.76,
+   "p": 1.0
+  },
+  {
+   "w": " El",
+   "start": 91.28,
+   "end": 91.48,
+   "p": 0.964
+  },
+  {
+   "w": " total",
+   "start": 91.48,
+   "end": 91.7,
+   "p": 1.0
+  },
+  {
+   "w": " es",
+   "start": 91.7,
+   "end": 91.98,
+   "p": 0.995
+  },
+  {
+   "w": " de",
+   "start": 91.98,
+   "end": 92.1,
+   "p": 0.998
+  },
+  {
+   "w": " 88",
+   "start": 92.1,
+   "end": 92.96,
+   "p": 0.625
+  },
+  {
+   "w": " soles.",
+   "start": 92.96,
+   "end": 93.98,
+   "p": 0.998
+  },
+  {
+   "w": " Perfecto.",
+   "start": 96.1,
+   "end": 96.64,
+   "p": 0.999
+  },
+  {
+   "w": " ¿Más",
+   "start": 97.34,
+   "end": 97.88,
+   "p": 0.978
+  },
+  {
+   "w": " o",
+   "start": 97.88,
+   "end": 97.98,
+   "p": 0.998
+  },
+  {
+   "w": " menos",
+   "start": 97.98,
+   "end": 98.08,
+   "p": 1.0
+  },
+  {
+   "w": " cuánto",
+   "start": 98.08,
+   "end": 98.3,
+   "p": 0.795
+  },
+  {
+   "w": " se",
+   "start": 98.3,
+   "end": 98.42,
+   "p": 0.997
+  },
+  {
+   "w": " demora?",
+   "start": 98.42,
+   "end": 98.7,
+   "p": 0.999
+  },
+  {
+   "w": " Un",
+   "start": 99.24,
+   "end": 99.52,
+   "p": 0.441
+  },
+  {
+   "w": " poco",
+   "start": 99.52,
+   "end": 99.7,
+   "p": 0.193
+  },
+  {
+   "w": " de",
+   "start": 99.7,
+   "end": 99.82,
+   "p": 0.962
+  },
+  {
+   "w": " cinco",
+   "start": 99.82,
+   "end": 100.02,
+   "p": 0.59
+  },
+  {
+   "w": " minutos.",
+   "start": 100.02,
+   "end": 100.38,
+   "p": 1.0
+  },
+  {
+   "w": " Listo.",
+   "start": 102.1,
+   "end": 102.64,
+   "p": 0.93
+  },
+  {
+   "w": " Muchas",
+   "start": 102.88,
+   "end": 103.18,
+   "p": 0.998
+  },
+  {
+   "w": " gracias.",
+   "start": 103.18,
+   "end": 103.54,
+   "p": 1.0
+  },
+  {
+   "w": " Gracias",
+   "start": 104.14,
+   "end": 104.42,
+   "p": 0.971
+  },
+  {
+   "w": " a",
+   "start": 104.42,
+   "end": 104.66,
+   "p": 0.988
+  },
+  {
+   "w": " usted.",
+   "start": 104.66,
+   "end": 104.7,
+   "p": 0.916
+  },
+  {
+   "w": " Buen",
+   "start": 104.96,
+   "end": 105.14,
+   "p": 0.647
+  },
+  {
+   "w": " provecho.",
+   "start": 105.14,
+   "end": 105.42,
+   "p": 0.979
+  }
+ ],
+ "model": "large-v3-turbo",
+ "device": "cuda",
+ "compute_type": "float16",
+ "glossary": true,
+ "audio_seconds": 106.52,
+ "elapsed_seconds": 2.67,
+ "rtf": 0.0251,
+ "vram_model_mb": 2016,
+ "vram_peak_extra_mb": 96,
+ "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU",
+ "clip_id": "call_05",
+ "level": "L0",
+ "run": "large-v3-turbo_cuda_float16_glossary"
+}

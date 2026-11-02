@@ -1,0 +1,79 @@
+{
+ "task": "call",
+ "method": "regex",
+ "transcript": "3. Pizzería La Buena Masa. Buenas noches. Le habla Carlos. ¿Qué le gustaría pedir? Hola, buenas noches. ¿Todavía están atendiendo delivery? Sí, claro. Atendemos hasta las 11. Perfecto. Quería dos pizzas americanas medianas. Muy bien. La americana mediana está a 32 soles cada una. ¿Algo más? Sí. Una gaseosa de litro y medio. La gaseosa está a 9 soles ¿La quiere helada? Sí Helada, por favor Ah, espera, espera Mejor que una de las pizzas de familiar Porque somos más de lo que pensaba O sea, una americana mediana Y una americana familiar Ok, entonces Quedan una americana mediana a 32 Y una americana familiar a 45 soles Con la gaseosa Exacto Todavía es una promoción hoy. Hoy es delivery y es gratis. No sé cuál es el envío. Daniel, ¿cuánto demora más o menos? Unos 40 minutos. Depende del tráfico. ¿A qué dirección enviamos? Avenida Arequipa 1450, departamento 302. Le repito. Avenida Arequipa 1450, departamento 306. ¿Alguna referencia? Es un edificio gris al costado de una farmacia. Perfecto. ¿Y cómo va a pagar? Un yape. Muy bien. Repaso el número cuando llegue el motorizado. Entonces serían 82 soles en total. Ok. Listo. Su pedido ya está en preparación. Gracias por llamar a la buena masa. Gracias a ti. Hasta luego.",
+ "fields": {
+  "items": [
+   {
+    "producto": "americana mediana",
+    "cantidad": 1,
+    "precio_unitario": 32
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 1,
+    "precio_unitario": 9
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   }
+  ],
+  "promocion": null,
+  "direccion_entrega": "avenida arequipa mil cuatrocientos cincuenta departamento trescientos dos",
+  "metodo_pago": "yape",
+  "total_dicho": 82
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "americana mediana",
+    "cantidad": 1,
+    "precio_unitario": 32
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 1,
+    "precio_unitario": 9
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   }
+  ],
+  "promocion": null,
+  "direccion_entrega": "avenida arequipa mil cuatrocientos cincuenta departamento trescientos dos",
+  "metodo_pago": "yape",
+  "total_dicho": 82
+ },
+ "validation": {
+  "subtotal": 86,
+  "descuento": 0,
+  "total_calculado": 86,
+  "total_dicho": 82,
+  "confianza_total_asr": null,
+  "precios_distintos_al_menu": [],
+  "estado": "no_cuadra",
+  "diagnostico": "error_hablante",
+  "motivo": "La transcripción es confiable: se dijo 82 pero la suma da 86."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 7.21,
+  "extraction": 0.0,
+  "total": 0.0
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 113.0,
+  "rtf": 0.0638,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

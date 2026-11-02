@@ -1,0 +1,53 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "Buenas tardes, gracias por venir, siéntate por favor. Buenas tardes, gracias. Empecemos con algo práctico, tu nivel de inglés porque es uno de los requisitos del puesto. Ah bueno, para ser sincera mi inglés es básico, entiendo algunas cosas escritas como correos cortos, pero no lo hablo. Está bien, lo tomamos en cuenta, no es ilimitado. ¿Cuánto tiempo llevas en contabilidad? Casi en tres años. No, en realidad son dos años y medio, porque el primer año fueron prácticas y esas no las conto. Entiendo. ¿Dónde trabajas actualmente? Mi último puesto es asistente contable en un estudio que lleva a la contabilidad de pequeñas empresas. Tenemos como 20 clientes, la mayoría de restaurantes y bodegas. ¿Y qué te necesitas ahí? Registro las facturas de compras y ventas, preparo las declaraciones mensuales y concilio las cuentas bancarias. A fin de mes también hay un panel cierre. ¿Y qué programas manejas? Uso Excel todos los días, también en el sistema Concar y el último año aprendí a usar Zap, porque uno de los clientes más grandes le pedía. ¿Y cómo aprendiste Zap? Ya había un curso virtual los fines de semana y lo demás lo aprendí practicando con los reportes del cliente Muy bien, ¿alguna vez cometiste un error importante y cómo lo manejaste? Sí, una vez registré una factura dos meses, dos veces, y la declaración salió mal Lo detecté en la conciliación, lo hice mi jefa y presentamos la rectificación en el mismo día Eso lo vi en el día, ¿por qué te interesa este puesto? Porque aquí la empresa es más grande y podría tener procesos de cierre más complejos. ¿Y cuál es tu expectativa, Celestina? Estaba pensando en 3.200 euros. De acuerdo. ¿Y desde cuándo estaría disponible? Tendría que terminar el cierre de este mes, así que podemos empezar a iniciar el próximo mes. Perfecto. Muchas gracias. Te seguimos con los siguientes pasos. Gracias a ustedes, que estén bien",
+ "fields": {
+  "anios_experiencia": 2.5,
+  "ultimo_puesto": "Asistente contable",
+  "tecnologias": [
+   "Excel",
+   "Concar",
+   "Zap"
+  ],
+  "pretension_salarial": 3200,
+  "disponibilidad": {
+   "texto": "a iniciar el próximo mes",
+   "fecha": "2026-12-01"
+  },
+  "nivel_ingles": "basico"
+ },
+ "verified": {
+  "anios_experiencia": 2.5,
+  "pretension_salarial": 3200,
+  "ultimo_puesto": "Asistente contable",
+  "tecnologias": [
+   "Excel",
+   "Concar",
+   "Zap"
+  ],
+  "disponibilidad": {
+   "texto": "a iniciar el próximo mes",
+   "fecha": "2026-12-01"
+  },
+  "nivel_ingles": "basico"
+ },
+ "validation": null,
+ "device": "cuda",
+ "elapsed": {
+  "asr": 9.29,
+  "extraction": 3.85,
+  "total": 3.85
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 133.57,
+  "rtf": 0.0696,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

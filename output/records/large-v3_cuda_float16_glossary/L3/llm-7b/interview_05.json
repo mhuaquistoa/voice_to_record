@@ -1,0 +1,53 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "Hola, buenos días, gracias por conectarte. Antes de empezar, ¿me escuchas bien? Sí, todo bien, buenos días. Perfecto, te cuento. El equipo de datos de estas 15 personas, estamos buscando alguien con experiencia para liberar la parte del ingreso. ¿Qué es lo que necesitas? Claro, claro, claro. Empecé a trabajar en Datos en 2020, así que tengo 6 años de experiencia. Primero estuve en una aseguradora como analista y después me pasé a ingeniería. ¿Y qué es tu puesto actual? Mi último puesto es ingeniería de datos en una empresa de telecomunicaciones. Me encargo de que la información de los clientes llegue limpia y a tiempo al área de analítica. ¿Y con qué respecto estás trabajando? Todo está en la nube en Amazon Web Services. Para gestar los procesos usamos Airflow, para procesar volúmenes grandes usamos Spark y las transformaciones las hacemos con DBT. ¿Pero que volumen de datos ha manejado el teléfono? Procesamos alrededor de 2 millones de registros al día, entre llamadas, recargas y pagos. Fernando, ¿hay un problema de calladas, arrepentimiento, discapacidad? Sí, sí, sí. El proceso nocturno demoraba 6 horas, y a veces no terminaba antes de que llegara la gente a la oficina. Lo reescribí para que solo procese lo nuevo de cada día, y ahora termina en 40 minutos. Muy bien. ¿Esto qué significa reunir a sus colectivos personales, con Tinder o con Google? ¿Y cómo se ingresa? Bien. Tengo un nivel avanzado y el año pasado saqué la certificación C1. Bien, bien. A ver, no se detenemos. ¿Cuánto ganas en este nivel? Actualmente gano 7.000 soles. ¿Cuál es tu estrategia para este puesto? Como el puesto tiene mala responsabilidad, estoy buscando 8.200 soles. Bien, bien. ¿Y cómo podrías empezar? Mira, me comprometí a terminar una migración que tenemos en curso, así que podría empezar a partir del 15 de enero. Perfecto. ¿Qué pasa con los planes? ¿Tienes un libro de preguntas? ¿El equipo trabaja con alguna metodología ágil? Sí, sí. Trabajamos con los planes de dos semanas. Genial. Así trabajo ahora también. Muchas gracias, presidente. Te pido bienvenida a la próxima semana. Gracias a ti, hasta luego",
+ "fields": {
+  "anios_experiencia": 6,
+  "ultimo_puesto": "Ingeniero de datos",
+  "tecnologias": [
+   "Airflow",
+   "Spark",
+   "DBT"
+  ],
+  "pretension_salarial": 8200,
+  "disponibilidad": {
+   "texto": "a partir del 15 de enero",
+   "fecha": "2027-01-15"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "verified": {
+  "anios_experiencia": 6,
+  "pretension_salarial": 8200,
+  "ultimo_puesto": "sin_verificar",
+  "tecnologias": [
+   "Airflow",
+   "Spark",
+   "DBT"
+  ],
+  "disponibilidad": {
+   "texto": "a partir del 15 de enero",
+   "fecha": "2027-01-15"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "validation": null,
+ "device": "cuda",
+ "elapsed": {
+  "asr": 10.46,
+  "extraction": 3.99,
+  "total": 3.99
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 165.74,
+  "rtf": 0.0631,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

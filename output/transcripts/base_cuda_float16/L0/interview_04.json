@@ -1,0 +1,1950 @@
+{
+ "text": "Hola, gracias por estar en televista, para empezar, me voy a decirlo, por favor. Claro, no soy señalador y tengo 10 años de experiencia de empeciendo página web para pequeño negocios y para más de 15 años de experiencia de usuario. Acaba, actualmente, bueno, mi último puesto es líder de diseño Wix en una startup de educación. ¿Y cuánto persona hacía ese cargo? Bueno, aquí puedo dar cuatro señores. Dos encargan de la móvil y dos de la plataforma web. ¿Y qué herramienta sucede? Para diseñar, nos vamos, sí, de firma. Y como también hago prototipos con código, trabajo con react y type aspecto. Eso me llena mucho para desarrollar mi compañía más que los desarrolladores. Ok, y ¿cómo mire si un diseño funcional? Compramos un usuario y con métricas, por ejemplo, pero diseñamos a registrar unos que tenía muchos pasos y la estás dando bajo casi la mitad. Y ¿cómo estás vuelvo con un gerente sobre un diseño? Trato de nada, yo tengo un opinión es que propongo probar las dos versiones conserrales y que las datos que decían. Muy bien, el puestro quiere presentar a clientes de afuera. ¿Cómo te sientes con ingres? Bien, tengo un inglés avanzado, he presentado en los comprenses internacionales. Excedente. ¿Qué te motiva a esta posición? Me tienes el producto de lo que yo mire de personas y que el equipo de diseño todavía se esté formando. Me gustaría construir equipos. Perfecto. ¿Y encontré el económico? ¿Qué tienes en mente? Oigan un poco menos, pero por la responsabilidad de puestos se buscan dos emisores. Entendido. ¿Y cuándo podrías empezar? Mi contratos me pido de algún mes de previso si que podría empezar algún mes. Perfecto. Eso no es normal. ¿Tienes alguna otra pregunta? ¿Qué puedo decir la viajista o la viaja de hablar vas a hacer? Hay dos personas, la idea es crecer a cinco este año. Tenía mi traseco. Muchas gracias, estamos en contacto.",
+ "words": [
+  {
+   "w": " Hola,",
+   "start": 1.56,
+   "end": 2.08,
+   "p": 0.126
+  },
+  {
+   "w": " gracias",
+   "start": 2.56,
+   "end": 2.8,
+   "p": 0.909
+  },
+  {
+   "w": " por",
+   "start": 2.8,
+   "end": 2.96,
+   "p": 0.997
+  },
+  {
+   "w": " estar",
+   "start": 2.96,
+   "end": 3.16,
+   "p": 0.635
+  },
+  {
+   "w": " en",
+   "start": 3.16,
+   "end": 3.28,
+   "p": 0.107
+  },
+  {
+   "w": " televista,",
+   "start": 3.28,
+   "end": 3.68,
+   "p": 0.581
+  },
+  {
+   "w": " para",
+   "start": 4.18,
+   "end": 4.26,
+   "p": 0.299
+  },
+  {
+   "w": " empezar,",
+   "start": 4.26,
+   "end": 4.52,
+   "p": 0.9
+  },
+  {
+   "w": " me",
+   "start": 4.7,
+   "end": 4.78,
+   "p": 0.809
+  },
+  {
+   "w": " voy",
+   "start": 4.78,
+   "end": 4.92,
+   "p": 0.095
+  },
+  {
+   "w": " a",
+   "start": 4.92,
+   "end": 4.94,
+   "p": 0.552
+  },
+  {
+   "w": " decirlo,",
+   "start": 4.94,
+   "end": 5.2,
+   "p": 0.29
+  },
+  {
+   "w": " por",
+   "start": 5.24,
+   "end": 5.3,
+   "p": 0.407
+  },
+  {
+   "w": " favor.",
+   "start": 5.3,
+   "end": 5.72,
+   "p": 0.981
+  },
+  {
+   "w": " Claro,",
+   "start": 6.9,
+   "end": 7.38,
+   "p": 0.552
+  },
+  {
+   "w": " no",
+   "start": 7.54,
+   "end": 7.64,
+   "p": 0.346
+  },
+  {
+   "w": " soy",
+   "start": 7.64,
+   "end": 7.7,
+   "p": 0.596
+  },
+  {
+   "w": " señalador",
+   "start": 7.7,
+   "end": 8.22,
+   "p": 0.556
+  },
+  {
+   "w": " y",
+   "start": 8.22,
+   "end": 8.44,
+   "p": 0.698
+  },
+  {
+   "w": " tengo",
+   "start": 8.44,
+   "end": 8.76,
+   "p": 0.998
+  },
+  {
+   "w": " 10",
+   "start": 8.76,
+   "end": 9.0,
+   "p": 0.589
+  },
+  {
+   "w": " años",
+   "start": 9.0,
+   "end": 9.2,
+   "p": 0.646
+  },
+  {
+   "w": " de",
+   "start": 9.2,
+   "end": 9.38,
+   "p": 0.736
+  },
+  {
+   "w": " experiencia",
+   "start": 9.38,
+   "end": 9.64,
+   "p": 0.947
+  },
+  {
+   "w": " de",
+   "start": 9.64,
+   "end": 10.04,
+   "p": 0.455
+  },
+  {
+   "w": " empeciendo",
+   "start": 10.04,
+   "end": 10.46,
+   "p": 0.468
+  },
+  {
+   "w": " página",
+   "start": 10.46,
+   "end": 10.78,
+   "p": 0.331
+  },
+  {
+   "w": " web",
+   "start": 10.78,
+   "end": 11.0,
+   "p": 0.481
+  },
+  {
+   "w": " para",
+   "start": 11.0,
+   "end": 11.24,
+   "p": 0.971
+  },
+  {
+   "w": " pequeño",
+   "start": 11.24,
+   "end": 11.6,
+   "p": 0.252
+  },
+  {
+   "w": " negocios",
+   "start": 11.6,
+   "end": 12.0,
+   "p": 0.817
+  },
+  {
+   "w": " y",
+   "start": 12.0,
+   "end": 12.3,
+   "p": 0.713
+  },
+  {
+   "w": " para",
+   "start": 12.3,
+   "end": 12.52,
+   "p": 0.344
+  },
+  {
+   "w": " más",
+   "start": 12.52,
+   "end": 12.68,
+   "p": 0.172
+  },
+  {
+   "w": " de",
+   "start": 12.68,
+   "end": 12.82,
+   "p": 0.236
+  },
+  {
+   "w": " 15",
+   "start": 12.82,
+   "end": 13.04,
+   "p": 0.312
+  },
+  {
+   "w": " años",
+   "start": 13.04,
+   "end": 13.24,
+   "p": 0.962
+  },
+  {
+   "w": " de",
+   "start": 13.24,
+   "end": 13.74,
+   "p": 0.901
+  },
+  {
+   "w": " experiencia",
+   "start": 13.74,
+   "end": 13.74,
+   "p": 0.982
+  },
+  {
+   "w": " de",
+   "start": 13.74,
+   "end": 14.06,
+   "p": 0.386
+  },
+  {
+   "w": " usuario.",
+   "start": 14.06,
+   "end": 14.6,
+   "p": 0.542
+  },
+  {
+   "w": " Acaba,",
+   "start": 15.4,
+   "end": 15.76,
+   "p": 0.497
+  },
+  {
+   "w": " actualmente,",
+   "start": 15.98,
+   "end": 16.82,
+   "p": 0.797
+  },
+  {
+   "w": " bueno,",
+   "start": 17.2,
+   "end": 17.44,
+   "p": 0.905
+  },
+  {
+   "w": " mi",
+   "start": 17.98,
+   "end": 18.18,
+   "p": 0.959
+  },
+  {
+   "w": " último",
+   "start": 18.18,
+   "end": 18.52,
+   "p": 0.705
+  },
+  {
+   "w": " puesto",
+   "start": 18.52,
+   "end": 18.98,
+   "p": 0.959
+  },
+  {
+   "w": " es",
+   "start": 18.98,
+   "end": 19.4,
+   "p": 0.818
+  },
+  {
+   "w": " líder",
+   "start": 19.4,
+   "end": 19.62,
+   "p": 0.155
+  },
+  {
+   "w": " de",
+   "start": 19.62,
+   "end": 19.8,
+   "p": 0.979
+  },
+  {
+   "w": " diseño",
+   "start": 19.8,
+   "end": 20.22,
+   "p": 0.946
+  },
+  {
+   "w": " Wix",
+   "start": 20.22,
+   "end": 21.92,
+   "p": 0.215
+  },
+  {
+   "w": " en",
+   "start": 21.92,
+   "end": 22.46,
+   "p": 0.585
+  },
+  {
+   "w": " una",
+   "start": 22.46,
+   "end": 22.7,
+   "p": 0.938
+  },
+  {
+   "w": " startup",
+   "start": 22.7,
+   "end": 23.08,
+   "p": 0.956
+  },
+  {
+   "w": " de",
+   "start": 23.08,
+   "end": 23.4,
+   "p": 0.794
+  },
+  {
+   "w": " educación.",
+   "start": 23.4,
+   "end": 23.8,
+   "p": 0.938
+  },
+  {
+   "w": " ¿Y",
+   "start": 24.54,
+   "end": 25.06,
+   "p": 0.344
+  },
+  {
+   "w": " cuánto",
+   "start": 25.06,
+   "end": 25.2,
+   "p": 0.558
+  },
+  {
+   "w": " persona",
+   "start": 25.2,
+   "end": 25.4,
+   "p": 0.53
+  },
+  {
+   "w": " hacía",
+   "start": 25.4,
+   "end": 25.56,
+   "p": 0.34
+  },
+  {
+   "w": " ese",
+   "start": 25.56,
+   "end": 25.7,
+   "p": 0.427
+  },
+  {
+   "w": " cargo?",
+   "start": 25.7,
+   "end": 25.88,
+   "p": 0.563
+  },
+  {
+   "w": " Bueno,",
+   "start": 27.42,
+   "end": 27.68,
+   "p": 0.655
+  },
+  {
+   "w": " aquí",
+   "start": 27.78,
+   "end": 27.84,
+   "p": 0.768
+  },
+  {
+   "w": " puedo",
+   "start": 27.84,
+   "end": 28.02,
+   "p": 0.591
+  },
+  {
+   "w": " dar",
+   "start": 28.02,
+   "end": 28.18,
+   "p": 0.21
+  },
+  {
+   "w": " cuatro",
+   "start": 28.18,
+   "end": 28.5,
+   "p": 0.635
+  },
+  {
+   "w": " señores.",
+   "start": 28.5,
+   "end": 29.02,
+   "p": 0.65
+  },
+  {
+   "w": " Dos",
+   "start": 29.6,
+   "end": 29.7,
+   "p": 0.525
+  },
+  {
+   "w": " encargan",
+   "start": 29.7,
+   "end": 30.12,
+   "p": 0.641
+  },
+  {
+   "w": " de",
+   "start": 30.12,
+   "end": 30.32,
+   "p": 0.333
+  },
+  {
+   "w": " la",
+   "start": 30.32,
+   "end": 30.46,
+   "p": 0.848
+  },
+  {
+   "w": " móvil",
+   "start": 30.46,
+   "end": 30.9,
+   "p": 0.493
+  },
+  {
+   "w": " y",
+   "start": 30.9,
+   "end": 31.28,
+   "p": 0.83
+  },
+  {
+   "w": " dos",
+   "start": 31.28,
+   "end": 31.58,
+   "p": 0.587
+  },
+  {
+   "w": " de",
+   "start": 31.58,
+   "end": 31.72,
+   "p": 0.698
+  },
+  {
+   "w": " la",
+   "start": 31.72,
+   "end": 31.8,
+   "p": 0.89
+  },
+  {
+   "w": " plataforma",
+   "start": 31.8,
+   "end": 32.12,
+   "p": 0.825
+  },
+  {
+   "w": " web.",
+   "start": 32.12,
+   "end": 32.56,
+   "p": 0.841
+  },
+  {
+   "w": " ¿Y",
+   "start": 33.44,
+   "end": 33.84,
+   "p": 0.917
+  },
+  {
+   "w": " qué",
+   "start": 33.84,
+   "end": 33.96,
+   "p": 0.671
+  },
+  {
+   "w": " herramienta",
+   "start": 33.96,
+   "end": 34.3,
+   "p": 0.403
+  },
+  {
+   "w": " sucede?",
+   "start": 34.3,
+   "end": 34.64,
+   "p": 0.597
+  },
+  {
+   "w": " Para",
+   "start": 37.08,
+   "end": 37.6,
+   "p": 0.976
+  },
+  {
+   "w": " diseñar,",
+   "start": 37.6,
+   "end": 37.98,
+   "p": 0.821
+  },
+  {
+   "w": " nos",
+   "start": 37.98,
+   "end": 38.12,
+   "p": 0.654
+  },
+  {
+   "w": " vamos,",
+   "start": 38.12,
+   "end": 38.34,
+   "p": 0.714
+  },
+  {
+   "w": " sí,",
+   "start": 38.56,
+   "end": 38.64,
+   "p": 0.662
+  },
+  {
+   "w": " de",
+   "start": 38.9,
+   "end": 39.06,
+   "p": 0.277
+  },
+  {
+   "w": " firma.",
+   "start": 39.06,
+   "end": 39.58,
+   "p": 0.624
+  },
+  {
+   "w": " Y",
+   "start": 40.6,
+   "end": 41.12,
+   "p": 0.809
+  },
+  {
+   "w": " como",
+   "start": 41.12,
+   "end": 41.64,
+   "p": 0.642
+  },
+  {
+   "w": " también",
+   "start": 41.64,
+   "end": 41.98,
+   "p": 0.944
+  },
+  {
+   "w": " hago",
+   "start": 41.98,
+   "end": 42.2,
+   "p": 0.775
+  },
+  {
+   "w": " prototipos",
+   "start": 42.2,
+   "end": 42.88,
+   "p": 0.869
+  },
+  {
+   "w": " con",
+   "start": 42.88,
+   "end": 43.06,
+   "p": 0.707
+  },
+  {
+   "w": " código,",
+   "start": 43.06,
+   "end": 43.48,
+   "p": 0.38
+  },
+  {
+   "w": " trabajo",
+   "start": 43.8,
+   "end": 43.98,
+   "p": 0.734
+  },
+  {
+   "w": " con",
+   "start": 43.98,
+   "end": 44.36,
+   "p": 0.713
+  },
+  {
+   "w": " react",
+   "start": 44.36,
+   "end": 44.64,
+   "p": 0.263
+  },
+  {
+   "w": " y",
+   "start": 44.64,
+   "end": 45.08,
+   "p": 0.936
+  },
+  {
+   "w": " type",
+   "start": 45.08,
+   "end": 45.3,
+   "p": 0.083
+  },
+  {
+   "w": " aspecto.",
+   "start": 45.3,
+   "end": 46.04,
+   "p": 0.774
+  },
+  {
+   "w": " Eso",
+   "start": 46.22,
+   "end": 46.32,
+   "p": 0.787
+  },
+  {
+   "w": " me",
+   "start": 46.32,
+   "end": 46.46,
+   "p": 0.913
+  },
+  {
+   "w": " llena",
+   "start": 46.46,
+   "end": 46.58,
+   "p": 0.319
+  },
+  {
+   "w": " mucho",
+   "start": 46.58,
+   "end": 46.9,
+   "p": 0.946
+  },
+  {
+   "w": " para",
+   "start": 46.9,
+   "end": 47.14,
+   "p": 0.26
+  },
+  {
+   "w": " desarrollar",
+   "start": 47.14,
+   "end": 47.6,
+   "p": 0.846
+  },
+  {
+   "w": " mi",
+   "start": 47.6,
+   "end": 47.84,
+   "p": 0.513
+  },
+  {
+   "w": " compañía",
+   "start": 47.84,
+   "end": 48.1,
+   "p": 0.427
+  },
+  {
+   "w": " más",
+   "start": 48.1,
+   "end": 48.34,
+   "p": 0.325
+  },
+  {
+   "w": " que",
+   "start": 48.34,
+   "end": 48.48,
+   "p": 0.96
+  },
+  {
+   "w": " los",
+   "start": 48.48,
+   "end": 48.58,
+   "p": 0.943
+  },
+  {
+   "w": " desarrolladores.",
+   "start": 48.58,
+   "end": 49.34,
+   "p": 0.958
+  },
+  {
+   "w": " Ok,",
+   "start": 50.24,
+   "end": 50.8,
+   "p": 0.146
+  },
+  {
+   "w": " y",
+   "start": 51.14,
+   "end": 51.22,
+   "p": 0.59
+  },
+  {
+   "w": " ¿cómo",
+   "start": 51.22,
+   "end": 51.72,
+   "p": 0.507
+  },
+  {
+   "w": " mire",
+   "start": 51.72,
+   "end": 51.96,
+   "p": 0.362
+  },
+  {
+   "w": " si",
+   "start": 51.96,
+   "end": 52.34,
+   "p": 0.876
+  },
+  {
+   "w": " un",
+   "start": 52.34,
+   "end": 52.46,
+   "p": 0.777
+  },
+  {
+   "w": " diseño",
+   "start": 52.46,
+   "end": 52.74,
+   "p": 0.983
+  },
+  {
+   "w": " funcional?",
+   "start": 52.74,
+   "end": 53.18,
+   "p": 0.454
+  },
+  {
+   "w": " Compramos",
+   "start": 55.0,
+   "end": 55.56,
+   "p": 0.555
+  },
+  {
+   "w": " un",
+   "start": 55.56,
+   "end": 55.78,
+   "p": 0.105
+  },
+  {
+   "w": " usuario",
+   "start": 55.78,
+   "end": 56.06,
+   "p": 0.958
+  },
+  {
+   "w": " y",
+   "start": 56.06,
+   "end": 56.32,
+   "p": 0.974
+  },
+  {
+   "w": " con",
+   "start": 56.32,
+   "end": 56.5,
+   "p": 0.297
+  },
+  {
+   "w": " métricas,",
+   "start": 56.5,
+   "end": 57.04,
+   "p": 0.793
+  },
+  {
+   "w": " por",
+   "start": 57.2,
+   "end": 57.28,
+   "p": 0.943
+  },
+  {
+   "w": " ejemplo,",
+   "start": 57.28,
+   "end": 57.46,
+   "p": 0.851
+  },
+  {
+   "w": " pero",
+   "start": 57.72,
+   "end": 58.0,
+   "p": 0.164
+  },
+  {
+   "w": " diseñamos",
+   "start": 58.0,
+   "end": 58.42,
+   "p": 0.915
+  },
+  {
+   "w": " a",
+   "start": 58.42,
+   "end": 58.54,
+   "p": 0.628
+  },
+  {
+   "w": " registrar",
+   "start": 58.54,
+   "end": 58.9,
+   "p": 0.951
+  },
+  {
+   "w": " unos",
+   "start": 58.9,
+   "end": 59.22,
+   "p": 0.299
+  },
+  {
+   "w": " que",
+   "start": 59.22,
+   "end": 59.4,
+   "p": 0.811
+  },
+  {
+   "w": " tenía",
+   "start": 59.4,
+   "end": 59.64,
+   "p": 0.503
+  },
+  {
+   "w": " muchos",
+   "start": 59.64,
+   "end": 59.88,
+   "p": 0.813
+  },
+  {
+   "w": " pasos",
+   "start": 59.88,
+   "end": 60.26,
+   "p": 0.992
+  },
+  {
+   "w": " y",
+   "start": 60.26,
+   "end": 60.5,
+   "p": 0.852
+  },
+  {
+   "w": " la",
+   "start": 60.5,
+   "end": 60.64,
+   "p": 0.582
+  },
+  {
+   "w": " estás",
+   "start": 60.64,
+   "end": 60.76,
+   "p": 0.506
+  },
+  {
+   "w": " dando",
+   "start": 60.76,
+   "end": 61.12,
+   "p": 0.716
+  },
+  {
+   "w": " bajo",
+   "start": 61.12,
+   "end": 62.0,
+   "p": 0.604
+  },
+  {
+   "w": " casi",
+   "start": 62.0,
+   "end": 62.36,
+   "p": 0.666
+  },
+  {
+   "w": " la",
+   "start": 62.36,
+   "end": 62.5,
+   "p": 0.726
+  },
+  {
+   "w": " mitad.",
+   "start": 62.5,
+   "end": 62.72,
+   "p": 0.186
+  },
+  {
+   "w": " Y",
+   "start": 63.74,
+   "end": 64.2,
+   "p": 0.414
+  },
+  {
+   "w": " ¿cómo",
+   "start": 64.2,
+   "end": 64.56,
+   "p": 0.862
+  },
+  {
+   "w": " estás",
+   "start": 64.56,
+   "end": 64.76,
+   "p": 0.117
+  },
+  {
+   "w": " vuelvo",
+   "start": 64.76,
+   "end": 65.04,
+   "p": 0.285
+  },
+  {
+   "w": " con",
+   "start": 65.04,
+   "end": 65.38,
+   "p": 0.955
+  },
+  {
+   "w": " un",
+   "start": 65.38,
+   "end": 65.64,
+   "p": 0.992
+  },
+  {
+   "w": " gerente",
+   "start": 65.64,
+   "end": 66.1,
+   "p": 0.792
+  },
+  {
+   "w": " sobre",
+   "start": 66.1,
+   "end": 66.7,
+   "p": 0.978
+  },
+  {
+   "w": " un",
+   "start": 66.7,
+   "end": 66.84,
+   "p": 0.983
+  },
+  {
+   "w": " diseño?",
+   "start": 66.84,
+   "end": 67.22,
+   "p": 0.999
+  },
+  {
+   "w": " Trato",
+   "start": 69.1,
+   "end": 69.66,
+   "p": 0.877
+  },
+  {
+   "w": " de",
+   "start": 69.66,
+   "end": 69.88,
+   "p": 0.833
+  },
+  {
+   "w": " nada,",
+   "start": 69.88,
+   "end": 69.98,
+   "p": 0.168
+  },
+  {
+   "w": " yo",
+   "start": 70.1,
+   "end": 70.18,
+   "p": 0.042
+  },
+  {
+   "w": " tengo",
+   "start": 70.18,
+   "end": 70.34,
+   "p": 0.404
+  },
+  {
+   "w": " un",
+   "start": 70.34,
+   "end": 70.52,
+   "p": 0.127
+  },
+  {
+   "w": " opinión",
+   "start": 70.52,
+   "end": 70.82,
+   "p": 0.87
+  },
+  {
+   "w": " es",
+   "start": 70.82,
+   "end": 71.16,
+   "p": 0.669
+  },
+  {
+   "w": " que",
+   "start": 71.16,
+   "end": 71.32,
+   "p": 0.871
+  },
+  {
+   "w": " propongo",
+   "start": 71.32,
+   "end": 72.3,
+   "p": 0.862
+  },
+  {
+   "w": " probar",
+   "start": 72.3,
+   "end": 72.58,
+   "p": 0.942
+  },
+  {
+   "w": " las",
+   "start": 73.02,
+   "end": 73.22,
+   "p": 0.985
+  },
+  {
+   "w": " dos",
+   "start": 73.22,
+   "end": 73.4,
+   "p": 0.972
+  },
+  {
+   "w": " versiones",
+   "start": 73.4,
+   "end": 74.06,
+   "p": 0.649
+  },
+  {
+   "w": " conserrales",
+   "start": 74.06,
+   "end": 75.02,
+   "p": 0.457
+  },
+  {
+   "w": " y",
+   "start": 75.02,
+   "end": 75.74,
+   "p": 0.871
+  },
+  {
+   "w": " que",
+   "start": 75.74,
+   "end": 75.88,
+   "p": 0.974
+  },
+  {
+   "w": " las",
+   "start": 75.88,
+   "end": 76.06,
+   "p": 0.792
+  },
+  {
+   "w": " datos",
+   "start": 76.06,
+   "end": 76.26,
+   "p": 0.988
+  },
+  {
+   "w": " que",
+   "start": 76.26,
+   "end": 76.44,
+   "p": 0.214
+  },
+  {
+   "w": " decían.",
+   "start": 76.44,
+   "end": 76.88,
+   "p": 0.535
+  },
+  {
+   "w": " Muy",
+   "start": 77.48,
+   "end": 78.0,
+   "p": 0.021
+  },
+  {
+   "w": " bien,",
+   "start": 78.0,
+   "end": 78.42,
+   "p": 0.994
+  },
+  {
+   "w": " el",
+   "start": 78.88,
+   "end": 79.24,
+   "p": 0.393
+  },
+  {
+   "w": " puestro",
+   "start": 79.24,
+   "end": 79.54,
+   "p": 0.517
+  },
+  {
+   "w": " quiere",
+   "start": 79.54,
+   "end": 79.78,
+   "p": 0.865
+  },
+  {
+   "w": " presentar",
+   "start": 79.78,
+   "end": 80.36,
+   "p": 0.921
+  },
+  {
+   "w": " a",
+   "start": 80.36,
+   "end": 80.44,
+   "p": 0.621
+  },
+  {
+   "w": " clientes",
+   "start": 80.44,
+   "end": 80.88,
+   "p": 0.936
+  },
+  {
+   "w": " de",
+   "start": 80.88,
+   "end": 81.0,
+   "p": 0.306
+  },
+  {
+   "w": " afuera.",
+   "start": 81.0,
+   "end": 81.3,
+   "p": 0.763
+  },
+  {
+   "w": " ¿Cómo",
+   "start": 81.68,
+   "end": 81.8,
+   "p": 0.872
+  },
+  {
+   "w": " te",
+   "start": 81.8,
+   "end": 81.94,
+   "p": 0.982
+  },
+  {
+   "w": " sientes",
+   "start": 81.94,
+   "end": 82.14,
+   "p": 0.964
+  },
+  {
+   "w": " con",
+   "start": 82.14,
+   "end": 82.38,
+   "p": 0.958
+  },
+  {
+   "w": " ingres?",
+   "start": 82.38,
+   "end": 82.7,
+   "p": 0.734
+  },
+  {
+   "w": " Bien,",
+   "start": 84.32,
+   "end": 84.64,
+   "p": 0.931
+  },
+  {
+   "w": " tengo",
+   "start": 84.78,
+   "end": 85.06,
+   "p": 0.973
+  },
+  {
+   "w": " un",
+   "start": 85.06,
+   "end": 86.14,
+   "p": 0.898
+  },
+  {
+   "w": " inglés",
+   "start": 86.14,
+   "end": 86.4,
+   "p": 0.704
+  },
+  {
+   "w": " avanzado,",
+   "start": 86.4,
+   "end": 87.02,
+   "p": 0.973
+  },
+  {
+   "w": " he",
+   "start": 87.2,
+   "end": 87.26,
+   "p": 0.894
+  },
+  {
+   "w": " presentado",
+   "start": 87.26,
+   "end": 87.86,
+   "p": 0.981
+  },
+  {
+   "w": " en",
+   "start": 87.86,
+   "end": 88.12,
+   "p": 0.877
+  },
+  {
+   "w": " los",
+   "start": 88.12,
+   "end": 89.14,
+   "p": 0.487
+  },
+  {
+   "w": " comprenses",
+   "start": 89.14,
+   "end": 89.58,
+   "p": 0.535
+  },
+  {
+   "w": " internacionales.",
+   "start": 89.58,
+   "end": 90.66,
+   "p": 0.911
+  },
+  {
+   "w": " Excedente.",
+   "start": 91.5,
+   "end": 92.02,
+   "p": 0.464
+  },
+  {
+   "w": " ¿Qué",
+   "start": 92.62,
+   "end": 92.74,
+   "p": 0.929
+  },
+  {
+   "w": " te",
+   "start": 92.74,
+   "end": 92.84,
+   "p": 0.882
+  },
+  {
+   "w": " motiva",
+   "start": 92.84,
+   "end": 93.24,
+   "p": 0.947
+  },
+  {
+   "w": " a",
+   "start": 93.24,
+   "end": 93.28,
+   "p": 0.944
+  },
+  {
+   "w": " esta",
+   "start": 93.28,
+   "end": 93.42,
+   "p": 0.844
+  },
+  {
+   "w": " posición?",
+   "start": 93.42,
+   "end": 93.62,
+   "p": 0.95
+  },
+  {
+   "w": " Me",
+   "start": 95.24,
+   "end": 95.52,
+   "p": 0.729
+  },
+  {
+   "w": " tienes",
+   "start": 95.52,
+   "end": 95.62,
+   "p": 0.38
+  },
+  {
+   "w": " el",
+   "start": 95.62,
+   "end": 95.82,
+   "p": 0.457
+  },
+  {
+   "w": " producto",
+   "start": 95.82,
+   "end": 96.08,
+   "p": 0.22
+  },
+  {
+   "w": " de",
+   "start": 96.08,
+   "end": 96.28,
+   "p": 0.803
+  },
+  {
+   "w": " lo",
+   "start": 96.28,
+   "end": 96.36,
+   "p": 0.644
+  },
+  {
+   "w": " que",
+   "start": 96.36,
+   "end": 96.4,
+   "p": 0.482
+  },
+  {
+   "w": " yo",
+   "start": 96.4,
+   "end": 96.52,
+   "p": 0.156
+  },
+  {
+   "w": " mire",
+   "start": 96.52,
+   "end": 96.66,
+   "p": 0.378
+  },
+  {
+   "w": " de",
+   "start": 96.66,
+   "end": 96.82,
+   "p": 0.87
+  },
+  {
+   "w": " personas",
+   "start": 96.82,
+   "end": 97.06,
+   "p": 0.874
+  },
+  {
+   "w": " y",
+   "start": 97.06,
+   "end": 97.4,
+   "p": 0.686
+  },
+  {
+   "w": " que",
+   "start": 97.4,
+   "end": 97.52,
+   "p": 0.896
+  },
+  {
+   "w": " el",
+   "start": 97.52,
+   "end": 97.62,
+   "p": 0.923
+  },
+  {
+   "w": " equipo",
+   "start": 97.62,
+   "end": 97.78,
+   "p": 0.996
+  },
+  {
+   "w": " de",
+   "start": 97.78,
+   "end": 98.0,
+   "p": 0.686
+  },
+  {
+   "w": " diseño",
+   "start": 98.0,
+   "end": 98.3,
+   "p": 0.932
+  },
+  {
+   "w": " todavía",
+   "start": 98.3,
+   "end": 98.68,
+   "p": 0.901
+  },
+  {
+   "w": " se",
+   "start": 98.68,
+   "end": 98.86,
+   "p": 0.774
+  },
+  {
+   "w": " esté",
+   "start": 98.86,
+   "end": 99.06,
+   "p": 0.89
+  },
+  {
+   "w": " formando.",
+   "start": 99.06,
+   "end": 99.54,
+   "p": 0.99
+  },
+  {
+   "w": " Me",
+   "start": 99.8,
+   "end": 99.88,
+   "p": 0.953
+  },
+  {
+   "w": " gustaría",
+   "start": 99.88,
+   "end": 100.16,
+   "p": 0.835
+  },
+  {
+   "w": " construir",
+   "start": 100.16,
+   "end": 100.56,
+   "p": 0.717
+  },
+  {
+   "w": " equipos.",
+   "start": 100.56,
+   "end": 101.18,
+   "p": 0.938
+  },
+  {
+   "w": " Perfecto.",
+   "start": 102.14,
+   "end": 102.66,
+   "p": 0.636
+  },
+  {
+   "w": " ¿Y",
+   "start": 103.2,
+   "end": 103.72,
+   "p": 0.329
+  },
+  {
+   "w": " encontré",
+   "start": 103.72,
+   "end": 104.6,
+   "p": 0.422
+  },
+  {
+   "w": " el",
+   "start": 104.6,
+   "end": 104.64,
+   "p": 0.495
+  },
+  {
+   "w": " económico?",
+   "start": 104.64,
+   "end": 104.94,
+   "p": 0.593
+  },
+  {
+   "w": " ¿Qué",
+   "start": 105.26,
+   "end": 105.48,
+   "p": 0.784
+  },
+  {
+   "w": " tienes",
+   "start": 105.48,
+   "end": 105.68,
+   "p": 0.234
+  },
+  {
+   "w": " en",
+   "start": 105.68,
+   "end": 105.92,
+   "p": 0.363
+  },
+  {
+   "w": " mente?",
+   "start": 105.92,
+   "end": 106.2,
+   "p": 0.982
+  },
+  {
+   "w": " Oigan",
+   "start": 107.58,
+   "end": 107.98,
+   "p": 0.624
+  },
+  {
+   "w": " un",
+   "start": 107.98,
+   "end": 108.24,
+   "p": 0.845
+  },
+  {
+   "w": " poco",
+   "start": 108.24,
+   "end": 108.34,
+   "p": 0.997
+  },
+  {
+   "w": " menos,",
+   "start": 108.34,
+   "end": 108.74,
+   "p": 0.947
+  },
+  {
+   "w": " pero",
+   "start": 108.96,
+   "end": 109.0,
+   "p": 0.207
+  },
+  {
+   "w": " por",
+   "start": 109.0,
+   "end": 109.24,
+   "p": 0.869
+  },
+  {
+   "w": " la",
+   "start": 109.24,
+   "end": 109.32,
+   "p": 0.936
+  },
+  {
+   "w": " responsabilidad",
+   "start": 109.32,
+   "end": 109.88,
+   "p": 0.825
+  },
+  {
+   "w": " de",
+   "start": 109.88,
+   "end": 110.04,
+   "p": 0.728
+  },
+  {
+   "w": " puestos",
+   "start": 110.04,
+   "end": 110.3,
+   "p": 0.606
+  },
+  {
+   "w": " se",
+   "start": 110.3,
+   "end": 110.52,
+   "p": 0.328
+  },
+  {
+   "w": " buscan",
+   "start": 110.52,
+   "end": 110.8,
+   "p": 0.496
+  },
+  {
+   "w": " dos",
+   "start": 110.8,
+   "end": 111.06,
+   "p": 0.614
+  },
+  {
+   "w": " emisores.",
+   "start": 111.06,
+   "end": 111.62,
+   "p": 0.823
+  },
+  {
+   "w": " Entendido.",
+   "start": 112.46,
+   "end": 112.98,
+   "p": 0.924
+  },
+  {
+   "w": " ¿Y",
+   "start": 113.54,
+   "end": 113.72,
+   "p": 0.836
+  },
+  {
+   "w": " cuándo",
+   "start": 113.72,
+   "end": 114.78,
+   "p": 0.827
+  },
+  {
+   "w": " podrías",
+   "start": 114.78,
+   "end": 115.04,
+   "p": 0.411
+  },
+  {
+   "w": " empezar?",
+   "start": 115.04,
+   "end": 115.26,
+   "p": 0.316
+  },
+  {
+   "w": " Mi",
+   "start": 116.72,
+   "end": 117.2,
+   "p": 0.968
+  },
+  {
+   "w": " contratos",
+   "start": 117.2,
+   "end": 117.52,
+   "p": 0.293
+  },
+  {
+   "w": " me",
+   "start": 117.52,
+   "end": 117.76,
+   "p": 0.882
+  },
+  {
+   "w": " pido",
+   "start": 117.76,
+   "end": 118.02,
+   "p": 0.683
+  },
+  {
+   "w": " de",
+   "start": 118.02,
+   "end": 118.32,
+   "p": 0.248
+  },
+  {
+   "w": " algún",
+   "start": 118.32,
+   "end": 118.32,
+   "p": 0.281
+  },
+  {
+   "w": " mes",
+   "start": 118.32,
+   "end": 118.46,
+   "p": 0.969
+  },
+  {
+   "w": " de",
+   "start": 118.46,
+   "end": 118.64,
+   "p": 0.81
+  },
+  {
+   "w": " previso",
+   "start": 118.64,
+   "end": 118.98,
+   "p": 0.577
+  },
+  {
+   "w": " si",
+   "start": 118.98,
+   "end": 119.18,
+   "p": 0.396
+  },
+  {
+   "w": " que",
+   "start": 119.18,
+   "end": 119.28,
+   "p": 0.334
+  },
+  {
+   "w": " podría",
+   "start": 119.28,
+   "end": 119.58,
+   "p": 0.56
+  },
+  {
+   "w": " empezar",
+   "start": 119.58,
+   "end": 119.9,
+   "p": 0.989
+  },
+  {
+   "w": " algún",
+   "start": 119.9,
+   "end": 120.18,
+   "p": 0.802
+  },
+  {
+   "w": " mes.",
+   "start": 120.18,
+   "end": 120.38,
+   "p": 0.993
+  },
+  {
+   "w": " Perfecto.",
+   "start": 121.68,
+   "end": 122.2,
+   "p": 0.965
+  },
+  {
+   "w": " Eso",
+   "start": 122.58,
+   "end": 122.72,
+   "p": 0.574
+  },
+  {
+   "w": " no",
+   "start": 122.72,
+   "end": 122.82,
+   "p": 0.743
+  },
+  {
+   "w": " es",
+   "start": 122.82,
+   "end": 122.86,
+   "p": 0.476
+  },
+  {
+   "w": " normal.",
+   "start": 122.86,
+   "end": 123.04,
+   "p": 0.093
+  },
+  {
+   "w": " ¿Tienes",
+   "start": 123.56,
+   "end": 123.7,
+   "p": 0.914
+  },
+  {
+   "w": " alguna",
+   "start": 123.7,
+   "end": 123.86,
+   "p": 0.613
+  },
+  {
+   "w": " otra",
+   "start": 123.86,
+   "end": 124.04,
+   "p": 0.316
+  },
+  {
+   "w": " pregunta?",
+   "start": 124.04,
+   "end": 124.26,
+   "p": 0.995
+  },
+  {
+   "w": " ¿Qué",
+   "start": 127.4,
+   "end": 127.9,
+   "p": 0.258
+  },
+  {
+   "w": " puedo",
+   "start": 127.9,
+   "end": 128.16,
+   "p": 0.331
+  },
+  {
+   "w": " decir",
+   "start": 128.16,
+   "end": 128.44,
+   "p": 0.742
+  },
+  {
+   "w": " la",
+   "start": 128.44,
+   "end": 128.64,
+   "p": 0.11
+  },
+  {
+   "w": " viajista",
+   "start": 128.64,
+   "end": 129.2,
+   "p": 0.575
+  },
+  {
+   "w": " o",
+   "start": 129.2,
+   "end": 129.36,
+   "p": 0.384
+  },
+  {
+   "w": " la",
+   "start": 129.36,
+   "end": 129.5,
+   "p": 0.771
+  },
+  {
+   "w": " viaja",
+   "start": 129.5,
+   "end": 129.68,
+   "p": 0.539
+  },
+  {
+   "w": " de",
+   "start": 129.68,
+   "end": 129.86,
+   "p": 0.315
+  },
+  {
+   "w": " hablar",
+   "start": 129.86,
+   "end": 129.96,
+   "p": 0.552
+  },
+  {
+   "w": " vas",
+   "start": 129.96,
+   "end": 130.2,
+   "p": 0.23
+  },
+  {
+   "w": " a",
+   "start": 130.2,
+   "end": 130.26,
+   "p": 0.995
+  },
+  {
+   "w": " hacer?",
+   "start": 130.26,
+   "end": 130.56,
+   "p": 0.911
+  },
+  {
+   "w": " Hay",
+   "start": 131.26,
+   "end": 131.46,
+   "p": 0.892
+  },
+  {
+   "w": " dos",
+   "start": 131.46,
+   "end": 131.52,
+   "p": 0.9
+  },
+  {
+   "w": " personas,",
+   "start": 131.52,
+   "end": 131.72,
+   "p": 0.866
+  },
+  {
+   "w": " la",
+   "start": 132.42,
+   "end": 132.44,
+   "p": 0.609
+  },
+  {
+   "w": " idea",
+   "start": 132.44,
+   "end": 132.56,
+   "p": 0.779
+  },
+  {
+   "w": " es",
+   "start": 132.56,
+   "end": 132.78,
+   "p": 0.957
+  },
+  {
+   "w": " crecer",
+   "start": 132.78,
+   "end": 133.0,
+   "p": 0.52
+  },
+  {
+   "w": " a",
+   "start": 133.0,
+   "end": 133.32,
+   "p": 0.778
+  },
+  {
+   "w": " cinco",
+   "start": 133.32,
+   "end": 133.62,
+   "p": 0.625
+  },
+  {
+   "w": " este",
+   "start": 133.62,
+   "end": 133.8,
+   "p": 0.666
+  },
+  {
+   "w": " año.",
+   "start": 133.8,
+   "end": 134.04,
+   "p": 0.983
+  },
+  {
+   "w": " Tenía",
+   "start": 135.76,
+   "end": 136.26,
+   "p": 0.144
+  },
+  {
+   "w": " mi",
+   "start": 136.26,
+   "end": 136.56,
+   "p": 0.17
+  },
+  {
+   "w": " traseco.",
+   "start": 136.56,
+   "end": 136.98,
+   "p": 0.235
+  },
+  {
+   "w": " Muchas",
+   "start": 138.06,
+   "end": 138.56,
+   "p": 0.919
+  },
+  {
+   "w": " gracias,",
+   "start": 138.56,
+   "end": 138.86,
+   "p": 0.984
+  },
+  {
+   "w": " estamos",
+   "start": 139.3,
+   "end": 139.44,
+   "p": 0.743
+  },
+  {
+   "w": " en",
+   "start": 139.44,
+   "end": 139.56,
+   "p": 0.984
+  },
+  {
+   "w": " contacto.",
+   "start": 139.56,
+   "end": 140.0,
+   "p": 0.986
+  }
+ ],
+ "model": "base",
+ "device": "cuda",
+ "compute_type": "float16",
+ "glossary": false,
+ "audio_seconds": 141.42,
+ "elapsed_seconds": 2.2,
+ "rtf": 0.0156,
+ "vram_model_mb": 160,
+ "vram_peak_extra_mb": 32,
+ "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU",
+ "clip_id": "interview_04",
+ "level": "L0",
+ "run": "base_cuda_float16"
+}

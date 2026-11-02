@@ -1,0 +1,76 @@
+run,level,method,clip_id,total_correcto_gold,estado,diagnostico,total_calculado,total_dicho,confianza_total_asr,outcome,precios_distintos
+oracle,reference,regex,call_01,False,no_cuadra,error_hablante,86.0,82,,caught,[]
+oracle,reference,regex,call_02,True,cuadra,,81.0,81,,correct_pass,[]
+oracle,reference,regex,call_03,False,no_cuadra,error_hablante,71.0,76,,caught,[]
+oracle,reference,regex,call_04,False,no_cuadra,error_hablante,106.0,116,,caught,"[{""producto"": ""pepperoni familiar"", ""dicho"": 45, ""menu"": 49}]"
+oracle,reference,regex,call_05,True,cuadra,,88.0,88,,correct_pass,[]
+large-v3_cuda_float16_glossary,L0,regex,call_01,False,no_cuadra,error_hablante,86.0,82,0.952,caught,[]
+large-v3_cuda_float16_glossary,L0,regex,call_02,True,no_cuadra,error_hablante,32.0,81,0.657,false_alarm,[]
+large-v3_cuda_float16_glossary,L0,regex,call_03,False,no_cuadra,error_hablante,71.0,76,0.966,caught,[]
+large-v3_cuda_float16_glossary,L0,regex,call_04,False,no_cuadra,error_hablante,106.0,116,0.99,caught,"[{""producto"": ""pepperoni familiar"", ""dicho"": 45, ""menu"": 49}]"
+large-v3_cuda_float16_glossary,L0,regex,call_05,True,cuadra,,88.0,88,0.843,correct_pass,[]
+large-v3_cuda_float16_glossary,L1,regex,call_01,False,no_cuadra,error_hablante,86.0,82,0.994,caught,[]
+large-v3_cuda_float16_glossary,L1,regex,call_02,True,no_cuadra,error_hablante,32.0,81,0.798,false_alarm,[]
+large-v3_cuda_float16_glossary,L1,regex,call_03,False,no_cuadra,error_hablante,71.0,76,0.825,caught,[]
+large-v3_cuda_float16_glossary,L1,regex,call_04,False,no_cuadra,error_hablante,106.0,116,0.985,caught,[]
+large-v3_cuda_float16_glossary,L1,regex,call_05,True,cuadra,,88.0,88,0.746,correct_pass,[]
+large-v3_cuda_float16_glossary,L2,regex,call_01,False,no_cuadra,error_hablante,86.0,82,0.989,caught,[]
+large-v3_cuda_float16_glossary,L2,regex,call_02,True,no_cuadra,error_hablante,32.0,81,0.808,false_alarm,[]
+large-v3_cuda_float16_glossary,L2,regex,call_03,False,no_cuadra,error_asr,71.0,76000,0.565,caught,"[{""producto"": ""hawaiana mediana"", ""dicho"": 30, ""menu"": 34}]"
+large-v3_cuda_float16_glossary,L2,regex,call_04,False,no_cuadra,error_hablante,106.0,116,0.993,caught,"[{""producto"": ""pepperoni familiar"", ""dicho"": 45, ""menu"": 49}]"
+large-v3_cuda_float16_glossary,L2,regex,call_05,True,no_cuadra,error_hablante,76.0,88,0.914,false_alarm,[]
+large-v3_cuda_float16_glossary,L3,regex,call_01,False,sin_total,error_asr,86.0,,,caught,[]
+large-v3_cuda_float16_glossary,L3,regex,call_02,True,no_cuadra,error_asr,18.0,80000,0.404,false_alarm,"[{""producto"": ""pan al ajo"", ""dicho"": 2, ""menu"": 12}]"
+large-v3_cuda_float16_glossary,L3,regex,call_03,False,sin_total,error_asr,78.0,,,caught,[]
+large-v3_cuda_float16_glossary,L3,regex,call_04,False,sin_total,error_asr,72.0,,,caught,[]
+large-v3_cuda_float16_glossary,L3,regex,call_05,True,sin_total,error_asr,79.0,sin_verificar,0.584,false_alarm,[]
+oracle,reference,llm-3b,call_01,False,no_cuadra,error_hablante,86.0,82,,caught,[]
+oracle,reference,llm-3b,call_02,True,no_cuadra,error_hablante,63.0,81,,false_alarm,[]
+oracle,reference,llm-3b,call_03,False,no_cuadra,error_hablante,71.0,76,,caught,[]
+oracle,reference,llm-3b,call_04,False,no_cuadra,error_hablante,106.0,116,,caught,"[{""producto"": ""pepperoni familiar"", ""dicho"": 45, ""menu"": 49}]"
+oracle,reference,llm-3b,call_05,True,no_cuadra,error_hablante,100.0,88,,false_alarm,[]
+large-v3_cuda_float16_glossary,L0,llm-3b,call_01,False,no_cuadra,error_hablante,77.0,82,0.952,caught,[]
+large-v3_cuda_float16_glossary,L0,llm-3b,call_02,True,no_cuadra,error_hablante,63.0,81,0.657,false_alarm,[]
+large-v3_cuda_float16_glossary,L0,llm-3b,call_03,False,no_cuadra,error_hablante,78.0,76,0.966,caught,[]
+large-v3_cuda_float16_glossary,L0,llm-3b,call_04,False,no_cuadra,error_hablante,106.0,116,0.99,caught,"[{""producto"": ""pepperoni familiar"", ""dicho"": 45, ""menu"": 49}]"
+large-v3_cuda_float16_glossary,L0,llm-3b,call_05,True,no_cuadra,error_hablante,81.0,88,0.843,false_alarm,[]
+large-v3_cuda_float16_glossary,L1,llm-3b,call_01,False,no_cuadra,error_hablante,86.0,82,0.994,caught,[]
+large-v3_cuda_float16_glossary,L1,llm-3b,call_02,True,no_cuadra,error_hablante,63.0,81,0.798,false_alarm,[]
+large-v3_cuda_float16_glossary,L1,llm-3b,call_03,False,no_cuadra,error_hablante,71.0,76,0.825,caught,[]
+large-v3_cuda_float16_glossary,L1,llm-3b,call_04,False,no_cuadra,error_hablante,106.0,116,0.985,caught,[]
+large-v3_cuda_float16_glossary,L1,llm-3b,call_05,True,no_cuadra,error_hablante,91.0,88,0.746,false_alarm,[]
+large-v3_cuda_float16_glossary,L2,llm-3b,call_01,False,no_cuadra,error_hablante,4.0,82,0.989,caught,[]
+large-v3_cuda_float16_glossary,L2,llm-3b,call_02,True,no_cuadra,error_hablante,63.0,81,0.808,false_alarm,[]
+large-v3_cuda_float16_glossary,L2,llm-3b,call_03,False,sin_total,error_asr,78.0,sin_verificar,0.565,caught,"[{""producto"": ""hawaiana mediana"", ""dicho"": 30, ""menu"": 34}]"
+large-v3_cuda_float16_glossary,L2,llm-3b,call_04,False,no_cuadra,error_hablante,106.0,116,0.993,caught,"[{""producto"": ""pepperoni familiar"", ""dicho"": 45, ""menu"": 49}]"
+large-v3_cuda_float16_glossary,L2,llm-3b,call_05,True,cuadra,,88.0,88,0.914,correct_pass,[]
+large-v3_cuda_float16_glossary,L3,llm-3b,call_01,False,no_cuadra,error_hablante,86.0,62,,caught,[]
+large-v3_cuda_float16_glossary,L3,llm-3b,call_02,True,sin_total,error_asr,0.0,sin_verificar,0.404,false_alarm,"[{""producto"": ""pan al ajo"", ""dicho"": 2, ""menu"": 12}]"
+large-v3_cuda_float16_glossary,L3,llm-3b,call_03,False,sin_total,error_asr,67.5,sin_verificar,,caught,[]
+large-v3_cuda_float16_glossary,L3,llm-3b,call_04,False,sin_total,error_asr,121.0,sin_verificar,,caught,[]
+large-v3_cuda_float16_glossary,L3,llm-3b,call_05,True,sin_total,error_asr,79.0,sin_verificar,0.584,false_alarm,[]
+oracle,reference,llm-7b,call_01,False,no_cuadra,error_hablante,86.0,82,,caught,[]
+oracle,reference,llm-7b,call_02,True,cuadra,,81.0,81,,correct_pass,[]
+oracle,reference,llm-7b,call_03,False,no_cuadra,error_hablante,71.0,76,,caught,[]
+oracle,reference,llm-7b,call_04,False,sin_total,error_asr,106.0,sin_verificar,,caught,"[{""producto"": ""pepperoni familiar"", ""dicho"": 45, ""menu"": 49}]"
+oracle,reference,llm-7b,call_05,True,sin_total,error_asr,82.5,sin_verificar,,false_alarm,[]
+large-v3_cuda_float16_glossary,L0,llm-7b,call_01,False,no_cuadra,error_hablante,86.0,82,0.952,caught,[]
+large-v3_cuda_float16_glossary,L0,llm-7b,call_02,True,cuadra,,81.0,81,0.657,correct_pass,[]
+large-v3_cuda_float16_glossary,L0,llm-7b,call_03,False,no_cuadra,error_hablante,74.0,76,0.966,caught,[]
+large-v3_cuda_float16_glossary,L0,llm-7b,call_04,False,no_cuadra,error_hablante,106.0,116,0.99,caught,"[{""producto"": ""pepperoni familiar"", ""dicho"": 45, ""menu"": 49}]"
+large-v3_cuda_float16_glossary,L0,llm-7b,call_05,True,sin_total,error_asr,73.5,sin_verificar,0.843,false_alarm,[]
+large-v3_cuda_float16_glossary,L1,llm-7b,call_01,False,no_cuadra,error_hablante,86.0,82,0.994,caught,[]
+large-v3_cuda_float16_glossary,L1,llm-7b,call_02,True,cuadra,,81.0,81,0.798,correct_pass,[]
+large-v3_cuda_float16_glossary,L1,llm-7b,call_03,False,no_cuadra,error_hablante,71.0,76,0.825,caught,[]
+large-v3_cuda_float16_glossary,L1,llm-7b,call_04,False,no_cuadra,error_hablante,106.0,116,0.985,caught,[]
+large-v3_cuda_float16_glossary,L1,llm-7b,call_05,True,sin_total,error_asr,74.0,sin_verificar,0.746,false_alarm,[]
+large-v3_cuda_float16_glossary,L2,llm-7b,call_01,False,no_cuadra,error_hablante,86.0,82,0.989,caught,[]
+large-v3_cuda_float16_glossary,L2,llm-7b,call_02,True,cuadra,,81.0,81,0.808,correct_pass,[]
+large-v3_cuda_float16_glossary,L2,llm-7b,call_03,False,sin_total,error_asr,70.0,sin_verificar,0.565,caught,"[{""producto"": ""hawaiana mediana"", ""dicho"": 30, ""menu"": 34}]"
+large-v3_cuda_float16_glossary,L2,llm-7b,call_04,False,no_cuadra,error_hablante,106.0,116,0.993,caught,"[{""producto"": ""pepperoni familiar"", ""dicho"": 45, ""menu"": 49}]"
+large-v3_cuda_float16_glossary,L2,llm-7b,call_05,True,no_cuadra,error_hablante,82.5,88,0.914,false_alarm,[]
+large-v3_cuda_float16_glossary,L3,llm-7b,call_01,False,no_cuadra,error_hablante,118.0,62,,caught,[]
+large-v3_cuda_float16_glossary,L3,llm-7b,call_02,True,sin_total,error_asr,8.0,sin_verificar,0.404,false_alarm,"[{""producto"": ""pan al ajo"", ""dicho"": 2, ""menu"": 12}]"
+large-v3_cuda_float16_glossary,L3,llm-7b,call_03,False,sin_total,error_asr,61.0,,,caught,[]
+large-v3_cuda_float16_glossary,L3,llm-7b,call_04,False,sin_total,error_asr,121.0,,,caught,[]
+large-v3_cuda_float16_glossary,L3,llm-7b,call_05,True,no_cuadra,error_asr,79.0,85888,0.584,false_alarm,[]

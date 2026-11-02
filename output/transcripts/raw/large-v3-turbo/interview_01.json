@@ -1,0 +1,1939 @@
+{
+ "model": "large-v3-turbo",
+ "clip_id": "interview_01",
+ "duration": 149.268,
+ "seconds": 3.77,
+ "text": "Buenos días, gracias por conectarte. ¿Me escuchas bien? Sí, perfecto. Buenos días. Gracias por la oportunidad. Un gusto. Mira, la entrevista va a durar unos minutos. Antes de empezar, para no olvidarlo, ¿cuáles expectativas salarial? Bueno, estoy revisando cuánto se paga en el mercado para puestos parecidos y estoy buscando alrededor de 6.500 soles mensuales. Ya, perfecto. Noto. Ahora sí, cuéntame un poco sobre tu trayectoria. Claro. Estudié estadística en la universidad y empecé haciendo prácticas en un banco en el área de riesgos. Al terminar las prácticas me contrataron y desde ahí no he parado. Ya llevo cuatro años y medio trabajando con datos. ¿Y en dónde has estado trabajando ahora? Mi último puesto es analista de datos junior en una empresa de retail. Somos un equipo pequeño de tres personas y vemos sobre todo los reportes de ventas y de inventario en todas las siendas. Ya. ¿Y qué herramientas usas en el día a día? Principalmente Python para limpiar y cruzar datos, SQL para sacar la información de la base de datos y Power BI para armar los tableros que hay en los gerentes. Ya. A ver, ¿me podrías contar un poco de un proyecto del que te sientas orgulloso? Sí. Armando te habló lo que mostró a qué tiendas se iban a quedar sin stock antes del fin de semana. Antes eso se revisaba a mano, tienda por tienda. Con el tablero de los encargados podían pedir mercadería a tiempo y redujimos los quebritos de stock como en un 20%. ¿Y qué fue lo más difícil del proyecto? Convencer a la gente de usarlo, la verdad. Al principio nadie lo abría, así que tuve que ir a explicarlo en las reuniones semanales. Ok, entiendo. ¿Y por qué quieres cambiar de trabajo? Siento que ya aprendí lo que podía ahí y quiero trabajar en algo más analítico como de los predictivos y no solo hacer reportes. Ok, y si todo sale bien, ¿cuánto podrías empezar con nosotros? Tendría que avisar mi trabajo actual y dejar todo ordenado, así que podría empezar en dos semanas. Perfecto. Una última cosa. ¿Cómo está tu inglés? Diría que intermedio. Leo documentación técnica sin problema, pero hablando todavía me falta práctica. Muy bien. Eso es todo por hoy. Te contactamos la siguiente semana con la respuesta. Muchas gracias.",
+ "words": [
+  {
+   "w": " Buenos",
+   "start": 0.98,
+   "end": 1.46
+  },
+  {
+   "w": " días,",
+   "start": 1.46,
+   "end": 1.66
+  },
+  {
+   "w": " gracias",
+   "start": 1.82,
+   "end": 1.94
+  },
+  {
+   "w": " por",
+   "start": 1.94,
+   "end": 2.12
+  },
+  {
+   "w": " conectarte.",
+   "start": 2.12,
+   "end": 2.62
+  },
+  {
+   "w": " ¿Me",
+   "start": 2.74,
+   "end": 2.84
+  },
+  {
+   "w": " escuchas",
+   "start": 2.84,
+   "end": 3.08
+  },
+  {
+   "w": " bien?",
+   "start": 3.08,
+   "end": 3.24
+  },
+  {
+   "w": " Sí,",
+   "start": 4.56,
+   "end": 5.04
+  },
+  {
+   "w": " perfecto.",
+   "start": 5.14,
+   "end": 5.52
+  },
+  {
+   "w": " Buenos",
+   "start": 5.58,
+   "end": 5.74
+  },
+  {
+   "w": " días.",
+   "start": 5.74,
+   "end": 6.02
+  },
+  {
+   "w": " Gracias",
+   "start": 6.3,
+   "end": 6.54
+  },
+  {
+   "w": " por",
+   "start": 6.54,
+   "end": 6.74
+  },
+  {
+   "w": " la",
+   "start": 6.74,
+   "end": 6.86
+  },
+  {
+   "w": " oportunidad.",
+   "start": 6.86,
+   "end": 7.24
+  },
+  {
+   "w": " Un",
+   "start": 8.28,
+   "end": 8.46
+  },
+  {
+   "w": " gusto.",
+   "start": 8.46,
+   "end": 8.66
+  },
+  {
+   "w": " Mira,",
+   "start": 8.84,
+   "end": 8.94
+  },
+  {
+   "w": " la",
+   "start": 9.22,
+   "end": 9.4
+  },
+  {
+   "w": " entrevista",
+   "start": 9.4,
+   "end": 9.62
+  },
+  {
+   "w": " va",
+   "start": 9.62,
+   "end": 9.74
+  },
+  {
+   "w": " a",
+   "start": 9.74,
+   "end": 9.74
+  },
+  {
+   "w": " durar",
+   "start": 9.74,
+   "end": 9.88
+  },
+  {
+   "w": " unos",
+   "start": 9.88,
+   "end": 10.24
+  },
+  {
+   "w": " minutos.",
+   "start": 10.24,
+   "end": 11.26
+  },
+  {
+   "w": " Antes",
+   "start": 11.64,
+   "end": 11.88
+  },
+  {
+   "w": " de",
+   "start": 11.88,
+   "end": 12.0
+  },
+  {
+   "w": " empezar,",
+   "start": 12.0,
+   "end": 12.3
+  },
+  {
+   "w": " para",
+   "start": 12.42,
+   "end": 12.52
+  },
+  {
+   "w": " no",
+   "start": 12.52,
+   "end": 12.66
+  },
+  {
+   "w": " olvidarlo,",
+   "start": 12.66,
+   "end": 13.04
+  },
+  {
+   "w": " ¿cuáles",
+   "start": 13.18,
+   "end": 13.34
+  },
+  {
+   "w": " expectativas",
+   "start": 13.34,
+   "end": 13.78
+  },
+  {
+   "w": " salarial?",
+   "start": 13.78,
+   "end": 14.06
+  },
+  {
+   "w": " Bueno,",
+   "start": 15.76,
+   "end": 16.24
+  },
+  {
+   "w": " estoy",
+   "start": 16.32,
+   "end": 16.48
+  },
+  {
+   "w": " revisando",
+   "start": 16.48,
+   "end": 17.04
+  },
+  {
+   "w": " cuánto",
+   "start": 17.04,
+   "end": 17.82
+  },
+  {
+   "w": " se",
+   "start": 17.82,
+   "end": 18.0
+  },
+  {
+   "w": " paga",
+   "start": 18.0,
+   "end": 18.18
+  },
+  {
+   "w": " en",
+   "start": 18.18,
+   "end": 18.28
+  },
+  {
+   "w": " el",
+   "start": 18.28,
+   "end": 18.36
+  },
+  {
+   "w": " mercado",
+   "start": 18.36,
+   "end": 18.66
+  },
+  {
+   "w": " para",
+   "start": 18.66,
+   "end": 18.9
+  },
+  {
+   "w": " puestos",
+   "start": 18.9,
+   "end": 19.2
+  },
+  {
+   "w": " parecidos",
+   "start": 19.2,
+   "end": 19.66
+  },
+  {
+   "w": " y",
+   "start": 19.66,
+   "end": 19.92
+  },
+  {
+   "w": " estoy",
+   "start": 19.92,
+   "end": 20.12
+  },
+  {
+   "w": " buscando",
+   "start": 20.12,
+   "end": 20.48
+  },
+  {
+   "w": " alrededor",
+   "start": 20.48,
+   "end": 20.76
+  },
+  {
+   "w": " de",
+   "start": 20.76,
+   "end": 21.04
+  },
+  {
+   "w": " 6",
+   "start": 21.04,
+   "end": 21.68
+  },
+  {
+   "w": ".500",
+   "start": 21.68,
+   "end": 22.14
+  },
+  {
+   "w": " soles",
+   "start": 22.14,
+   "end": 22.44
+  },
+  {
+   "w": " mensuales.",
+   "start": 22.44,
+   "end": 23.02
+  },
+  {
+   "w": " Ya,",
+   "start": 24.12,
+   "end": 24.44
+  },
+  {
+   "w": " perfecto.",
+   "start": 24.6,
+   "end": 24.96
+  },
+  {
+   "w": " Noto.",
+   "start": 25.0,
+   "end": 25.32
+  },
+  {
+   "w": " Ahora",
+   "start": 25.5,
+   "end": 25.7
+  },
+  {
+   "w": " sí,",
+   "start": 25.7,
+   "end": 25.88
+  },
+  {
+   "w": " cuéntame",
+   "start": 26.42,
+   "end": 26.68
+  },
+  {
+   "w": " un",
+   "start": 26.68,
+   "end": 26.8
+  },
+  {
+   "w": " poco",
+   "start": 26.8,
+   "end": 26.92
+  },
+  {
+   "w": " sobre",
+   "start": 26.92,
+   "end": 27.1
+  },
+  {
+   "w": " tu",
+   "start": 27.1,
+   "end": 27.22
+  },
+  {
+   "w": " trayectoria.",
+   "start": 27.22,
+   "end": 27.7
+  },
+  {
+   "w": " Claro.",
+   "start": 29.16,
+   "end": 29.72
+  },
+  {
+   "w": " Estudié",
+   "start": 30.1,
+   "end": 30.6
+  },
+  {
+   "w": " estadística",
+   "start": 30.6,
+   "end": 31.06
+  },
+  {
+   "w": " en",
+   "start": 31.06,
+   "end": 31.18
+  },
+  {
+   "w": " la",
+   "start": 31.18,
+   "end": 31.2
+  },
+  {
+   "w": " universidad",
+   "start": 31.2,
+   "end": 31.66
+  },
+  {
+   "w": " y",
+   "start": 31.66,
+   "end": 31.9
+  },
+  {
+   "w": " empecé",
+   "start": 31.9,
+   "end": 32.14
+  },
+  {
+   "w": " haciendo",
+   "start": 32.14,
+   "end": 32.48
+  },
+  {
+   "w": " prácticas",
+   "start": 32.48,
+   "end": 33.04
+  },
+  {
+   "w": " en",
+   "start": 33.04,
+   "end": 33.28
+  },
+  {
+   "w": " un",
+   "start": 33.28,
+   "end": 33.38
+  },
+  {
+   "w": " banco",
+   "start": 33.38,
+   "end": 33.72
+  },
+  {
+   "w": " en",
+   "start": 33.72,
+   "end": 34.18
+  },
+  {
+   "w": " el",
+   "start": 34.18,
+   "end": 34.28
+  },
+  {
+   "w": " área",
+   "start": 34.28,
+   "end": 34.44
+  },
+  {
+   "w": " de",
+   "start": 34.44,
+   "end": 34.56
+  },
+  {
+   "w": " riesgos.",
+   "start": 34.56,
+   "end": 35.0
+  },
+  {
+   "w": " Al",
+   "start": 35.48,
+   "end": 35.6
+  },
+  {
+   "w": " terminar",
+   "start": 35.6,
+   "end": 35.88
+  },
+  {
+   "w": " las",
+   "start": 35.88,
+   "end": 36.06
+  },
+  {
+   "w": " prácticas",
+   "start": 36.06,
+   "end": 36.44
+  },
+  {
+   "w": " me",
+   "start": 36.44,
+   "end": 36.54
+  },
+  {
+   "w": " contrataron",
+   "start": 36.54,
+   "end": 37.14
+  },
+  {
+   "w": " y",
+   "start": 37.14,
+   "end": 37.42
+  },
+  {
+   "w": " desde",
+   "start": 37.42,
+   "end": 37.58
+  },
+  {
+   "w": " ahí",
+   "start": 37.58,
+   "end": 37.72
+  },
+  {
+   "w": " no",
+   "start": 37.72,
+   "end": 37.84
+  },
+  {
+   "w": " he",
+   "start": 37.84,
+   "end": 37.9
+  },
+  {
+   "w": " parado.",
+   "start": 37.9,
+   "end": 38.2
+  },
+  {
+   "w": " Ya",
+   "start": 38.62,
+   "end": 38.78
+  },
+  {
+   "w": " llevo",
+   "start": 38.78,
+   "end": 39.18
+  },
+  {
+   "w": " cuatro",
+   "start": 39.18,
+   "end": 39.58
+  },
+  {
+   "w": " años",
+   "start": 39.58,
+   "end": 39.8
+  },
+  {
+   "w": " y",
+   "start": 39.8,
+   "end": 39.92
+  },
+  {
+   "w": " medio",
+   "start": 39.92,
+   "end": 40.08
+  },
+  {
+   "w": " trabajando",
+   "start": 40.08,
+   "end": 40.46
+  },
+  {
+   "w": " con",
+   "start": 40.46,
+   "end": 40.86
+  },
+  {
+   "w": " datos.",
+   "start": 40.86,
+   "end": 41.1
+  },
+  {
+   "w": " ¿Y",
+   "start": 41.66,
+   "end": 42.22
+  },
+  {
+   "w": " en",
+   "start": 42.22,
+   "end": 42.36
+  },
+  {
+   "w": " dónde",
+   "start": 42.36,
+   "end": 42.56
+  },
+  {
+   "w": " has",
+   "start": 42.56,
+   "end": 42.74
+  },
+  {
+   "w": " estado",
+   "start": 42.74,
+   "end": 42.9
+  },
+  {
+   "w": " trabajando",
+   "start": 42.9,
+   "end": 43.32
+  },
+  {
+   "w": " ahora?",
+   "start": 43.32,
+   "end": 43.68
+  },
+  {
+   "w": " Mi",
+   "start": 45.32,
+   "end": 45.88
+  },
+  {
+   "w": " último",
+   "start": 45.88,
+   "end": 46.14
+  },
+  {
+   "w": " puesto",
+   "start": 46.14,
+   "end": 46.48
+  },
+  {
+   "w": " es",
+   "start": 46.48,
+   "end": 46.66
+  },
+  {
+   "w": " analista",
+   "start": 46.66,
+   "end": 47.04
+  },
+  {
+   "w": " de",
+   "start": 47.04,
+   "end": 47.16
+  },
+  {
+   "w": " datos",
+   "start": 47.16,
+   "end": 47.4
+  },
+  {
+   "w": " junior",
+   "start": 47.4,
+   "end": 47.72
+  },
+  {
+   "w": " en",
+   "start": 47.72,
+   "end": 48.1
+  },
+  {
+   "w": " una",
+   "start": 48.1,
+   "end": 48.24
+  },
+  {
+   "w": " empresa",
+   "start": 48.24,
+   "end": 48.52
+  },
+  {
+   "w": " de",
+   "start": 48.52,
+   "end": 48.68
+  },
+  {
+   "w": " retail.",
+   "start": 48.68,
+   "end": 49.0
+  },
+  {
+   "w": " Somos",
+   "start": 49.5,
+   "end": 49.84
+  },
+  {
+   "w": " un",
+   "start": 49.84,
+   "end": 50.02
+  },
+  {
+   "w": " equipo",
+   "start": 50.02,
+   "end": 50.26
+  },
+  {
+   "w": " pequeño",
+   "start": 50.26,
+   "end": 50.58
+  },
+  {
+   "w": " de",
+   "start": 50.58,
+   "end": 50.72
+  },
+  {
+   "w": " tres",
+   "start": 50.72,
+   "end": 50.82
+  },
+  {
+   "w": " personas",
+   "start": 50.82,
+   "end": 51.24
+  },
+  {
+   "w": " y",
+   "start": 51.24,
+   "end": 51.56
+  },
+  {
+   "w": " vemos",
+   "start": 51.56,
+   "end": 51.88
+  },
+  {
+   "w": " sobre",
+   "start": 51.88,
+   "end": 52.26
+  },
+  {
+   "w": " todo",
+   "start": 52.26,
+   "end": 52.52
+  },
+  {
+   "w": " los",
+   "start": 52.52,
+   "end": 52.78
+  },
+  {
+   "w": " reportes",
+   "start": 52.78,
+   "end": 53.14
+  },
+  {
+   "w": " de",
+   "start": 53.14,
+   "end": 53.26
+  },
+  {
+   "w": " ventas",
+   "start": 53.26,
+   "end": 53.64
+  },
+  {
+   "w": " y",
+   "start": 53.64,
+   "end": 53.82
+  },
+  {
+   "w": " de",
+   "start": 53.82,
+   "end": 53.9
+  },
+  {
+   "w": " inventario",
+   "start": 53.9,
+   "end": 54.3
+  },
+  {
+   "w": " en",
+   "start": 54.3,
+   "end": 54.44
+  },
+  {
+   "w": " todas",
+   "start": 54.44,
+   "end": 54.56
+  },
+  {
+   "w": " las",
+   "start": 54.56,
+   "end": 54.74
+  },
+  {
+   "w": " siendas.",
+   "start": 54.74,
+   "end": 55.16
+  },
+  {
+   "w": " Ya.",
+   "start": 56.72,
+   "end": 57.32
+  },
+  {
+   "w": " ¿Y",
+   "start": 57.72,
+   "end": 58.0
+  },
+  {
+   "w": " qué",
+   "start": 58.0,
+   "end": 58.2
+  },
+  {
+   "w": " herramientas",
+   "start": 58.2,
+   "end": 58.52
+  },
+  {
+   "w": " usas",
+   "start": 58.52,
+   "end": 58.82
+  },
+  {
+   "w": " en",
+   "start": 58.82,
+   "end": 59.0
+  },
+  {
+   "w": " el",
+   "start": 59.0,
+   "end": 59.18
+  },
+  {
+   "w": " día",
+   "start": 59.18,
+   "end": 59.4
+  },
+  {
+   "w": " a",
+   "start": 59.4,
+   "end": 59.88
+  },
+  {
+   "w": " día?",
+   "start": 59.88,
+   "end": 60.04
+  },
+  {
+   "w": " Principalmente",
+   "start": 62.32,
+   "end": 62.92
+  },
+  {
+   "w": " Python",
+   "start": 62.92,
+   "end": 63.24
+  },
+  {
+   "w": " para",
+   "start": 63.24,
+   "end": 63.54
+  },
+  {
+   "w": " limpiar",
+   "start": 63.54,
+   "end": 63.88
+  },
+  {
+   "w": " y",
+   "start": 63.88,
+   "end": 63.98
+  },
+  {
+   "w": " cruzar",
+   "start": 63.98,
+   "end": 64.22
+  },
+  {
+   "w": " datos,",
+   "start": 64.22,
+   "end": 64.66
+  },
+  {
+   "w": " SQL",
+   "start": 65.0,
+   "end": 65.28
+  },
+  {
+   "w": " para",
+   "start": 65.28,
+   "end": 65.66
+  },
+  {
+   "w": " sacar",
+   "start": 65.66,
+   "end": 65.9
+  },
+  {
+   "w": " la",
+   "start": 65.9,
+   "end": 66.04
+  },
+  {
+   "w": " información",
+   "start": 66.04,
+   "end": 66.34
+  },
+  {
+   "w": " de",
+   "start": 66.34,
+   "end": 66.52
+  },
+  {
+   "w": " la",
+   "start": 66.52,
+   "end": 66.62
+  },
+  {
+   "w": " base",
+   "start": 66.62,
+   "end": 66.86
+  },
+  {
+   "w": " de",
+   "start": 66.86,
+   "end": 67.02
+  },
+  {
+   "w": " datos",
+   "start": 67.02,
+   "end": 67.34
+  },
+  {
+   "w": " y",
+   "start": 67.34,
+   "end": 67.8
+  },
+  {
+   "w": " Power",
+   "start": 67.8,
+   "end": 68.18
+  },
+  {
+   "w": " BI",
+   "start": 68.18,
+   "end": 68.5
+  },
+  {
+   "w": " para",
+   "start": 68.5,
+   "end": 68.84
+  },
+  {
+   "w": " armar",
+   "start": 68.84,
+   "end": 69.26
+  },
+  {
+   "w": " los",
+   "start": 69.26,
+   "end": 69.9
+  },
+  {
+   "w": " tableros",
+   "start": 69.9,
+   "end": 70.28
+  },
+  {
+   "w": " que",
+   "start": 70.28,
+   "end": 70.42
+  },
+  {
+   "w": " hay",
+   "start": 70.42,
+   "end": 70.5
+  },
+  {
+   "w": " en",
+   "start": 70.5,
+   "end": 70.58
+  },
+  {
+   "w": " los",
+   "start": 70.58,
+   "end": 70.66
+  },
+  {
+   "w": " gerentes.",
+   "start": 70.66,
+   "end": 71.06
+  },
+  {
+   "w": " Ya.",
+   "start": 72.7,
+   "end": 72.92
+  },
+  {
+   "w": " A",
+   "start": 73.46,
+   "end": 73.66
+  },
+  {
+   "w": " ver,",
+   "start": 73.66,
+   "end": 73.82
+  },
+  {
+   "w": " ¿me",
+   "start": 73.92,
+   "end": 74.04
+  },
+  {
+   "w": " podrías",
+   "start": 74.04,
+   "end": 74.36
+  },
+  {
+   "w": " contar",
+   "start": 74.36,
+   "end": 74.62
+  },
+  {
+   "w": " un",
+   "start": 74.62,
+   "end": 74.84
+  },
+  {
+   "w": " poco",
+   "start": 74.84,
+   "end": 75.06
+  },
+  {
+   "w": " de",
+   "start": 75.06,
+   "end": 75.36
+  },
+  {
+   "w": " un",
+   "start": 75.36,
+   "end": 76.96
+  },
+  {
+   "w": " proyecto",
+   "start": 76.96,
+   "end": 77.38
+  },
+  {
+   "w": " del",
+   "start": 77.38,
+   "end": 77.52
+  },
+  {
+   "w": " que",
+   "start": 77.52,
+   "end": 77.64
+  },
+  {
+   "w": " te",
+   "start": 77.64,
+   "end": 77.74
+  },
+  {
+   "w": " sientas",
+   "start": 77.74,
+   "end": 78.04
+  },
+  {
+   "w": " orgulloso?",
+   "start": 78.04,
+   "end": 78.4
+  },
+  {
+   "w": " Sí.",
+   "start": 79.56,
+   "end": 80.0
+  },
+  {
+   "w": " Armando",
+   "start": 80.54,
+   "end": 80.92
+  },
+  {
+   "w": " te",
+   "start": 80.92,
+   "end": 81.14
+  },
+  {
+   "w": " habló",
+   "start": 81.14,
+   "end": 81.18
+  },
+  {
+   "w": " lo",
+   "start": 81.18,
+   "end": 81.32
+  },
+  {
+   "w": " que",
+   "start": 81.32,
+   "end": 81.4
+  },
+  {
+   "w": " mostró",
+   "start": 81.4,
+   "end": 81.8
+  },
+  {
+   "w": " a",
+   "start": 81.8,
+   "end": 82.0
+  },
+  {
+   "w": " qué",
+   "start": 82.0,
+   "end": 82.1
+  },
+  {
+   "w": " tiendas",
+   "start": 82.1,
+   "end": 82.46
+  },
+  {
+   "w": " se",
+   "start": 82.46,
+   "end": 82.58
+  },
+  {
+   "w": " iban",
+   "start": 82.58,
+   "end": 82.78
+  },
+  {
+   "w": " a",
+   "start": 82.78,
+   "end": 82.9
+  },
+  {
+   "w": " quedar",
+   "start": 82.9,
+   "end": 83.12
+  },
+  {
+   "w": " sin",
+   "start": 83.12,
+   "end": 83.3
+  },
+  {
+   "w": " stock",
+   "start": 83.3,
+   "end": 83.62
+  },
+  {
+   "w": " antes",
+   "start": 83.62,
+   "end": 84.0
+  },
+  {
+   "w": " del",
+   "start": 84.0,
+   "end": 84.16
+  },
+  {
+   "w": " fin",
+   "start": 84.16,
+   "end": 84.3
+  },
+  {
+   "w": " de",
+   "start": 84.3,
+   "end": 84.4
+  },
+  {
+   "w": " semana.",
+   "start": 84.4,
+   "end": 84.7
+  },
+  {
+   "w": " Antes",
+   "start": 86.0,
+   "end": 86.44
+  },
+  {
+   "w": " eso",
+   "start": 86.44,
+   "end": 86.88
+  },
+  {
+   "w": " se",
+   "start": 86.88,
+   "end": 87.02
+  },
+  {
+   "w": " revisaba",
+   "start": 87.02,
+   "end": 87.36
+  },
+  {
+   "w": " a",
+   "start": 87.36,
+   "end": 87.56
+  },
+  {
+   "w": " mano,",
+   "start": 87.56,
+   "end": 87.74
+  },
+  {
+   "w": " tienda",
+   "start": 87.92,
+   "end": 88.1
+  },
+  {
+   "w": " por",
+   "start": 88.1,
+   "end": 88.24
+  },
+  {
+   "w": " tienda.",
+   "start": 88.24,
+   "end": 88.6
+  },
+  {
+   "w": " Con",
+   "start": 89.2,
+   "end": 89.64
+  },
+  {
+   "w": " el",
+   "start": 89.64,
+   "end": 89.78
+  },
+  {
+   "w": " tablero",
+   "start": 89.78,
+   "end": 90.06
+  },
+  {
+   "w": " de",
+   "start": 90.06,
+   "end": 90.14
+  },
+  {
+   "w": " los",
+   "start": 90.14,
+   "end": 90.28
+  },
+  {
+   "w": " encargados",
+   "start": 90.28,
+   "end": 90.62
+  },
+  {
+   "w": " podían",
+   "start": 90.62,
+   "end": 91.0
+  },
+  {
+   "w": " pedir",
+   "start": 91.0,
+   "end": 91.58
+  },
+  {
+   "w": " mercadería",
+   "start": 91.58,
+   "end": 92.06
+  },
+  {
+   "w": " a",
+   "start": 92.06,
+   "end": 92.2
+  },
+  {
+   "w": " tiempo",
+   "start": 92.2,
+   "end": 92.46
+  },
+  {
+   "w": " y",
+   "start": 92.46,
+   "end": 92.74
+  },
+  {
+   "w": " redujimos",
+   "start": 92.74,
+   "end": 93.2
+  },
+  {
+   "w": " los",
+   "start": 93.2,
+   "end": 93.38
+  },
+  {
+   "w": " quebritos",
+   "start": 93.38,
+   "end": 93.68
+  },
+  {
+   "w": " de",
+   "start": 93.68,
+   "end": 93.8
+  },
+  {
+   "w": " stock",
+   "start": 93.8,
+   "end": 93.98
+  },
+  {
+   "w": " como",
+   "start": 93.98,
+   "end": 94.36
+  },
+  {
+   "w": " en",
+   "start": 94.36,
+   "end": 94.48
+  },
+  {
+   "w": " un",
+   "start": 94.48,
+   "end": 94.6
+  },
+  {
+   "w": " 20%.",
+   "start": 94.6,
+   "end": 95.78
+  },
+  {
+   "w": " ¿Y",
+   "start": 96.4,
+   "end": 96.86
+  },
+  {
+   "w": " qué",
+   "start": 96.86,
+   "end": 97.32
+  },
+  {
+   "w": " fue",
+   "start": 97.32,
+   "end": 97.56
+  },
+  {
+   "w": " lo",
+   "start": 97.56,
+   "end": 97.8
+  },
+  {
+   "w": " más",
+   "start": 97.8,
+   "end": 98.02
+  },
+  {
+   "w": " difícil",
+   "start": 98.02,
+   "end": 98.4
+  },
+  {
+   "w": " del",
+   "start": 98.4,
+   "end": 98.6
+  },
+  {
+   "w": " proyecto?",
+   "start": 98.6,
+   "end": 98.94
+  },
+  {
+   "w": " Convencer",
+   "start": 100.7,
+   "end": 101.16
+  },
+  {
+   "w": " a",
+   "start": 101.16,
+   "end": 101.26
+  },
+  {
+   "w": " la",
+   "start": 101.26,
+   "end": 101.32
+  },
+  {
+   "w": " gente",
+   "start": 101.32,
+   "end": 101.54
+  },
+  {
+   "w": " de",
+   "start": 101.54,
+   "end": 101.64
+  },
+  {
+   "w": " usarlo,",
+   "start": 101.64,
+   "end": 101.98
+  },
+  {
+   "w": " la",
+   "start": 102.02,
+   "end": 102.12
+  },
+  {
+   "w": " verdad.",
+   "start": 102.12,
+   "end": 102.34
+  },
+  {
+   "w": " Al",
+   "start": 102.8,
+   "end": 102.9
+  },
+  {
+   "w": " principio",
+   "start": 102.9,
+   "end": 103.22
+  },
+  {
+   "w": " nadie",
+   "start": 103.22,
+   "end": 103.66
+  },
+  {
+   "w": " lo",
+   "start": 103.66,
+   "end": 103.84
+  },
+  {
+   "w": " abría,",
+   "start": 103.84,
+   "end": 104.1
+  },
+  {
+   "w": " así",
+   "start": 104.2,
+   "end": 104.36
+  },
+  {
+   "w": " que",
+   "start": 104.36,
+   "end": 104.48
+  },
+  {
+   "w": " tuve",
+   "start": 104.48,
+   "end": 104.68
+  },
+  {
+   "w": " que",
+   "start": 104.68,
+   "end": 104.8
+  },
+  {
+   "w": " ir",
+   "start": 104.8,
+   "end": 104.96
+  },
+  {
+   "w": " a",
+   "start": 104.96,
+   "end": 105.02
+  },
+  {
+   "w": " explicarlo",
+   "start": 105.02,
+   "end": 105.56
+  },
+  {
+   "w": " en",
+   "start": 105.56,
+   "end": 105.9
+  },
+  {
+   "w": " las",
+   "start": 105.9,
+   "end": 106.0
+  },
+  {
+   "w": " reuniones",
+   "start": 106.0,
+   "end": 106.38
+  },
+  {
+   "w": " semanales.",
+   "start": 106.38,
+   "end": 106.92
+  },
+  {
+   "w": " Ok,",
+   "start": 108.06,
+   "end": 108.28
+  },
+  {
+   "w": " entiendo.",
+   "start": 108.4,
+   "end": 108.88
+  },
+  {
+   "w": " ¿Y",
+   "start": 109.04,
+   "end": 109.24
+  },
+  {
+   "w": " por",
+   "start": 109.24,
+   "end": 109.48
+  },
+  {
+   "w": " qué",
+   "start": 109.48,
+   "end": 109.54
+  },
+  {
+   "w": " quieres",
+   "start": 109.54,
+   "end": 109.8
+  },
+  {
+   "w": " cambiar",
+   "start": 109.8,
+   "end": 110.12
+  },
+  {
+   "w": " de",
+   "start": 110.12,
+   "end": 110.5
+  },
+  {
+   "w": " trabajo?",
+   "start": 110.5,
+   "end": 110.9
+  },
+  {
+   "w": " Siento",
+   "start": 112.82,
+   "end": 113.28
+  },
+  {
+   "w": " que",
+   "start": 113.28,
+   "end": 113.42
+  },
+  {
+   "w": " ya",
+   "start": 113.42,
+   "end": 113.54
+  },
+  {
+   "w": " aprendí",
+   "start": 113.54,
+   "end": 113.86
+  },
+  {
+   "w": " lo",
+   "start": 113.86,
+   "end": 114.0
+  },
+  {
+   "w": " que",
+   "start": 114.0,
+   "end": 114.1
+  },
+  {
+   "w": " podía",
+   "start": 114.1,
+   "end": 114.4
+  },
+  {
+   "w": " ahí",
+   "start": 114.4,
+   "end": 114.68
+  },
+  {
+   "w": " y",
+   "start": 114.68,
+   "end": 115.12
+  },
+  {
+   "w": " quiero",
+   "start": 115.12,
+   "end": 115.42
+  },
+  {
+   "w": " trabajar",
+   "start": 115.42,
+   "end": 115.76
+  },
+  {
+   "w": " en",
+   "start": 115.76,
+   "end": 115.94
+  },
+  {
+   "w": " algo",
+   "start": 115.94,
+   "end": 116.12
+  },
+  {
+   "w": " más",
+   "start": 116.12,
+   "end": 116.32
+  },
+  {
+   "w": " analítico",
+   "start": 116.32,
+   "end": 116.96
+  },
+  {
+   "w": " como",
+   "start": 116.96,
+   "end": 117.3
+  },
+  {
+   "w": " de",
+   "start": 117.3,
+   "end": 117.44
+  },
+  {
+   "w": " los",
+   "start": 117.44,
+   "end": 117.54
+  },
+  {
+   "w": " predictivos",
+   "start": 117.54,
+   "end": 118.12
+  },
+  {
+   "w": " y",
+   "start": 118.12,
+   "end": 118.3
+  },
+  {
+   "w": " no",
+   "start": 118.3,
+   "end": 118.42
+  },
+  {
+   "w": " solo",
+   "start": 118.42,
+   "end": 118.62
+  },
+  {
+   "w": " hacer",
+   "start": 118.62,
+   "end": 118.82
+  },
+  {
+   "w": " reportes.",
+   "start": 118.82,
+   "end": 119.36
+  },
+  {
+   "w": " Ok,",
+   "start": 120.34,
+   "end": 120.86
+  },
+  {
+   "w": " y",
+   "start": 121.06,
+   "end": 121.16
+  },
+  {
+   "w": " si",
+   "start": 121.16,
+   "end": 121.3
+  },
+  {
+   "w": " todo",
+   "start": 121.3,
+   "end": 121.44
+  },
+  {
+   "w": " sale",
+   "start": 121.44,
+   "end": 121.66
+  },
+  {
+   "w": " bien,",
+   "start": 121.66,
+   "end": 121.98
+  },
+  {
+   "w": " ¿cuánto",
+   "start": 122.2,
+   "end": 122.72
+  },
+  {
+   "w": " podrías",
+   "start": 122.72,
+   "end": 123.02
+  },
+  {
+   "w": " empezar",
+   "start": 123.02,
+   "end": 123.4
+  },
+  {
+   "w": " con",
+   "start": 123.4,
+   "end": 123.58
+  },
+  {
+   "w": " nosotros?",
+   "start": 123.58,
+   "end": 123.8
+  },
+  {
+   "w": " Tendría",
+   "start": 125.22,
+   "end": 125.74
+  },
+  {
+   "w": " que",
+   "start": 125.74,
+   "end": 125.84
+  },
+  {
+   "w": " avisar",
+   "start": 125.84,
+   "end": 126.1
+  },
+  {
+   "w": " mi",
+   "start": 126.1,
+   "end": 126.2
+  },
+  {
+   "w": " trabajo",
+   "start": 126.2,
+   "end": 126.44
+  },
+  {
+   "w": " actual",
+   "start": 126.44,
+   "end": 126.82
+  },
+  {
+   "w": " y",
+   "start": 126.82,
+   "end": 127.04
+  },
+  {
+   "w": " dejar",
+   "start": 127.04,
+   "end": 127.34
+  },
+  {
+   "w": " todo",
+   "start": 127.34,
+   "end": 127.6
+  },
+  {
+   "w": " ordenado,",
+   "start": 127.6,
+   "end": 128.14
+  },
+  {
+   "w": " así",
+   "start": 128.36,
+   "end": 128.7
+  },
+  {
+   "w": " que",
+   "start": 128.7,
+   "end": 128.84
+  },
+  {
+   "w": " podría",
+   "start": 128.84,
+   "end": 129.08
+  },
+  {
+   "w": " empezar",
+   "start": 129.08,
+   "end": 129.38
+  },
+  {
+   "w": " en",
+   "start": 129.38,
+   "end": 129.98
+  },
+  {
+   "w": " dos",
+   "start": 129.98,
+   "end": 130.2
+  },
+  {
+   "w": " semanas.",
+   "start": 130.2,
+   "end": 130.52
+  },
+  {
+   "w": " Perfecto.",
+   "start": 131.06,
+   "end": 131.44
+  },
+  {
+   "w": " Una",
+   "start": 131.52,
+   "end": 131.64
+  },
+  {
+   "w": " última",
+   "start": 131.64,
+   "end": 131.76
+  },
+  {
+   "w": " cosa.",
+   "start": 131.76,
+   "end": 131.96
+  },
+  {
+   "w": " ¿Cómo",
+   "start": 132.3,
+   "end": 132.6
+  },
+  {
+   "w": " está",
+   "start": 132.6,
+   "end": 133.48
+  },
+  {
+   "w": " tu",
+   "start": 133.48,
+   "end": 133.6
+  },
+  {
+   "w": " inglés?",
+   "start": 133.6,
+   "end": 133.8
+  },
+  {
+   "w": " Diría",
+   "start": 135.24,
+   "end": 135.76
+  },
+  {
+   "w": " que",
+   "start": 135.76,
+   "end": 135.84
+  },
+  {
+   "w": " intermedio.",
+   "start": 135.84,
+   "end": 136.46
+  },
+  {
+   "w": " Leo",
+   "start": 137.0,
+   "end": 137.24
+  },
+  {
+   "w": " documentación",
+   "start": 137.24,
+   "end": 137.8
+  },
+  {
+   "w": " técnica",
+   "start": 137.8,
+   "end": 138.08
+  },
+  {
+   "w": " sin",
+   "start": 138.08,
+   "end": 138.28
+  },
+  {
+   "w": " problema,",
+   "start": 138.28,
+   "end": 138.66
+  },
+  {
+   "w": " pero",
+   "start": 139.16,
+   "end": 139.46
+  },
+  {
+   "w": " hablando",
+   "start": 139.46,
+   "end": 140.3
+  },
+  {
+   "w": " todavía",
+   "start": 140.3,
+   "end": 140.64
+  },
+  {
+   "w": " me",
+   "start": 140.64,
+   "end": 140.82
+  },
+  {
+   "w": " falta",
+   "start": 140.82,
+   "end": 141.04
+  },
+  {
+   "w": " práctica.",
+   "start": 141.04,
+   "end": 141.44
+  },
+  {
+   "w": " Muy",
+   "start": 142.08,
+   "end": 142.24
+  },
+  {
+   "w": " bien.",
+   "start": 142.24,
+   "end": 142.36
+  },
+  {
+   "w": " Eso",
+   "start": 142.46,
+   "end": 142.6
+  },
+  {
+   "w": " es",
+   "start": 142.6,
+   "end": 142.66
+  },
+  {
+   "w": " todo",
+   "start": 142.66,
+   "end": 142.76
+  },
+  {
+   "w": " por",
+   "start": 142.76,
+   "end": 142.94
+  },
+  {
+   "w": " hoy.",
+   "start": 142.94,
+   "end": 143.06
+  },
+  {
+   "w": " Te",
+   "start": 143.18,
+   "end": 143.28
+  },
+  {
+   "w": " contactamos",
+   "start": 143.28,
+   "end": 143.72
+  },
+  {
+   "w": " la",
+   "start": 143.72,
+   "end": 143.9
+  },
+  {
+   "w": " siguiente",
+   "start": 143.9,
+   "end": 144.94
+  },
+  {
+   "w": " semana",
+   "start": 144.94,
+   "end": 145.2
+  },
+  {
+   "w": " con",
+   "start": 145.2,
+   "end": 145.48
+  },
+  {
+   "w": " la",
+   "start": 145.48,
+   "end": 145.58
+  },
+  {
+   "w": " respuesta.",
+   "start": 145.58,
+   "end": 145.86
+  },
+  {
+   "w": " Muchas",
+   "start": 146.88,
+   "end": 147.38
+  },
+  {
+   "w": " gracias.",
+   "start": 147.38,
+   "end": 147.74
+  }
+ ]
+}

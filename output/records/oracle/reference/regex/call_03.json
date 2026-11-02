@@ -1,0 +1,75 @@
+{
+ "task": "call",
+ "method": "regex",
+ "transcript": "tres pizzeria la buena masa le saluda andrea que desea hola andrea queria saber que promociones tienen hoy hoy es martes asi que la segunda pizza esta a la mitad de precio ah que bien entonces quiero dos pizzas hawaianas medianas la hawaiana mediana esta a treinta y cuatro soles y la segunda le sale a la mitad de precio perfecto tienen postres si tenemos un brownie de diez soles viene tibio y con un poco de fudge suena bien dos brownies por favor anotado dos hawaianas medianas y dos brownies alguna bebida no gracias tengo en casa muy bien cual es la direccion de la entrega calle los pinos doscientos setenta y ocho en miraflores calle los pinos doscientos setenta y ocho algun dato de referencia es una casa blanca con porton negro frente a un parque perfecto como desea pagar con tarjeta por favor por favor que lleven el pos claro el repartidor lleva el pos su total seria setenta y seis soles ok perfecto en cuanto tiempo llega en unos treinta y cinco minutos genial muchas gracias gracias a usted que tenga buena noche igualmente chao",
+ "fields": {
+  "items": [
+   {
+    "producto": "hawaiana mediana",
+    "cantidad": 2,
+    "precio_unitario": 34
+   },
+   {
+    "producto": "brownie",
+    "cantidad": 2,
+    "precio_unitario": 10
+   }
+  ],
+  "promocion": {
+   "descripcion": "segunda pizza a mitad de precio",
+   "descuento": 17.0
+  },
+  "direccion_entrega": "calle los pinos doscientos setenta y ocho en miraflores",
+  "metodo_pago": "tarjeta",
+  "total_dicho": 76
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "hawaiana mediana",
+    "cantidad": 2,
+    "precio_unitario": 34
+   },
+   {
+    "producto": "brownie",
+    "cantidad": 2,
+    "precio_unitario": 10
+   }
+  ],
+  "promocion": {
+   "descripcion": "segunda pizza a mitad de precio",
+   "descuento": 17.0
+  },
+  "direccion_entrega": "calle los pinos doscientos setenta y ocho en miraflores",
+  "metodo_pago": "tarjeta",
+  "total_dicho": 76
+ },
+ "validation": {
+  "subtotal": 88,
+  "descuento": 17.0,
+  "total_calculado": 71.0,
+  "total_dicho": 76,
+  "confianza_total_asr": null,
+  "precios_distintos_al_menu": [],
+  "estado": "no_cuadra",
+  "diagnostico": "error_hablante",
+  "motivo": "La transcripción es confiable: se dijo 76 pero la suma da 71.0."
+ },
+ "device": "n/a",
+ "elapsed": {
+  "asr": 0,
+  "extraction": 0.0,
+  "total": 0.0
+ },
+ "error": null,
+ "asr": {
+  "model": "reference",
+  "compute_type": null,
+  "glossary": null,
+  "audio_seconds": null,
+  "rtf": null,
+  "vram_model_mb": 0,
+  "vram_peak_extra_mb": 0,
+  "gpu_name": null
+ }
+}

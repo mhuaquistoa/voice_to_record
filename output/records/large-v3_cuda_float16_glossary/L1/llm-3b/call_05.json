@@ -1,0 +1,85 @@
+{
+ "task": "call",
+ "method": "llm",
+ "transcript": "Pizzería La Buena Masa, buenas noches, la tienda Diego. Hola Diego, buenas noches. Quería hacer un pedido para delivery. Claro, ¿qué le gustaría? Una americana familiar y una hawaiana mediana. La americana familiar está a 45 soles y la hawaiana mediana a 34. Esa semana, llevando dos pizzas, le regalamos un pan al ajo. Ah, buenísimo Sí, incluyelo ¿Y las alitas cuándo están? Las alitas de 6 unidades están 24 soles No, mejor no Ya bastante Pero háblame de brownies ¿Alguna bebida? Una gaseosa de kit que me dio Ok, una gaseosa de 9 soles Oye, ¿sabes qué? Quítame los brownies mejor Mi hermana trajo torta y no vamos a pagar todo. No hay problema, te traigo los brownies. Queda una americana familiar, una jagoyana mediana, la laciosa y el pan al ajo de reval. Exacto. Ok, ¿a qué dirección le enviamos? A Urbanización Santa Rosa, Manzana B, Lote 12, en Los Olivos. Ok, le repito, Urbanización Santa Rosa, Manzana B, Lote 12. Ok, ¿alguna referencia? Es una casa de dos pisos con rejas verdes a media cuadra del mercado. Perfecto. ¿Y cómo va a ser el pago? Oñate, por favor. Muy bien. El total es de 85, 88 soles. Perfecto. ¿Más o menos cuánto se demora? Un dos jueves, cinco minutos. Ah, listo. Muchas gracias. Gracias a usted. Buen provecho.",
+ "fields": {
+  "items": [
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "hawaiana mediana",
+    "cantidad": 1,
+    "precio_unitario": 34
+   },
+   {
+    "producto": "pan al ajo",
+    "cantidad": 1,
+    "precio_unitario": 12
+   }
+  ],
+  "promocion": {
+   "descripcion": "segunda pizza a mitad de precio",
+   "descuento": 0
+  },
+  "direccion_entrega": "Urbanización Santa Rosa, Manzana B, Lote 12, Los Olivos",
+  "metodo_pago": "yonne",
+  "total_dicho": 88
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "hawaiana mediana",
+    "cantidad": 1,
+    "precio_unitario": 34
+   },
+   {
+    "producto": "pan al ajo",
+    "cantidad": 1,
+    "precio_unitario": 12
+   }
+  ],
+  "promocion": {
+   "descripcion": "segunda pizza a mitad de precio",
+   "descuento": 0
+  },
+  "direccion_entrega": "Urbanización Santa Rosa, Manzana B, Lote 12, Los Olivos",
+  "metodo_pago": "sin_verificar",
+  "total_dicho": 88
+ },
+ "validation": {
+  "subtotal": 91,
+  "descuento": 0,
+  "total_calculado": 91,
+  "total_dicho": 88,
+  "confianza_total_asr": 0.746,
+  "precios_distintos_al_menu": [],
+  "estado": "no_cuadra",
+  "diagnostico": "error_hablante",
+  "motivo": "La transcripción es confiable: se dijo 88 pero la suma da 91."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 7.68,
+  "extraction": 5.13,
+  "total": 5.13
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 106.52,
+  "rtf": 0.0721,
+  "vram_model_mb": 3776,
+  "vram_peak_extra_mb": 192,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

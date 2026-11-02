@@ -1,0 +1,91 @@
+{
+ "task": "call",
+ "method": "llm",
+ "transcript": "La Buena Masa, buenas noches. ¿Qué le provoco hoy? Hola, buenas. Es para una reunión de cumpleaños. Quiero una pepperoni familiar y una americana familiar. La pepperoni familiar está 49B y la americana familiar 45. La pepperoni familiar 45. Llevando dos familiares, tiene como familiar 15 soles de descuento. Ah, perfecto. ¿Y una gaseosa de litro y medio? Una gaseosa a nueve soles. ¿Algo más? ¿Las pesas pueden venir cortadas en cuadraditos? Es que hay niños. Sí, claro. Se las mandamos cortadas en cuadrados. Genial. Ah, ¿y no sabes qué es? Somos bastantes. Mejor que sean tres gaseosas. Ok, correcto entonces. Tres gaseosas de litro y medio. a 9 horas cada una Sí, eso Ok, ¿a qué hora les enviamos? Avenida La Marina 2085 Torre B, departamento 1104 Le repito, Avenida La Marina 2085 Torre B, departamento 1404 Correcto, en la entrada hay que dejar el DNI con el portero Perfecto, el motorizado o estará avisado. ¿Cómo paga? Compré. Muy bien. El total es de 116 soles. Ok, listo. ¿Cuánto demora? Unos 45 minutos, porque es hora punta y hay bastantes pedidos. Ok, no hay problema. Gracias. Es usted. Buenas noches y feliz cumpleaños.",
+ "fields": {
+  "items": [
+   {
+    "producto": "pepperoni familiar",
+    "cantidad": 1,
+    "precio_unitario": 49
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 3,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "descuento familiar",
+   "descuento": 15
+  },
+  "direccion_entrega": "Avenida La Marina 2085 Torre B, departamento 1404",
+  "metodo_pago": "efectivo",
+  "total_dicho": 116
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "pepperoni familiar",
+    "cantidad": 1,
+    "precio_unitario": 49
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 3,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "descuento familiar",
+   "descuento": 15
+  },
+  "direccion_entrega": "Avenida La Marina 2085 Torre B, departamento 1404",
+  "metodo_pago": "sin_verificar",
+  "total_dicho": 116
+ },
+ "validation": {
+  "subtotal": 121,
+  "descuento": 15,
+  "total_calculado": 106,
+  "total_dicho": 116,
+  "confianza_total_asr": 0.99,
+  "precios_distintos_al_menu": [
+   {
+    "producto": "pepperoni familiar",
+    "dicho": 45,
+    "menu": 49
+   }
+  ],
+  "estado": "no_cuadra",
+  "diagnostico": "error_hablante",
+  "motivo": "La transcripción es confiable: se dijo 116 pero la suma da 106."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 6.92,
+  "extraction": 5.02,
+  "total": 5.03
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 106.86,
+  "rtf": 0.0648,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

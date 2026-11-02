@@ -1,0 +1,75 @@
+{
+ "task": "call",
+ "method": "llm",
+ "transcript": "Pizzería La Buena Masa. Le saluda Andrea. ¿Qué desea? Hola, Andrea. Quería saber qué promociones tienen hoy. Hoy es martes, así que la segunda pizza está a la mitad de precio. Ah, qué bien. Entonces quiero dos pizzas hawaianas medianas. La hawaiana es medianas a 30 y 34 soles, y la segunda le sale a la mitad de precio. Perfecto, ¿tienen postres? Sí, tenemos un brownie de 10 soles, viene tibio y con un poco de fudge Suena bien, dos brownies, por favor Anotado, dos jaballanas medianas y dos brownies, ¿alguna bebida? No, gracias, tengo en casa Muy bien, ¿cuál es la dirección de la entrega? ¿Qué hay en los pinos 278 en Miraflores? Ok, ¿qué hay en los pinos 278? ¿Algún dato de referencia? Es una casa blanca con portón negro frente a un parque. Perfecto. ¿Cómo desea pagar? Con tarjeta, por favor. Por favor, que lleven el POS. Claro. El repartidor lleva el POS. Su total sería 76 soles. Ok, perfecto ¿En cuánto tiempo llega? En unos 35 minutos Genial, muchas gracias Gracias a usted, que tenga buenas noches Igualmente, chao",
+ "fields": {
+  "items": [
+   {
+    "producto": "hawaiana mediana",
+    "cantidad": 2,
+    "precio_unitario": 34
+   },
+   {
+    "producto": "brownie",
+    "cantidad": 2,
+    "precio_unitario": 10
+   }
+  ],
+  "promocion": {
+   "descripcion": "segunda pizza a mitad de precio",
+   "descuento": 14
+  },
+  "direccion_entrega": "Qué hay en los pinos 278, casa blanca con portón negro frente a un parque, Miraflores",
+  "metodo_pago": "tarjeta",
+  "total_dicho": 76
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "hawaiana mediana",
+    "cantidad": 2,
+    "precio_unitario": 34
+   },
+   {
+    "producto": "brownie",
+    "cantidad": 2,
+    "precio_unitario": 10
+   }
+  ],
+  "promocion": {
+   "descripcion": "segunda pizza a mitad de precio",
+   "descuento": 14
+  },
+  "direccion_entrega": "Qué hay en los pinos 278, casa blanca con portón negro frente a un parque, Miraflores",
+  "metodo_pago": "tarjeta",
+  "total_dicho": 76
+ },
+ "validation": {
+  "subtotal": 88,
+  "descuento": 14,
+  "total_calculado": 74,
+  "total_dicho": 76,
+  "confianza_total_asr": 0.966,
+  "precios_distintos_al_menu": [],
+  "estado": "no_cuadra",
+  "diagnostico": "error_hablante",
+  "motivo": "La transcripción es confiable: se dijo 76 pero la suma da 74."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 5.98,
+  "extraction": 5.11,
+  "total": 5.12
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 107.37,
+  "rtf": 0.0557,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

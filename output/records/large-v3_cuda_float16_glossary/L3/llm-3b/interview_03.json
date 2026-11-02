@@ -1,0 +1,53 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "Buenas tardes, te agradezco por venir, explícate por favor. Buenas tardes, gracias. Empecemos por algo práctico, tu nivel en inglés, porque es una de las principales cosas. Ah bueno, para ser sincera mi grado es básico, entiendo que hay cosas escritas como correos cortos, pero no lo hablo. Está bien, lo vamos a entender. ¿Cuánto tiempo llevas en la universidad? Casi tres años. No, en realidad son dos años y medio, porque el primer año fueron prácticas y esas fueron las contas. ¿Y qué es eso? ¿Dónde trabajas actualmente? Mi último puesto es asistente contable de un estudio que lleva a la contabilidad de pequeñas empresas. Tenemos como 20 clientes, la mayoría de restaurantes y bodegas. ¿Y qué te lo haces ahí? Registro las facturas de compras y ventas, preparo las declaraciones mensuales y concilio las cuentas bancarias. A fin de mes también hay duro para el CERN. ¿Y qué es lo que ve en la página? Uso Excel todos los días, también en el sistema Conca y el último año aprendí a usar ZAP, porque uno de los clientes más grandes le pedía. ¿Y cómo se hizo ZAP? Ya veo un curso virtual los fines de semana y lo demás lo aprendí practicando con los reportes del cliente. Muy bien. ¿Alguna vez cometiste un error importante? ¿Y cómo lo manejaste? Sí, una vez registré una factura dos meses, dos meses, y la declaración salió mal. Lo detecté en la conciliación, me hicieron un trato y presentamos la rectificación en el mismo día. Eso no es muy bien. ¿Por qué se interesa este esfuerzo? Porque aquí la empresa es más grande y podría aprender el proceso de cierre de los cubiertos con el móvil. ¿Y cuál es tu perspectiva sobre el evento? Estoy pensando en 3.300 euros. De acuerdo. ¿Y desde cuándo quedará disponible? Tendría que terminar el cierre de este mes, así que podemos empezar a iniciar el próximo mes. Perfecto. Muchas gracias. Te seguimos con los videos de espacio. Gracias a ustedes, que estén bien",
+ "fields": {
+  "anios_experiencia": 2.5,
+  "ultimo_puesto": "Asistente contable",
+  "tecnologias": [
+   "Excel",
+   "Conca",
+   "ZAP"
+  ],
+  "pretension_salarial": 3300,
+  "disponibilidad": {
+   "texto": "terminar el cierre de este mes",
+   "fecha": null
+  },
+  "nivel_ingles": "basico"
+ },
+ "verified": {
+  "anios_experiencia": 2.5,
+  "pretension_salarial": 3300,
+  "ultimo_puesto": "Asistente contable",
+  "tecnologias": [
+   "Excel",
+   "Conca",
+   "ZAP"
+  ],
+  "disponibilidad": {
+   "texto": "terminar el cierre de este mes",
+   "fecha": null
+  },
+  "nivel_ingles": "basico"
+ },
+ "validation": null,
+ "device": "cuda",
+ "elapsed": {
+  "asr": 9.48,
+  "extraction": 4.11,
+  "total": 4.11
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 133.57,
+  "rtf": 0.071,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

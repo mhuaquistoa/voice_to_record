@@ -1,0 +1,161 @@
+run,model,device_requested,device,compute_type,glossary,level,clip_id,task,wer,cer,substitutions,deletions,insertions,ref_words,term_recall,elapsed_seconds,audio_seconds,rtf,vram_model_mb,vram_peak_extra_mb,gpu_name
+tiny_cuda_float16,tiny,cuda,cuda,float16,False,L0,call_01,call,0.5829596412556054,0.2765793528505393,89,9,32,223,0.4,2.24,113.0,0.0199,96,64,NVIDIA GeForce RTX 5050 Laptop GPU
+tiny_cuda_float16,tiny,cuda,cuda,float16,False,L0,call_02,call,0.6221198156682027,0.3018867924528302,82,8,45,217,0.2,1.56,98.32,0.0159,96,32,NVIDIA GeForce RTX 5050 Laptop GPU
+tiny_cuda_float16,tiny,cuda,cuda,float16,False,L0,call_03,call,0.7566137566137566,0.38851674641148326,103,1,39,189,0.0,3.75,107.37,0.0349,96,64,NVIDIA GeForce RTX 5050 Laptop GPU
+tiny_cuda_float16,tiny,cuda,cuda,float16,False,L0,call_04,call,0.7155963302752294,0.34741035856573704,118,6,32,218,0.4,3.41,106.86,0.0319,96,64,NVIDIA GeForce RTX 5050 Laptop GPU
+tiny_cuda_float16,tiny,cuda,cuda,float16,False,L0,call_05,call,0.7564102564102564,0.39083139083139085,125,9,43,234,0.25,5.35,106.52,0.0502,96,64,NVIDIA GeForce RTX 5050 Laptop GPU
+tiny_cuda_float16,tiny,cuda,cuda,float16,False,L0,interview_01,interview,0.49226804123711343,0.23702342673403767,134,20,37,388,0.0,2.16,149.27,0.0145,96,32,NVIDIA GeForce RTX 5050 Laptop GPU
+tiny_cuda_float16,tiny,cuda,cuda,float16,False,L0,interview_02,interview,0.6122448979591837,0.2743589743589744,125,10,75,343,0.0,2.21,154.9,0.0143,96,32,NVIDIA GeForce RTX 5050 Laptop GPU
+tiny_cuda_float16,tiny,cuda,cuda,float16,False,L0,interview_03,interview,0.4794952681388013,0.2484980884762425,112,13,27,317,0.0,1.97,133.57,0.0147,96,32,NVIDIA GeForce RTX 5050 Laptop GPU
+tiny_cuda_float16,tiny,cuda,cuda,float16,False,L0,interview_04,interview,0.5375,0.25940054495912807,130,10,32,320,0.25,2.51,141.42,0.0178,96,64,NVIDIA GeForce RTX 5050 Laptop GPU
+tiny_cuda_float16,tiny,cuda,cuda,float16,False,L0,interview_05,interview,0.415041782729805,0.19590085795996187,97,6,46,359,0.25,2.36,165.74,0.0143,96,32,NVIDIA GeForce RTX 5050 Laptop GPU
+base_cuda_float16,base,cuda,cuda,float16,False,L0,call_01,call,0.4170403587443946,0.17411402157164868,63,9,21,223,0.6,3.61,113.0,0.032,160,96,NVIDIA GeForce RTX 5050 Laptop GPU
+base_cuda_float16,base,cuda,cuda,float16,False,L0,call_02,call,0.3548387096774194,0.16552315608919382,49,5,23,217,0.2,1.64,98.32,0.0167,160,64,NVIDIA GeForce RTX 5050 Laptop GPU
+base_cuda_float16,base,cuda,cuda,float16,False,L0,call_03,call,0.48677248677248675,0.2545454545454545,54,12,26,189,0.25,3.02,107.37,0.0282,160,96,NVIDIA GeForce RTX 5050 Laptop GPU
+base_cuda_float16,base,cuda,cuda,float16,False,L0,call_04,call,0.43577981651376146,0.21673306772908366,67,10,18,218,0.4,1.75,106.86,0.0164,160,64,NVIDIA GeForce RTX 5050 Laptop GPU
+base_cuda_float16,base,cuda,cuda,float16,False,L0,call_05,call,0.46153846153846156,0.216006216006216,73,10,25,234,0.25,4.16,106.52,0.039,160,96,NVIDIA GeForce RTX 5050 Laptop GPU
+base_cuda_float16,base,cuda,cuda,float16,False,L0,interview_01,interview,0.38917525773195877,0.18282039503904457,101,15,35,388,0.0,2.68,149.27,0.0179,160,64,NVIDIA GeForce RTX 5050 Laptop GPU
+base_cuda_float16,base,cuda,cuda,float16,False,L0,interview_02,interview,0.3760932944606414,0.18307692307692308,86,10,33,343,0.2,3.3,154.9,0.0213,160,96,NVIDIA GeForce RTX 5050 Laptop GPU
+base_cuda_float16,base,cuda,cuda,float16,False,L0,interview_03,interview,0.3501577287066246,0.15892954669579465,81,15,15,317,0.6666666666666666,2.2,133.57,0.0164,160,64,NVIDIA GeForce RTX 5050 Laptop GPU
+base_cuda_float16,base,cuda,cuda,float16,False,L0,interview_04,interview,0.409375,0.19291553133514985,97,16,18,320,0.25,2.2,141.42,0.0156,160,32,NVIDIA GeForce RTX 5050 Laptop GPU
+base_cuda_float16,base,cuda,cuda,float16,False,L0,interview_05,interview,0.37604456824512533,0.23546234509056244,62,49,24,359,0.5,2.46,165.74,0.0148,160,32,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cuda_float16,small,cuda,cuda,float16,False,L0,call_01,call,0.18385650224215247,0.07395993836671803,27,4,10,223,0.8,2.55,113.0,0.0226,576,64,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cuda_float16,small,cuda,cuda,float16,False,L0,call_02,call,0.22580645161290322,0.10291595197255575,37,7,5,217,0.6,2.33,98.32,0.0237,576,64,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cuda_float16,small,cuda,cuda,float16,False,L0,call_03,call,0.30687830687830686,0.16650717703349283,41,11,6,189,0.5,2.12,107.37,0.0197,576,64,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cuda_float16,small,cuda,cuda,float16,False,L0,call_04,call,0.2798165137614679,0.1362549800796813,40,12,9,218,0.6,2.61,106.86,0.0245,576,64,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cuda_float16,small,cuda,cuda,float16,False,L0,call_05,call,0.19230769230769232,0.08935508935508936,36,5,4,234,0.375,2.66,106.52,0.025,576,64,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cuda_float16,small,cuda,cuda,float16,False,L0,interview_01,interview,0.18814432989690721,0.09232889297197978,43,13,17,388,0.3333333333333333,3.77,149.27,0.0253,576,64,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cuda_float16,small,cuda,cuda,float16,False,L0,interview_02,interview,0.13119533527696792,0.06256410256410257,29,5,11,343,0.2,3.45,154.9,0.0223,576,64,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cuda_float16,small,cuda,cuda,float16,False,L0,interview_03,interview,0.15772870662460567,0.0726379027853632,33,4,13,317,1.0,3.46,133.57,0.0259,576,64,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cuda_float16,small,cuda,cuda,float16,False,L0,interview_04,interview,0.221875,0.1122615803814714,51,11,9,320,0.5,3.73,141.42,0.0264,576,64,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cuda_float16,small,cuda,cuda,float16,False,L0,interview_05,interview,0.12256267409470752,0.06339370829361296,29,4,11,359,0.75,3.74,165.74,0.0226,576,64,NVIDIA GeForce RTX 5050 Laptop GPU
+medium_cuda_float16,medium,cuda,cuda,float16,False,L0,call_01,call,0.12556053811659193,0.04391371340523883,17,4,7,223,0.8,4.81,113.0,0.0426,1888,96,NVIDIA GeForce RTX 5050 Laptop GPU
+medium_cuda_float16,medium,cuda,cuda,float16,False,L0,call_02,call,0.11981566820276497,0.06174957118353345,21,3,2,217,0.6,4.36,98.32,0.0443,1888,96,NVIDIA GeForce RTX 5050 Laptop GPU
+medium_cuda_float16,medium,cuda,cuda,float16,False,L0,call_03,call,0.13227513227513227,0.06315789473684211,18,2,5,189,0.5,3.97,107.37,0.037,1888,96,NVIDIA GeForce RTX 5050 Laptop GPU
+medium_cuda_float16,medium,cuda,cuda,float16,False,L0,call_04,call,0.1651376146788991,0.08207171314741035,22,4,10,218,0.6,4.24,106.86,0.0397,1888,96,NVIDIA GeForce RTX 5050 Laptop GPU
+medium_cuda_float16,medium,cuda,cuda,float16,False,L0,call_05,call,0.19230769230769232,0.09867909867909867,33,6,6,234,0.375,4.75,106.52,0.0446,1888,96,NVIDIA GeForce RTX 5050 Laptop GPU
+medium_cuda_float16,medium,cuda,cuda,float16,False,L0,interview_01,interview,0.10824742268041238,0.04777216352779054,24,11,7,388,1.0,6.77,149.27,0.0453,1888,96,NVIDIA GeForce RTX 5050 Laptop GPU
+medium_cuda_float16,medium,cuda,cuda,float16,False,L0,interview_02,interview,0.0641399416909621,0.03794871794871795,10,4,8,343,1.0,6.34,154.9,0.0409,1888,96,NVIDIA GeForce RTX 5050 Laptop GPU
+medium_cuda_float16,medium,cuda,cuda,float16,False,L0,interview_03,interview,0.0914826498422713,0.04860731840524304,19,4,6,317,0.6666666666666666,6.05,133.57,0.0453,1888,96,NVIDIA GeForce RTX 5050 Laptop GPU
+medium_cuda_float16,medium,cuda,cuda,float16,False,L0,interview_04,interview,0.090625,0.040326975476839236,20,2,7,320,0.75,5.66,141.42,0.04,1888,96,NVIDIA GeForce RTX 5050 Laptop GPU
+medium_cuda_float16,medium,cuda,cuda,float16,False,L0,interview_05,interview,0.08913649025069638,0.046234509056244044,19,3,10,359,0.75,6.72,165.74,0.0405,1888,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16,large-v3-turbo,cuda,cuda,float16,False,L0,call_01,call,0.03587443946188341,0.012326656394453005,6,0,2,223,1.0,2.49,113.0,0.022,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16,large-v3-turbo,cuda,cuda,float16,False,L0,call_02,call,0.11981566820276497,0.04888507718696398,18,3,5,217,0.4,2.48,98.32,0.0253,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16,large-v3-turbo,cuda,cuda,float16,False,L0,call_03,call,0.10052910052910052,0.05550239234449761,11,1,7,189,0.5,2.19,107.37,0.0204,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16,large-v3-turbo,cuda,cuda,float16,False,L0,call_04,call,0.07339449541284404,0.04063745019920319,10,2,4,218,0.6,2.46,106.86,0.023,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16,large-v3-turbo,cuda,cuda,float16,False,L0,call_05,call,0.1282051282051282,0.07536907536907538,17,9,4,234,0.75,2.55,106.52,0.0239,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16,large-v3-turbo,cuda,cuda,float16,False,L0,interview_01,interview,0.07474226804123711,0.03307303628847037,13,7,9,388,1.0,3.76,149.27,0.0252,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16,large-v3-turbo,cuda,cuda,float16,False,L0,interview_02,interview,0.0728862973760933,0.052307692307692305,6,2,17,343,1.0,3.83,154.9,0.0247,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16,large-v3-turbo,cuda,cuda,float16,False,L0,interview_03,interview,0.05993690851735016,0.02785363189513927,12,0,7,317,1.0,3.24,133.57,0.0242,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16,large-v3-turbo,cuda,cuda,float16,False,L0,interview_04,interview,0.06875,0.03106267029972752,12,4,6,320,0.75,3.33,141.42,0.0236,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16,large-v3-turbo,cuda,cuda,float16,False,L0,interview_05,interview,0.05013927576601671,0.033841754051477595,8,2,8,359,0.75,3.83,165.74,0.0231,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16,large-v3,cuda,cuda,float16,False,L0,call_01,call,0.03587443946188341,0.010015408320493066,6,0,2,223,1.0,6.86,113.0,0.0607,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16,large-v3,cuda,cuda,float16,False,L0,call_02,call,0.08294930875576037,0.03945111492281304,14,2,2,217,0.8,6.61,98.32,0.0672,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16,large-v3,cuda,cuda,float16,False,L0,call_03,call,0.08994708994708994,0.03732057416267943,11,1,5,189,0.75,6.03,107.37,0.0562,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16,large-v3,cuda,cuda,float16,False,L0,call_04,call,0.0779816513761468,0.050199203187251,8,3,6,218,0.8,6.99,106.86,0.0654,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16,large-v3,cuda,cuda,float16,False,L0,call_05,call,0.10683760683760683,0.04584304584304584,21,3,1,234,0.75,7.59,106.52,0.0712,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16,large-v3,cuda,cuda,float16,False,L0,interview_01,interview,0.03865979381443299,0.02388608176389527,5,4,6,388,1.0,10.25,149.27,0.0687,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16,large-v3,cuda,cuda,float16,False,L0,interview_02,interview,0.029154518950437316,0.017948717948717947,4,1,5,343,0.8,9.51,154.9,0.0614,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16,large-v3,cuda,cuda,float16,False,L0,interview_03,interview,0.05993690851735016,0.03713817586018569,9,4,6,317,1.0,9.18,133.57,0.0687,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16,large-v3,cuda,cuda,float16,False,L0,interview_04,interview,0.059375,0.02670299727520436,10,3,6,320,0.75,9.19,141.42,0.065,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16,large-v3,cuda,cuda,float16,False,L0,interview_05,interview,0.055710306406685235,0.03765490943755958,8,3,9,359,0.75,11.53,165.74,0.0696,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8_float16,large-v3,cuda,cuda,int8_float16,False,L0,call_01,call,0.03587443946188341,0.010015408320493066,6,0,2,223,1.0,7.16,113.0,0.0633,1888,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8_float16,large-v3,cuda,cuda,int8_float16,False,L0,call_02,call,0.09216589861751152,0.05317324185248713,15,2,3,217,0.8,6.7,98.32,0.0682,1888,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8_float16,large-v3,cuda,cuda,int8_float16,False,L0,call_03,call,0.0582010582010582,0.020095693779904306,8,0,3,189,0.75,6.32,107.37,0.0588,1888,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8_float16,large-v3,cuda,cuda,int8_float16,False,L0,call_04,call,0.10091743119266056,0.05737051792828685,14,3,5,218,0.8,6.74,106.86,0.063,1888,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8_float16,large-v3,cuda,cuda,int8_float16,False,L0,call_05,call,0.11538461538461539,0.05439005439005439,23,3,1,234,0.75,7.8,106.52,0.0732,1888,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8_float16,large-v3,cuda,cuda,int8_float16,False,L0,interview_01,interview,0.05670103092783505,0.034451079467156635,8,6,8,388,1.0,10.54,149.27,0.0706,1888,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8_float16,large-v3,cuda,cuda,int8_float16,False,L0,interview_02,interview,0.03498542274052478,0.02,3,3,6,343,0.8,10.23,154.9,0.0661,1888,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8_float16,large-v3,cuda,cuda,int8_float16,False,L0,interview_03,interview,0.05993690851735016,0.03713817586018569,9,4,6,317,1.0,9.64,133.57,0.0722,1888,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8_float16,large-v3,cuda,cuda,int8_float16,False,L0,interview_04,interview,0.05625,0.023978201634877384,10,2,6,320,1.0,9.35,141.42,0.0661,1888,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8_float16,large-v3,cuda,cuda,int8_float16,False,L0,interview_05,interview,0.07520891364902507,0.046234509056244044,11,6,10,359,0.75,11.36,165.74,0.0685,1888,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8,large-v3,cuda,cuda,int8,False,L0,call_01,call,0.03587443946188341,0.010015408320493066,6,0,2,223,1.0,6.97,113.0,0.0617,1920,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8,large-v3,cuda,cuda,int8,False,L0,call_02,call,0.09216589861751152,0.05317324185248713,15,2,3,217,0.8,6.64,98.32,0.0676,1920,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8,large-v3,cuda,cuda,int8,False,L0,call_03,call,0.0582010582010582,0.020095693779904306,8,0,3,189,0.75,6.15,107.37,0.0573,1920,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8,large-v3,cuda,cuda,int8,False,L0,call_04,call,0.10091743119266056,0.05737051792828685,14,3,5,218,0.8,6.77,106.86,0.0633,1920,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8,large-v3,cuda,cuda,int8,False,L0,call_05,call,0.11538461538461539,0.05439005439005439,23,3,1,234,0.75,7.82,106.52,0.0734,1920,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8,large-v3,cuda,cuda,int8,False,L0,interview_01,interview,0.05670103092783505,0.034451079467156635,8,6,8,388,1.0,10.35,149.27,0.0693,1920,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8,large-v3,cuda,cuda,int8,False,L0,interview_02,interview,0.03498542274052478,0.02,3,3,6,343,0.8,9.82,154.9,0.0634,1920,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8,large-v3,cuda,cuda,int8,False,L0,interview_03,interview,0.05993690851735016,0.03713817586018569,9,4,6,317,1.0,9.49,133.57,0.071,1920,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8,large-v3,cuda,cuda,int8,False,L0,interview_04,interview,0.05625,0.023978201634877384,10,2,6,320,1.0,9.18,141.42,0.0649,1920,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_int8,large-v3,cuda,cuda,int8,False,L0,interview_05,interview,0.07520891364902507,0.046234509056244044,11,6,10,359,0.75,11.05,165.74,0.0667,1920,256,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16_glossary,large-v3-turbo,cuda,cuda,float16,True,L0,call_01,call,0.04035874439461883,0.012326656394453005,6,1,2,223,1.0,2.5,113.0,0.0222,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16_glossary,large-v3-turbo,cuda,cuda,float16,True,L0,call_02,call,0.08294930875576037,0.03687821612349914,12,2,4,217,0.8,2.35,98.32,0.0239,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16_glossary,large-v3-turbo,cuda,cuda,float16,True,L0,call_03,call,0.09523809523809523,0.06028708133971292,9,2,7,189,0.75,2.21,107.37,0.0206,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16_glossary,large-v3-turbo,cuda,cuda,float16,True,L0,call_04,call,0.0779816513761468,0.05737051792828685,7,6,4,218,0.8,2.35,106.86,0.022,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16_glossary,large-v3-turbo,cuda,cuda,float16,True,L0,call_05,call,0.09829059829059829,0.04895104895104895,15,8,0,234,0.75,2.67,106.52,0.0251,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16_glossary,large-v3-turbo,cuda,cuda,float16,True,L0,interview_01,interview,0.07731958762886598,0.034451079467156635,13,7,10,388,1.0,3.67,149.27,0.0246,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16_glossary,large-v3-turbo,cuda,cuda,float16,True,L0,interview_02,interview,0.0728862973760933,0.052307692307692305,6,2,17,343,1.0,3.91,154.9,0.0253,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16_glossary,large-v3-turbo,cuda,cuda,float16,True,L0,interview_03,interview,0.050473186119873815,0.020207536865101038,11,0,5,317,1.0,3.42,133.57,0.0256,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16_glossary,large-v3-turbo,cuda,cuda,float16,True,L0,interview_04,interview,0.071875,0.03160762942779292,13,4,6,320,0.75,3.39,141.42,0.024,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3-turbo_cuda_float16_glossary,large-v3-turbo,cuda,cuda,float16,True,L0,interview_05,interview,0.05013927576601671,0.033841754051477595,8,2,8,359,0.75,3.83,165.74,0.0231,2016,96,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L0,call_01,call,0.04035874439461883,0.016178736517719568,7,0,2,223,1.0,7.21,113.0,0.0638,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L0,call_02,call,0.06451612903225806,0.036020583190394515,10,2,2,217,1.0,6.63,98.32,0.0674,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L0,call_03,call,0.07936507936507936,0.03923444976076555,7,1,7,189,1.0,5.98,107.37,0.0557,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L0,call_04,call,0.10550458715596331,0.07250996015936255,9,8,6,218,0.8,6.92,106.86,0.0648,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L0,call_05,call,0.09401709401709402,0.052059052059052056,18,3,1,234,0.75,7.66,106.52,0.0719,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L0,interview_01,interview,0.041237113402061855,0.025264124942581533,5,4,7,388,1.0,10.31,149.27,0.0691,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L0,interview_02,interview,0.03206997084548105,0.019487179487179488,4,2,5,343,0.8,9.61,154.9,0.062,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L0,interview_03,interview,0.05993690851735016,0.03713817586018569,9,4,6,317,1.0,9.29,133.57,0.0695,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L0,interview_04,interview,0.059375,0.02561307901907357,12,2,5,320,0.75,9.26,141.42,0.0654,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L0,interview_05,interview,0.06406685236768803,0.041468064823641564,10,4,9,359,0.75,10.64,165.74,0.0642,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L1,call_01,call,0.05829596412556054,0.02157164869029276,9,1,3,223,0.8,7.23,113.0,0.0639,3776,192,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L1,call_02,call,0.09216589861751152,0.044596912521440824,17,2,1,217,0.8,6.84,98.32,0.0695,3776,192,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L1,call_03,call,0.12698412698412698,0.06889952153110047,13,3,8,189,0.75,6.29,107.37,0.0586,3776,192,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L1,call_04,call,0.1743119266055046,0.10438247011952191,21,10,7,218,0.8,7.03,106.86,0.0657,3776,192,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L1,call_05,call,0.13247863247863248,0.07148407148407149,18,9,4,234,0.875,7.68,106.52,0.0721,3776,192,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L1,interview_01,interview,0.05412371134020619,0.02847955902618282,8,7,6,388,1.0,10.04,149.27,0.0673,3776,192,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L1,interview_02,interview,0.052478134110787174,0.027692307692307693,11,2,5,343,0.8,9.59,154.9,0.0619,3776,192,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L1,interview_03,interview,0.06624605678233439,0.03276897870016385,12,0,9,317,1.0,9.41,133.57,0.0705,3776,192,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L1,interview_04,interview,0.06875,0.037057220708446865,15,2,5,320,1.0,8.73,141.42,0.0618,3776,192,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L1,interview_05,interview,0.07520891364902507,0.04861773117254528,13,2,12,359,0.75,10.37,165.74,0.0626,3776,192,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L2,call_01,call,0.06726457399103139,0.02465331278890601,10,1,4,223,0.8,6.75,113.0,0.0597,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L2,call_02,call,0.0967741935483871,0.0411663807890223,14,2,5,217,1.0,6.74,98.32,0.0686,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L2,call_03,call,0.1111111111111111,0.05741626794258373,12,3,6,189,1.0,6.02,107.37,0.056,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L2,call_04,call,0.14220183486238533,0.0796812749003984,19,5,7,218,0.6,6.56,106.86,0.0614,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L2,call_05,call,0.11538461538461539,0.06060606060606061,20,5,2,234,0.75,7.32,106.52,0.0687,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L2,interview_01,interview,0.061855670103092786,0.034451079467156635,8,7,9,388,1.0,10.09,149.27,0.0676,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L2,interview_02,interview,0.052478134110787174,0.03076923076923077,9,2,7,343,0.8,9.76,154.9,0.063,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L2,interview_03,interview,0.09779179810725552,0.05570726379027854,21,2,8,317,0.6666666666666666,9.29,133.57,0.0696,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L2,interview_04,interview,0.13125,0.06212534059945504,29,9,4,320,1.0,8.72,141.42,0.0617,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L2,interview_05,interview,0.09749303621169916,0.06291706387035272,19,6,10,359,0.5,10.63,165.74,0.0641,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L3,call_01,call,0.3811659192825112,0.2226502311248074,48,24,13,223,0.8,6.95,113.0,0.0615,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L3,call_02,call,0.29493087557603687,0.16123499142367068,46,9,9,217,0.6,6.78,98.32,0.0689,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L3,call_03,call,0.42328042328042326,0.20861244019138755,53,6,21,189,0.75,6.31,107.37,0.0587,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L3,call_04,call,0.39908256880733944,0.22868525896414343,60,12,15,218,0.8,6.8,106.86,0.0636,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L3,call_05,call,0.6068376068376068,0.5532245532245532,29,110,3,234,0.375,4.64,106.52,0.0435,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L3,interview_01,interview,0.2345360824742268,0.1515847496554892,58,26,7,388,1.0,9.98,149.27,0.0668,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L3,interview_02,interview,0.23615160349854228,0.13897435897435897,46,9,26,343,0.6,10.19,154.9,0.0658,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L3,interview_03,interview,0.2618296529968454,0.1523757509557619,53,4,26,317,0.3333333333333333,9.48,133.57,0.071,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L3,interview_04,interview,0.28125,0.17275204359673024,55,28,7,320,1.0,8.59,141.42,0.0608,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+large-v3_cuda_float16_glossary,large-v3,cuda,cuda,float16,True,L3,interview_05,interview,0.2618384401114206,0.16491897044804577,62,16,16,359,0.75,10.46,165.74,0.0631,3744,224,NVIDIA GeForce RTX 5050 Laptop GPU
+small_cpu_int8,small,cpu,cpu,int8,False,L0,call_01,call,0.2062780269058296,0.07935285053929121,34,4,8,223,0.8,14.04,113.0,0.1243,0,0,
+small_cpu_int8,small,cpu,cpu,int8,False,L0,call_02,call,0.22580645161290322,0.1097770154373928,37,6,6,217,0.6,13.12,98.32,0.1335,0,0,
+small_cpu_int8,small,cpu,cpu,int8,False,L0,call_03,call,0.2804232804232804,0.1598086124401914,38,10,5,189,0.5,11.49,107.37,0.107,0,0,
+small_cpu_int8,small,cpu,cpu,int8,False,L0,call_04,call,0.26605504587155965,0.1394422310756972,43,11,4,218,0.6,12.75,106.86,0.1193,0,0,
+small_cpu_int8,small,cpu,cpu,int8,False,L0,call_05,call,0.2264957264957265,0.11188811188811189,39,10,4,234,0.375,12.92,106.52,0.1213,0,0,
+small_cpu_int8,small,cpu,cpu,int8,False,L0,interview_01,interview,0.1958762886597938,0.09554432705558108,48,12,16,388,0.3333333333333333,20.26,149.27,0.1357,0,0,
+small_cpu_int8,small,cpu,cpu,int8,False,L0,interview_02,interview,0.13411078717201166,0.06666666666666667,26,3,17,343,0.8,19.99,154.9,0.129,0,0,
+small_cpu_int8,small,cpu,cpu,int8,False,L0,interview_03,interview,0.1608832807570978,0.0726379027853632,35,2,14,317,1.0,16.83,133.57,0.126,0,0,
+small_cpu_int8,small,cpu,cpu,int8,False,L0,interview_04,interview,0.409375,0.23705722070844687,52,34,45,320,0.25,17.72,141.42,0.1253,0,0,
+small_cpu_int8,small,cpu,cpu,int8,False,L0,interview_05,interview,0.12256267409470752,0.06244041944709247,28,4,12,359,0.75,20.51,165.74,0.1238,0,0,
+large-v3-turbo_cpu_int8,large-v3-turbo,cpu,cpu,int8,False,L0,call_01,call,0.053811659192825115,0.017719568567026195,5,3,4,223,1.0,28.75,113.0,0.2544,0,0,
+large-v3-turbo_cpu_int8,large-v3-turbo,cpu,cpu,int8,False,L0,call_02,call,0.11981566820276497,0.05574614065180103,15,3,8,217,0.4,29.06,98.32,0.2956,0,0,
+large-v3-turbo_cpu_int8,large-v3-turbo,cpu,cpu,int8,False,L0,call_03,call,0.1111111111111111,0.06124401913875598,13,1,7,189,0.5,27.86,107.37,0.2595,0,0,
+large-v3-turbo_cpu_int8,large-v3-turbo,cpu,cpu,int8,False,L0,call_04,call,0.0779816513761468,0.04302788844621514,12,1,4,218,0.6,28.11,106.86,0.263,0,0,
+large-v3-turbo_cpu_int8,large-v3-turbo,cpu,cpu,int8,False,L0,call_05,call,0.14102564102564102,0.08158508158508158,19,11,3,234,0.625,29.06,106.52,0.2729,0,0,
+large-v3-turbo_cpu_int8,large-v3-turbo,cpu,cpu,int8,False,L0,interview_01,interview,0.06958762886597938,0.032613688562241616,12,5,10,388,1.0,43.15,149.27,0.2891,0,0,
+large-v3-turbo_cpu_int8,large-v3-turbo,cpu,cpu,int8,False,L0,interview_02,interview,0.08454810495626822,0.05435897435897436,9,3,17,343,1.0,43.13,154.9,0.2784,0,0,
+large-v3-turbo_cpu_int8,large-v3-turbo,cpu,cpu,int8,False,L0,interview_03,interview,0.06309148264984227,0.030038230475150193,12,0,8,317,1.0,36.83,133.57,0.2757,0,0,
+large-v3-turbo_cpu_int8,large-v3-turbo,cpu,cpu,int8,False,L0,interview_04,interview,0.06875,0.023978201634877384,14,4,4,320,0.75,36.13,141.42,0.2555,0,0,
+large-v3-turbo_cpu_int8,large-v3-turbo,cpu,cpu,int8,False,L0,interview_05,interview,0.04735376044568245,0.03145853193517636,7,2,8,359,0.75,48.87,165.74,0.2949,0,0,
+large-v3_cpu_int8,large-v3,cpu,cpu,int8,False,L0,call_01,call,0.02242152466367713,0.006933744221879815,3,0,2,223,1.0,51.02,113.0,0.4515,0,0,
+large-v3_cpu_int8,large-v3,cpu,cpu,int8,False,L0,call_02,call,0.09216589861751152,0.048027444253859346,15,2,3,217,0.8,49.33,98.32,0.5018,0,0,
+large-v3_cpu_int8,large-v3,cpu,cpu,int8,False,L0,call_03,call,0.07407407407407407,0.02583732057416268,11,0,3,189,0.75,45.21,107.37,0.4211,0,0,
+large-v3_cpu_int8,large-v3,cpu,cpu,int8,False,L0,call_04,call,0.0963302752293578,0.05737051792828685,11,4,6,218,0.8,52.13,106.86,0.4878,0,0,
+large-v3_cpu_int8,large-v3,cpu,cpu,int8,False,L0,call_05,call,0.1282051282051282,0.05982905982905983,22,4,4,234,0.75,56.21,106.52,0.5277,0,0,
+large-v3_cpu_int8,large-v3,cpu,cpu,int8,False,L0,interview_01,interview,0.04896907216494845,0.028020211299954065,7,6,6,388,1.0,84.87,149.27,0.5685,0,0,
+large-v3_cpu_int8,large-v3,cpu,cpu,int8,False,L0,interview_02,interview,0.03498542274052478,0.018461538461538463,5,3,4,343,0.8,85.54,154.9,0.5523,0,0,
+large-v3_cpu_int8,large-v3,cpu,cpu,int8,False,L0,interview_03,interview,0.05993690851735016,0.03713817586018569,9,4,6,317,1.0,77.46,133.57,0.5799,0,0,
+large-v3_cpu_int8,large-v3,cpu,cpu,int8,False,L0,interview_04,interview,0.05,0.020708446866485014,9,3,4,320,1.0,74.9,141.42,0.5296,0,0,
+large-v3_cpu_int8,large-v3,cpu,cpu,int8,False,L0,interview_05,interview,0.0584958217270195,0.041468064823641564,8,3,10,359,0.75,95.15,165.74,0.5741,0,0,

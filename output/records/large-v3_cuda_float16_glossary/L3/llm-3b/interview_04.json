@@ -1,0 +1,53 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "Hola, gracias por acceder al Playlist. Para empezar, ¿me pueden describir su perfil, por favor? Hola, soy diseñador y tengo 10 años de experiencia. Empecé haciendo páginas web para un pequeño negocio, seguido por una especialización de experiencia de usuario. Actualmente, bueno, mi último puesto es líder de diseño UX en una startup de educación. ¿Y con qué personas tienes cargo? Un equipo de cuatro diseñadores, dos encargados de la móvil y dos de la plataforma web. ¿Y qué herramientas usan? Para diseñar usamos el Figma y como también hago prototipos con código, trabajo con React y TypeScript. Eso me ayuda mucho a desarrollar el mismo idioma que los desarrolladores. Ok, ¿y cómo mides que un sistema funciona? Como pruebas de usuario y con métricas. Por ejemplo, rediseñamos el registro de álbumes que tenían muchos pasos y la tasa de abandono bajó casi a la mitad. ¿Y cómo respondes con un gerente sobre un diseño? Trato de no escuchar tus opiniones, pero puedo probar las dos versiones con ser reales y que los datos coincidan. Muy bien. Ustedes prefieren presentar a quien se caspe. ¿Cómo te sientes con un inglés? Bien. Tengo un inglés avanzado representado en dos conferencias internacionales. Excelente. ¿Qué motiva esta publicación? Me interesa que el producto lo diseñen de personas y que el equipo de diseño todavía se esté formando. Me gustaría construir equipos. Perfecto, y en el contrato médico, ¿qué tienes como beneficio? Hoy gano un poco menos, pero por la posibilidad de puestos estoy buscando dos emisores Entendido, ¿y cuándo puedes empezar? Mi contrato me pide un mes de preaviso si te podría empezar en un mes Perfecto, eso nos acomoda, ¿tienes alguna otra pregunta? Sí, ¿el equipo de diseño ya existe o habría que hablarlo de hacer? Muchas gracias. Vamos a encontrarte.",
+ "fields": {
+  "anios_experiencia": 10,
+  "ultimo_puesto": "Líder de diseño UX",
+  "tecnologias": [
+   "Figma",
+   "React",
+   "TypeScript"
+  ],
+  "pretension_salarial": 0,
+  "disponibilidad": {
+   "texto": "un mes",
+   "fecha": "2026-12-01"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "verified": {
+  "anios_experiencia": 10,
+  "pretension_salarial": "sin_verificar",
+  "ultimo_puesto": "Líder de diseño UX",
+  "tecnologias": [
+   "Figma",
+   "React",
+   "TypeScript"
+  ],
+  "disponibilidad": {
+   "texto": "un mes",
+   "fecha": "2026-12-01"
+  },
+  "nivel_ingles": "avanzado"
+ },
+ "validation": null,
+ "device": "cuda",
+ "elapsed": {
+  "asr": 8.59,
+  "extraction": 3.29,
+  "total": 3.29
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 141.42,
+  "rtf": 0.0608,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

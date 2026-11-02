@@ -1,0 +1,85 @@
+{
+ "task": "call",
+ "method": "llm",
+ "transcript": "tres pizzeria la buena masa buenas noches le habla carlos que le gustaria pedir hola buenas noches todavia estan atendiendo delivery si claro atendemos hasta las once perfecto queria dos pizzas americanas medianas muy bien la americana mediana esta a treinta y dos soles cada una algo mas si una gaseosa de litro y medio la gaseosa esta a nueve soles la quiere helada si helada por favor ah espera espera mejor que una de las pizzas sea familiar porque somos mas de lo que pensaba o sea una americana mediana y una americana familiar ok entonces quedan una americana mediana a treinta y dos y una americana familiar a cuarenta y cinco soles mas la gaseosa exacto hay alguna promocion hoy hoy el delivery es gratis no se cual es el envio daniel cuanto demora mas o menos unos cuarenta minutos depende del trafico a que direccion enviamos avenida arequipa mil cuatrocientos cincuenta departamento trescientos dos le repito avenida arequipa mil cuatrocientos cincuenta departamento trescientos seis alguna referencia es un edificio gris al costado de una farmacion perfecto y como va a pagar con yape muy bien repaso el numero cuando llegue el motorizado entonces serian ochenta y dos soles en total ok listo su pedido ya esta en preparacion gracias por llamar a la buena masa gracias a ti hasta luego",
+ "fields": {
+  "items": [
+   {
+    "producto": "americana mediana",
+    "cantidad": 1,
+    "precio_unitario": 32
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 1,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "delivery gratis",
+   "descuento": 0
+  },
+  "direccion_entrega": "avenida Arequipa mil cuatrocientos cincuenta departamento trescientos seis",
+  "metodo_pago": "yape",
+  "total_dicho": 82
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "americana mediana",
+    "cantidad": 1,
+    "precio_unitario": 32
+   },
+   {
+    "producto": "americana familiar",
+    "cantidad": 1,
+    "precio_unitario": 45
+   },
+   {
+    "producto": "gaseosa 1.5 L",
+    "cantidad": 1,
+    "precio_unitario": 9
+   }
+  ],
+  "promocion": {
+   "descripcion": "delivery gratis",
+   "descuento": 0
+  },
+  "direccion_entrega": "avenida Arequipa mil cuatrocientos cincuenta departamento trescientos seis",
+  "metodo_pago": "yape",
+  "total_dicho": 82
+ },
+ "validation": {
+  "subtotal": 86,
+  "descuento": 0,
+  "total_calculado": 86,
+  "total_dicho": 82,
+  "confianza_total_asr": null,
+  "precios_distintos_al_menu": [],
+  "estado": "no_cuadra",
+  "diagnostico": "error_hablante",
+  "motivo": "La transcripción es confiable: se dijo 82 pero la suma da 86."
+ },
+ "device": "n/a",
+ "elapsed": {
+  "asr": 0,
+  "extraction": 16.6,
+  "total": 16.6
+ },
+ "error": null,
+ "asr": {
+  "model": "reference",
+  "compute_type": null,
+  "glossary": null,
+  "audio_seconds": null,
+  "rtf": null,
+  "vram_model_mb": 0,
+  "vram_peak_extra_mb": 0,
+  "gpu_name": null
+ }
+}

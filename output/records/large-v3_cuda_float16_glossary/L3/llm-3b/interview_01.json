@@ -1,0 +1,53 @@
+{
+ "task": "interview",
+ "method": "llm",
+ "transcript": "Buenos días, gracias por conectarte. ¿Me escuchas bien? Sí, perfecto, buenos días. Gracias por la oportunidad. Me gustaría que pudieras hablar unos minutos antes de empezar, para no olvidarlo. Bueno, señor Alessandro, ¿cuánto se paga en el mercado para puestos parecidos? Estoy buscando alrededor de 6.500 soles mensuales. Ya, perfecto. Ahora sí, suena un poco sorpresivo. Claro. Estudié estadística en la universidad y empecé haciendo prácticas en un banco en el área de riesgos. Al terminar las prácticas me contrataron y desde ahí no he parado. Ya llevo cuatro años y medio trabajando con datos. ¿Y en dónde has estado trabajando ahora? Un último paso es analista de datos de dinero en una empresa de retail. Somos un equipo que tiene otras personas y vemos todos los reportes de ventas y el inventario de todas las ciencias. ¿Y cuáles son tus usos en el día a día? Principalmente Python para limpiar y cruzar datos, SQL para sacar información de la base de datos y Power BI para armar los tableros que hay en los gerentes. ¿Me podrías comentar un poco de un proyecto de arquitectura industrial? Sí, agarró un planero que mostró a qué tiendas se iban a crear su stock antes del fin de semana. Antes eso se realizaba a mano, tienda por tienda. Cuando el problema de los encargados podían pedir mercadería a tiempo y regresemos los que eran stock como en un 20%. ¿Y qué fue lo más difícil del proyecto? Convencer a la gente a usarlo, la verdad. Al principio nadie lo había, así que tuve que ir a explicarlo en las reuniones semanales. Ok, entiendo. ¿Y por qué quieres cambiar de trabajo? Siento que ya aprendí lo que podía ahí y quiero trabajar en algo más analítico con modelos predictivos y no solo hacer reportes. Ok, y si todo sale bien, ¿cuánto podrías empezar? ¿Cómo te crees? Tendría que avisar mi trabajo actual y dejar todo ordenado, así que podría empezar en dos semanas. Perfecto. ¿Cómo se logra? ¿Cómo se funde? ¿Y el intermedio? Le hago documentación técnica sin problema, pero hablando todavía me falta práctica. Muy bien, gracias por el... te contestamos las obligaciones que también mencionaste. Muchas gracias.",
+ "fields": {
+  "anios_experiencia": 4.5,
+  "ultimo_puesto": "Analista de datos de dinero",
+  "tecnologias": [
+   "Python",
+   "SQL",
+   "Power BI"
+  ],
+  "pretension_salarial": 6500,
+  "disponibilidad": {
+   "texto": "en dos semanas",
+   "fecha": "2026-11-15"
+  },
+  "nivel_ingles": "intermedio"
+ },
+ "verified": {
+  "anios_experiencia": 4.5,
+  "pretension_salarial": 6500,
+  "ultimo_puesto": "Analista de datos de dinero",
+  "tecnologias": [
+   "Python",
+   "SQL",
+   "Power BI"
+  ],
+  "disponibilidad": {
+   "texto": "en dos semanas",
+   "fecha": "2026-11-15"
+  },
+  "nivel_ingles": "intermedio"
+ },
+ "validation": null,
+ "device": "cuda",
+ "elapsed": {
+  "asr": 9.98,
+  "extraction": 3.69,
+  "total": 3.69
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 149.27,
+  "rtf": 0.0668,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}

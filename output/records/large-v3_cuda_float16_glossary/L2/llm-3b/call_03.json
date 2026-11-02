@@ -1,0 +1,81 @@
+{
+ "task": "call",
+ "method": "llm",
+ "transcript": "Pizzería La Buena Masa, le saluda Andrea, ¿qué desea? Hola Andrea, quería saber ¿qué promociones tienen hoy? Hoy es martes, así que la segunda pizza está a la mitad de precio. Ah, que bien, entonces quiero dos pizzas hawaianas medianas. La hawaiana mediana es a 30 y cuantos soles, y la segunda le sale a la mitad de precio. Perfecto. ¿Tienen postres? Sí, tenemos un brownie de 10 soles. Tiene tibio y con un poco de fudge. Suena bien. Dos brownies, por favor. Anotado. Dos pobollanas medianas y dos brownies. ¿Alguna bebida? No, gracias. Tengo en casa. Muy bien. ¿Cuál es la dirección de la entrega? ¿Qué hay en los PIN 278 en Miraflores? Ok, ¿qué hay en los PIN 278? ¿Algún dato de referencia? Es una casa blanca con portón negro frente a un parque Perfecto, ¿cómo se desea pagar? Con tarjeta, por favor, que lleven el POS Claro, el repartidor lleva el post, su total sería $76,000. Ok, perfecto, ¿en cuánto tiempo llega? En unos 35 minutos. Genial, muchas gracias. Gracias a usted, que tenga buenas noches. Igualmente, chao.",
+ "fields": {
+  "items": [
+   {
+    "producto": "hawaiana mediana",
+    "cantidad": 2,
+    "precio_unitario": 34
+   },
+   {
+    "producto": "brownie",
+    "cantidad": 2,
+    "precio_unitario": 10
+   }
+  ],
+  "promocion": {
+   "descripcion": "segunda pizza a mitad de precio",
+   "descuento": 10
+  },
+  "direccion_entrega": "casa blanca con portón negro frente a un parque",
+  "metodo_pago": "tarjeta",
+  "total_dicho": 760
+ },
+ "verified": {
+  "items": [
+   {
+    "producto": "hawaiana mediana",
+    "cantidad": 2,
+    "precio_unitario": 34
+   },
+   {
+    "producto": "brownie",
+    "cantidad": 2,
+    "precio_unitario": 10
+   }
+  ],
+  "promocion": {
+   "descripcion": "segunda pizza a mitad de precio",
+   "descuento": 10
+  },
+  "direccion_entrega": "casa blanca con portón negro frente a un parque",
+  "metodo_pago": "tarjeta",
+  "total_dicho": "sin_verificar"
+ },
+ "validation": {
+  "subtotal": 88,
+  "descuento": 10,
+  "total_calculado": 78,
+  "total_dicho": "sin_verificar",
+  "confianza_total_asr": 0.565,
+  "precios_distintos_al_menu": [
+   {
+    "producto": "hawaiana mediana",
+    "dicho": 30,
+    "menu": 34
+   }
+  ],
+  "estado": "sin_total",
+  "diagnostico": "error_asr",
+  "motivo": "El total dicho no se pudo leer en la transcripción."
+ },
+ "device": "cuda",
+ "elapsed": {
+  "asr": 6.02,
+  "extraction": 4.27,
+  "total": 4.28
+ },
+ "error": null,
+ "asr": {
+  "model": "large-v3",
+  "compute_type": "float16",
+  "glossary": true,
+  "audio_seconds": 107.37,
+  "rtf": 0.056,
+  "vram_model_mb": 3744,
+  "vram_peak_extra_mb": 224,
+  "gpu_name": "NVIDIA GeForce RTX 5050 Laptop GPU"
+ }
+}
